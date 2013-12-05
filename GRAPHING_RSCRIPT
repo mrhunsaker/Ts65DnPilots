@@ -47,9 +47,6 @@ boxplot(ladder$Ladder_RAW~ladder$groups,main="Rung Walk Task",ylab="Number of Fo
 boxplot(ladder$Ladder_ADJUSTED~ladder$groups,main="Rung Walk Task (Adjusted)",ylab="Probability of Foot Slip / Step",col=c("Pink","LightBlue"))
 quartz()
 
-
-
-
 ##Cheeseboard###
 ##########################
 ##########################
@@ -102,6 +99,7 @@ plot(response_test$Ts65Dn.7,type="o",ylab="Choice (1=Reverse, 0= Perseverate)", 
 plot(response_test$Ts65Dn.8,type="o",ylab="Choice (1=Reverse, 0= Perseverate)", xlab="Trial #",main="Ts65Dn Subject 9",col="lightblue")
 plot(response_test$Ts65Dn.9,type="o",ylab="Choice (1=Reverse, 0= Perseverate)", xlab="Trial #",main="Ts65Dn Subject 10",col="lightblue")
 mtext("Reversal Learning Test Performance",side=3,outer=T,cex=1.75,line=2)
+quartz()
 
 #####Reversal##########
 ###Changepoints##########
@@ -113,7 +111,7 @@ boxplot(response_factors$response_changeponts~response_factors$group, ylab="Cumu
 boxplot(response_factors$response_perseverative~response_factors$group, ylab="Perseverative Errors in 1st 20 Trials",xlab="Group", main="Perseverative Errors", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
 boxplot(response_factors$response_regressive~response_factors$group, ylab="Regressive Errors",xlab="Group", main="Regressive Errors", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
 mtext("Reversal Learning Test Performance",side=3,outer=T,cex=1.75,line=2)
-Status API Training Shop Blog About © 2013 GitHub, Inc. Terms Privacy Security Contact 
+quartz()
 
 ##Capellini Handling###
 ##########################
