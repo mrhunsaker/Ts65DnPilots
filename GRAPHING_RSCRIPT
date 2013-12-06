@@ -129,5 +129,27 @@ boxplot(capellini$Atypical_Mouth_Pull~capellini$GROUP, ylab="Number of Mouth Pul
 boxplot(capellini$Sum_Atypical~capellini$GROUP, ylab="Total of Atypical Behaviors",xlab="Group", col=c("Pink","Lightblue"))
 mtext("Capellini handling Test",side=3,outer=T,cex=1.2,line=2)
 quartz()
+
+###Nesting########
 #########################
+e=getURL("https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Data/Nesting.csv")
+nesting<-read.csv(text=e,head=TRUE, sep=",")
+par(mfrow=c(1,3))
+par(oma=c(4,4,4,4))
+boxplot(nesting$latency_contact~nesting$group, ylab="Latency to Contact",xlab="Group", main="Contact with Nest Tube", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
+boxplot(nesting$latency_dig~nesting$group, ylab="Latency to Start Digging",xlab="Group", main="Time to Start Digging", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
+boxplot(nesting$latency_finish~nesting$group, ylab="Latecy to Finish Nest",xlab="Group", main="Time to Finish Nest", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
+mtext("Nesting",side=3,outer=T,cex=1.75,line=2)
+quartz()
+
+###Anxiety########
 #########################
+f=getURL("https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Data/Hyponeophagia.csv")
+neophagia<-read.csv(text=f,head=TRUE, sep=",")
+par(mfrow=c(1,3))
+par(oma=c(4,4,4,4))
+boxplot(neophagia$latency_novelfood~neophagia$group, ylab="Latency to Contact",xlab="Group", main="Novel Food, Familiar Location", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
+boxplot(neophagia$latency_novelenvironment~neophagia$group, ylab="Latency to Contact",xlab="Group", main="Familiar Food, Novel Location", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
+boxplot(neophagia$latency_both~neophagia$group, ylab="Latency to Contact",xlab="Group", main="Novel Foor, Novel Location", col=c("Pink","Lightblue"),par(lwd=2,cex.axis=1.25,cex.lab=1.25,cex.main=1.75))
+mtext("Neophagia",side=3,outer=T,cex=1.75,line=2)
+quartz()
