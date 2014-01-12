@@ -2,28 +2,14 @@ omnibus<-cbind(spatiotemporal$GROUP, spatiotemporal$METRIC_CLEAR,spatiotemporal$
 
 colnames(omnibus)<-c("GROUP","METRIC_CLEAR","METRIC_RED","TOPOLOGICAL_CLEAR","TOPOLOGICAL_RED","LOCREC_CLEAR","LOCREC_RED","OBJECTREC_CLEAR","OBJECTREC_RED","NOVEL_CLEAR","NOVEL_RED","TEMPORAL_CLEAR","TEMPORAL_RED","SPONTANEOUS_ALTERNATION","CAPELLINI_LATENCY","CAPELLINI_ATYPICAL_PAW_TOGETHER","CAPELLINI_ATYPICAL_NOCONTACT","CAPELLINI_ATYPICAL_MOUTH_PULL","CAPELLINI_SUM_ATYPICAL","NESTING_LATENCY_CONTACT","NESTING_LATENCY_DIG","NESTING_LATENCY_FINISH","RESPONSE_FACTORS_RESPONSE_CHANGEPOINTS","RESPONSE_FACTORS_RESPONSE_PERSEVERATIVE","RESPONSE_FACTORS_RESPONSE_REGRESSIVE","NEOPHAGIA_LATENCY_NOVELFOOD","NEOPHAGIA_LATENCY_NOVELENVIRONENT","NEOPHAGIA_LATENCY_BOTH")
 
+rownames(omnibus)<-c("2N_1","2N_2","2N_3","2N_4","2N_5","2N_6","2N_7","2N_8","2N_9","2N_0","Ts65Dn_1","Ts65Dn_2","Ts65Dn_3","Ts65Dn_4","Ts65Dn_5","Ts65Dn_6","Ts65Dn_7","Ts65Dn_8","Ts65Dn_9","Ts65Dn_0")
+
 ##########################################################################################
 
-plot.PCA(fit, axes = c(1, 2), choix = "var",
-        ellipse = NULL, xlim = NULL, ylim = NULL, habillage="none",
-        col.hab = NULL, col.ind="black", col.ind.sup="blue",
-        col.quali="magenta", col.quanti.sup="blue", col.var=palette(rainbow(7)),
-        label = c("all","none","ind","ind.sup","quali","var","quanti.sup"),
-    invisible = c("none","ind","ind.sup","quali","var","quanti.sup"),
-        lim.cos2.var = 0., title = "Principal Component Analysis of Ts65Dn Task Battery", palette=palette(rainbow(7)),
-        autoLab = "yes", new.plot = FALSE, select = NULL,
-    unselect = 0.7, shadowtext = FALSE,cex=0.5)
-    
-plot.PCA(fit, axes = c(1, 2), choix = "ind",
-        ellipse = TRUE, xlim = NULL, ylim = NULL, habillage="none",
-        col.hab = NULL, col.ind="black", col.ind.sup="blue",
-        col.quali="magenta", col.quanti.sup="blue", col.var=palette(rainbow(7)),
-        label = c("all","none","ind","ind.sup","quali","var","quanti.sup"),
-    invisible = c("none","ind","ind.sup","quali","var","quanti.sup"),
-        lim.cos2.var = 0., title = "Principal Component Analysis of Ts65Dn Task Battery", palette=palette(rainbow(7)),
-        autoLab = "yes", new.plot = FALSE, select = NULL,
-    unselect = 0.7, shadowtext = FALSE,cex=0.5)
-
+plot.PCA(fit, axes = c(1, 2), choix = "var",ellipse = NULL, xlim = NULL, ylim = NULL, habillage="none",col.hab = NULL, col.ind="black", col.ind.sup="blue",col.quali="magenta", col.quanti.sup="blue", col.var=palette(rainbow(7)),label = c("all","none","ind","ind.sup","quali","var","quanti.sup"),invisible = c("none","ind","ind.sup","quali","var","quanti.sup"),lim.cos2.var = 0., title = "Principal Component Analysis of Ts65Dn Task Battery", palette=palette(rainbow(27)),autoLab = "yes", new.plot = FALSE, select = NULL,unselect = 0.7, shadowtext = FALSE,cex=0.5)
+quartz()
+plot.PCA(fit, axes = c(1, 2), choix = "ind",ellipse = NULL, xlim = NULL, ylim = NULL, habillage="none",col.hab = NULL, col.ind=palette(rainbow(27)), col.ind.sup="blue",col.quali="magenta", col.quanti.sup="blue", col.var=palette(rainbow(7)),label = c("all","none","ind","ind.sup","quali","var","quanti.sup"),invisible = c("none","ind","ind.sup","quali","var","quanti.sup"),lim.cos2.var = 0., title = "Principal Component Analysis of Ts65Dn Task Battery", palette=palette(rainbow(27)),autoLab = "yes", new.plot = FALSE, select = NULL,unselect = 0.7, shadowtext = FALSE,cex=1.5)
+quartz()
 ##########################################################################################
 
 Results:
