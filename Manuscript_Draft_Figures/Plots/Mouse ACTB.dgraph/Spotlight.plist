@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>Response Acquisition
+2N Control
+Ts65Dn
+Percent Correct
+Blocks of 20 Trials
+
+2N Control
+Ts65Dn
+Cumulative Performance
+Trial #
+Reversal Learning - All Datapoints
+
+Reversal - Changepoints
+Reversal - Perseverative Errors
+Reversal - Regressive Errors
+2N Control
+Ts65Dn
+Changepoint
+Number
+Number
+
+Spontaneous Alternation
+2N Control
+Ts65Dn
+Percent of Trials with Alternations
+
+Coordinate Spatial Processing
+No Distal Cues
+Distal Cues
+Categorical Spatial Processing
+No Distal Cues
+Distal Cues
+2N Control
+Ts65Dn
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+
+Object Recognition - 1 hr
+No Distal Cues
+Distal Cues
+Object Recognition - 24 hr
+No Distal Cues
+Distal Cues
+2N Control
+Ts65Dn
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+
+Temporal Ordering
+No Distal Cues
+Distal Cues
+Novelty Detection
+No Distal Cues
+Distal Cues
+2N Control
+Ts65Dn
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+
+Feature Ambiguity
+No Distal Cues
+Distal Cues
+Location Recognition
+No Distal Cues
+Distal Cues
+2N Control
+Ts65Dn
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+
+Parallel Rung Walk
+Adjusted Parallel Rung Walk
+2N Control
+Ts65Dn
+Total Foot Slips
+Foot Slip / Step
+
+Neophagia - Novel Food
+Neophagia - Novel Environ
+Neophagia - Novel Food &amp; Environ
+2N Control
+Ts65Dn
+Latency (s)
+Latency (s)
+Latency (s)
+
+Nesting - First Contact
+Nesting - First Dig
+Nesting - Complete Nest
+2N Control
+Ts65Dn
+Latency (s)
+Latency (s)
+Latency (s)
+
+Capellini - Paws Together
+Capellini - Paw Loses Contact
+Capellini - Mouth Pull
+2N Control
+Ts65Dn
+Number
+Number
+Number
+
+Capellini - Latency to Eat
+Capellini - Total Atypical
+2N Control
+Ts65Dn
+Latency (s)
+Number
+
+Latency to Reward
+Percent Latency to Reward
+2N Control
+Ts65Dn
+Latency (s)
+Percent Day 1
+Blocks of 4 Trials
+
+Distance to Reward
+Percent Distance to Reward
+2N Control
+Ts65Dn
+Distance (cm)
+Percent Day 1
+Blocks of 4 Trials
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>
