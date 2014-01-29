@@ -24,53 +24,53 @@
 
 ####Cheeseboard
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Cheeseboard.png)
+![Cheeseboard](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Cheeseboard.png?raw=TRUE)
 
 ####Metric / Coordinate Processing
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Clear_Metric.png)
+![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Metric.png?raw=TRUE)
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Red_Metric.png)
+![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Metric.png?raw=TRUE)
 
 ####Topological / Categorical Processing
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Clear_Topological.png)
+![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Topological.png?raw=TRUE)
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Red_Topological.png)
+![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Topological.png?raw=TRUE)
 
 ####Location Recognition
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Clear_LocationRecognition.png)
+![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_LocationRecognition.png?raw=TRUE)
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Red_LocationRecognition.png)
+![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_LocationRecognition.png?raw=TRUE)
 
 ##Temporal
 
 ####Temporal Ordering for Visual Objects
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Clear_TemporalOrdering.png)
+![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_TemporalOrdering.png?raw=TRUE)
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Red_TemporalOrdering.png)
+![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_TemporalOrdering.png?raw=TRUE)
 
 ####Novelty Detection for Visual Objects
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Clear_NoveltyDetection.png)
+![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_NoveltyDetection.png?raw=TRUE)
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Red_NoveltyDetection.png)
+![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_NoveltyDetection.png?raw=TRUE)
 
 ##Sensory/Perceptual
 
 ####Feature Ambiguity
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Clear_Ambiguity.png)
+![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity.png?raw=TRUE)
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Red_Ambiguity.png)
+![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity.png?raw=TRUE)
 
 ####Object Recognition
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Clear_ObjectRecognition.png)
+![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_ObjectRecognition.png?raw=TRUE)
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Diagrams/Red_ObjectRecognition.png)
+![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_ObjectRecognition.png?raw=TRUE)
 
 #####Short (1 hr) Delay
 
@@ -113,41 +113,41 @@
 
 ####Cheeseboard
 
-![Cheeseboard Latency](/Users/marlys/Desktop/Draft_Figures/Plots/Cheeseboard_Latency.pdf)
+![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_Latency.pdf?raw=TRUE)
 
-![Cheeseboard Distance](/Users/marlys/Desktop/Draft_Figures/Plots/Cheeseboard_Distance.pdf)
+![Cheeseboard Distance](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_Distance.pdf?raw=TRUE)
 
 ####Metric / Coordinate Processing
 
-![Coordinate](/Users/marlys/Desktop/Draft_Figures/Plots/CategoricalCoordinate.pdf)
+![Coordinate](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
 ####Topological / Categorical Processing
 
-![Categorical](/Users/marlys/Desktop/Draft_Figures/Plots/CategoricalCoordinate.pdf)
+![Categorical](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
 ####Location Recognition
 
-![Location Recognition](/Users/marlys/Desktop/Draft_Figures/Plots/LocRec_Ambiguity.pdf)
+![Location Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec_Ambiguity.pdf?raw=TRUE)
 
 ##Temporal
 
 ####Temporal Ordering for Visual Objects
 
-![Temporal Ordering](/Users/marlys/Desktop/Draft_Figures/Plots/TempOrder.pdf)
+![Temporal Ordering](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/TempOrder.pdf?raw=TRUE)
 
 ####Novelty Detection for Visual Objects
 
-![Novelty Detection](/Users/marlys/Desktop/Draft_Figures/Plots/TempOrder.pdf)
+![Novelty Detection](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/TempOrder.pdf?raw=TRUE)
 
 ##Sensory/Perceptual
 
 ####Feature Ambiguity
 
-![Feature Ambiguity](/Users/marlys/Desktop/Draft_Figures/Plots/LocRec_Ambiguity.pdf)
+![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec_Ambiguity.pdf?raw=TRUE)
 
 ####Object Recognition
 
-![Object Recognition](/Users/marlys/Desktop/Draft_Figures/Plots/ObjectRec.pdf)
+![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ObjectRec.pdf?raw=TRUE)
 
 #####Short (1 hr) Delay
 
@@ -159,17 +159,17 @@
 
 ####Spontaneous Alternation
 
-![Spontaneous Alternation](/Users/marlys/Desktop/Draft_Figures/Plots/ApontaneousAlternation.pdf)
+![Spontaneous Alternation](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ApontaneousAlternation.pdf?raw=TRUE)
 
 ####Response Learning
 
-![Response learning](/Users/marlys/Desktop/Draft_Figures/Plots/ResponseAcquisition.pdf)
+![Response learning](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ResponseAcquisition.pdf?raw=TRUE)
 
 ####Reversal Learning
 
-![Reversal Raw](/Users/marlys/Desktop/Draft_Figures/Plots/Reversal_RAW.pdf)
+![Reversal Raw](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Reversal_RAW.pdf?raw=TRUE)
 
-![Reversal Processed](/Users/marlys/Desktop/Draft_Figures/Plots/Reversal_Factors.pdf)
+![Reversal Processed](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Reversal_Factors.pdf?raw=TRUE)
 
 ---
 
@@ -177,13 +177,13 @@
 
 ####Capellini Handling
 
-![Capellini latency](/Users/marlys/Desktop/Draft_Figures/Plots/Capellini_Latency.pdf)
+![Capellini latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Capellini_Latency.pdf?raw=TRUE)
 
-![Capellini Errors](/Users/marlys/Desktop/Draft_Figures/Plots/Capellini_Errors.pdf)
+![Capellini Errors](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Capellini_Errors.pdf?raw=TRUE)
 
 ####Parallel Rung Walking
 
-![Parallel Rung Walking](/Users/marlys/Desktop/Draft_Figures/Plots/ParallelRung.pdf)
+![Parallel Rung Walking](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ParallelRung.pdf?raw=TRUE)
 
 ---
 
@@ -191,17 +191,17 @@
 
 ####Nesting Behaviors
 
-![Nesting](/Users/marlys/Desktop/Draft_Figures/Plots/Nesting.pdf)
+![Nesting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Nesting.pdf?raw=TRUE)
 
 ####Neophagia
 
-![Neophagia](/Users/marlys/Desktop/Draft_Figures/Plots/Neophagia.pdf)
+![Neophagia](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Neophagia.pdf?raw=TRUE)
 
 ---
 
 ##Principal Component Analysis
 
-![Cheeseboard Figure](/Users/marlys/Desktop/Draft_Figures/Plots/PCA_Tasks.pdf)
+![Cheeseboard Figure](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Tasks.pdf?raw=TRUE)
 
 ---
 
