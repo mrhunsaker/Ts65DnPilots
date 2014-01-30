@@ -47,6 +47,7 @@ Method:
 Each mouse was habituated to the cheeseboard for 30 min the day prior to experimentation with food pellets distributed in each hole. At the beginning of each trial, a sucrose reward pellet was placed in one of the holes of the cheeseboard (in the midpoint of  the North-East, North-West, South-East or South-West quadrant). A mouse was then released at one of the cardinal points (*e.g.,* North, South, East, or West) as latency in seconds and distance in cm covered to reach the reward was recorded. Each day, the mouse received a trial from each of the four cardinal directions (order randomized between mice and between days within mice). There were 5 minutes separating each trial for each mouse. After the fourth day of training, the mice were given a probe trial wherein there was no reward. The search patterns of the mice were evaluated.
 
 ![Cheeseboard](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Cheeseboard.png?raw=TRUE)
+
 *Figure Caption: Layout of the Cheeseboard apparatus in the experimental space. The cheeseboard measured 1 m in diameter and was elevated 1 m from the floor.*
 
 ---
@@ -57,11 +58,13 @@ Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the metric/coordinate test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the objects were moved closer together to an 8 cm separation and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
 
 ![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Metric.png?raw=TRUE)
+
 *Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
 
 ![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Metric.png?raw=TRUE)
+
 *Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
@@ -73,11 +76,13 @@ Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the topological/categorical test, four objects were placed in a square in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the front two objects were transposed, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
 
 ![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Topological.png?raw=TRUE)
+
 *Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
 
 ![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Topological.png?raw=TRUE)
+
 *Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
@@ -89,11 +94,13 @@ Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the location recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was moved at a diagonal to a new location (still 25 cm separation from the other object), and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
 
 ![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_LocationRecognition.png?raw=TRUE)
+
 *Figure Caption: Layout of the Location Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
 
 ![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_LocationRecognition.png?raw=TRUE)
+
 *Figure Caption: Layout of the Location Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
@@ -108,11 +115,13 @@ During session 1, two identical copies of a first object (object 1) were placed 
 
 
 ![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_TemporalOrdering.png?raw=TRUE)
+
 *Figure Caption: Layout of the Temporal Ordering for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
 
 ![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_TemporalOrdering.png?raw=TRUE)
+
 *Figure Caption: Layout of the Temporal ordering for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
@@ -124,11 +133,13 @@ Method:
 In addition to reflecting impaired temporal ordering, increased exploration of the first object over the third could also be interpreted as being due to difficulty in remembering the first object prior to the test session. To minimize and con- trol for such general memory deficits, a novelty detection of visual objects task was performed. Briefly, on a different day mice received three sessions during which they were allowed to explore three novel sets of objects (Objects 4, 5, 6) similarly to the temporal ordering tasks. During the test session, the first object and a novel fourth object (Object 7) were presented and the mice were allowed 5 min to explore.  This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
 
 ![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_NoveltyDetection.png?raw=TRUE)
+
 *Figure Caption: Layout of the Novelty Detection for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
 
 ![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_NoveltyDetection.png?raw=TRUE)
+
 *Figure Caption: Layout of theNovelty Detection for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
@@ -141,9 +152,11 @@ Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min Test Phase in which one object from the Study Phase remained the same (AB) and the other compound object is created from one component of each of the previous familiar objects, (*e.g.*, AD). That is, the “novel” object (AD) is composed of the same elements, but rearranged into a novel configuration. Therefore, the object is “novel” by virtue of its configuration, not by its elements, each of which is present in one of the compound stimuli in the habituation phase.Exploration of each compound object was scored as a single unit. A control task during which CD was replaced by two never before seen objects (EF) was also performed. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
 
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity.png?raw=TRUE)
+
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
+
 *Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
@@ -152,6 +165,7 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity_Control.png?raw=TRUE)
+
 *Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
@@ -163,11 +177,13 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 
 ![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_ObjectRecognition.png?raw=TRUE)
+
 *Figure Caption: Layout of the Object Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
 
 ![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_ObjectRecognition.png?raw=TRUE)
+
 *Figure Caption: Layout of the Object Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
