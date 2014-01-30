@@ -143,10 +143,16 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity.png?raw=TRUE)
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
+![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
+*Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
 ---
 
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity.png?raw=TRUE)
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity_Control.png?raw=TRUE)
+*Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
 
