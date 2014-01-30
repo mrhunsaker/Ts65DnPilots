@@ -8,11 +8,18 @@
 
 #Background & Introduction
 
-##Phenotyping Approach
+##Neuropsychological Aspects of Down Syndrome
 
-##Endophenotyping Approach
+###Phenotyping Approach
 
-##Why Red and Clear Boxes
+##Arizona Cognitive Task Battery
+
+###Phenotyping Approach
+
+###Endophenotyping Approach
+
+####Why Red and Clear Boxes
+
 
 ---
 
@@ -26,23 +33,54 @@
 
 ![Cheeseboard](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Cheeseboard.png?raw=TRUE)
 
+*Figure Caption: Layout of the Cheeseboard apparatus in the experimental space. The cheeseboard measured 1 m in diameter and was elevated 1 m from the floor.*
+
+---
+
 ####Metric / Coordinate Processing
 
 ![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Metric.png?raw=TRUE)
 
+*Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
+
 ![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Metric.png?raw=TRUE)
+
+*Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
+
 
 ####Topological / Categorical Processing
 
 ![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Topological.png?raw=TRUE)
 
+*Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
+
 ![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Topological.png?raw=TRUE)
+
+*Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
+
 
 ####Location Recognition
 
 ![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_LocationRecognition.png?raw=TRUE)
 
+*Figure Caption: Layout of the Location Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
+
 ![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_LocationRecognition.png?raw=TRUE)
+
+*Figure Caption: Layout of the Location Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
+
 
 ##Temporal
 
@@ -50,13 +88,31 @@
 
 ![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_TemporalOrdering.png?raw=TRUE)
 
+*Figure Caption: Layout of the Temporal Ordering for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
+
 ![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_TemporalOrdering.png?raw=TRUE)
+
+*Figure Caption: Layout of the Temporal ordering for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
+
 
 ####Novelty Detection for Visual Objects
 
 ![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_NoveltyDetection.png?raw=TRUE)
 
+*Figure Caption: Layout of the Novelty Detection for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
+
 ![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_NoveltyDetection.png?raw=TRUE)
+
+*Figure Caption: Layout of theNovelty Detection for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
+
 
 ##Sensory/Perceptual
 
@@ -64,13 +120,29 @@
 
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity.png?raw=TRUE)
 
+*Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
+
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity.png?raw=TRUE)
+
+*Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
 
 ####Object Recognition
 
 ![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_ObjectRecognition.png?raw=TRUE)
 
+*Figure Caption: Layout of the Object Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
+
 ![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_ObjectRecognition.png?raw=TRUE)
+
+*Figure Caption: Layout of the Object Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
 
 #####Short (1 hr) Delay
 
@@ -78,7 +150,7 @@
 
 ---
 
-##Executive Function (no figures)
+##Executive Function
 
 ####Spontaneous Alternation
 
@@ -89,7 +161,7 @@
 
 ---
 
-##Motor Function (no figures)
+##Motor Function
 
 ####Capellini Handling
 
@@ -97,7 +169,7 @@
 
 ---
 
-##Adaptive Function (no figures)
+##Adaptive Function
 
 ####Nesting Behaviors
 
@@ -159,7 +231,7 @@
 
 ####Spontaneous Alternation
 
-![Spontaneous Alternation](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ApontaneousAlternation.pdf?raw=TRUE)
+![Spontaneous Alternation](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/SpontaneousAlternation.pdf?raw=TRUE)
 
 ####Response Learning
 
