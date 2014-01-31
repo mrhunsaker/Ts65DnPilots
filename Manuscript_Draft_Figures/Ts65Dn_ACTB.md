@@ -127,7 +127,7 @@ During session 1, two identical copies of a first object (object 1) were placed 
 ---
 
 
-####Novelty Detection for Visual Objects
+####Temporal Order Control: Novelty Detection for Visual Objects
 
 Method:
 In addition to reflecting impaired temporal ordering, increased exploration of the first object over the third could also be interpreted as being due to difficulty in remembering the first object prior to the test session. To minimize and con- trol for such general memory deficits, a novelty detection of visual objects task was performed. Briefly, on a different day mice received three sessions during which they were allowed to explore three novel sets of objects (Objects 4, 5, 6) similarly to the temporal ordering tasks. During the test session, the first object and a novel fourth object (Object 7) were presented and the mice were allowed 5 min to explore.  This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
@@ -155,6 +155,8 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
+
+####Feature Ambiguity Control: Novelty Detection for Configural Objects
 ![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
 
 *Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
@@ -412,6 +414,22 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Residuals             18 0.2136 0.011865
 
 ![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec_Ambiguity.pdf?raw=TRUE)
+
+####Feature Ambiguity Control Task: Novelty Detection for Configural Object
+
+	Ambiguity_Red
+	                      Df Sum Sq Mean Sq F value   Pr(	F)
+	spatiotemporal$GROUPS  1 0.1375 0.3711   34.13 4.8e-05 ***
+	Residuals             18 0.1300 0.00831
+	---
+	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+	##################################################################################
+	Ambiguity_Clear
+	                      Df Sum Sq  Mean Sq F value Pr(	F)
+	spatiotemporal$GROUPS  1 0.0006 0.000099       .381  0.545
+	Residuals             18 0.1721 0.009726
+
 
 ####Object Recognition
 
