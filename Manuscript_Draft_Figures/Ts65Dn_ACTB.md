@@ -69,7 +69,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 ---
 
-
 ####Topological / Categorical Processing
 
 Method:
@@ -87,7 +86,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 ---
 
-
 ####Location Recognition
 
 Method:
@@ -104,7 +102,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 *Figure Caption: Layout of the Location Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ---
-
 
 ##Temporal Attribute
 
@@ -126,7 +123,6 @@ During session 1, two identical copies of a first object (object 1) were placed 
 
 ---
 
-
 ####Temporal Order Control: Novelty Detection for Visual Objects
 
 Method:
@@ -141,7 +137,6 @@ In addition to reflecting impaired temporal ordering, increased exploration of t
 ![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_NoveltyDetection.png?raw=TRUE)
 
 *Figure Caption: Layout of theNovelty Detection for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
-
 
 ##Sensory/Perceptual Attributes
 
@@ -206,8 +201,6 @@ Mice were placed in the stem of a Plus maze with one of the arms blocked off (fo
 Method:
 The day after mice finished training on response learning, they received 80 trials of reversal training. This means that the turn the mice had just learned to make for reward was now incorrect, rather the mice had to make the opposite turn to receive reward.
 
----
-
 ##Motor Function
 
 ####Capellini Handling
@@ -219,7 +212,6 @@ Mice were habituated over a weekend to dried capellini pasts in their cages. Eac
 
 Method:
 Mice were placed in a box measuring 15 cm squared with 1.5 mm diameter parallel rungs making up the floor. The mice were allowed to freely explore the box for 5 minutes. The number of times a paw slipped through the parallel rod floor beyond the wrist or ankle, a "foot slip" error was recorded. The total number of steps were also recorded to use as a normalizing factor.
-
 
 ##Adaptive Function
 
@@ -233,7 +225,6 @@ Sawdust was used to fill a 10 cm long piece of 2" (~5 cm) diameter PVC pipe that
 Method:
 Mice were given three neophagia tests. The first was in their homecage. Each mouse was provided a food they had never encountered (Cheerios cereal) and the latcny to take the first bite was recorded. The second test was each mouse was placed on a large platter in a bright area int he testing room and the latency to take a bite from a reward pellet (familiar food) was recorded. The final test consisted of each mouse being placed in a novel white box and fed a Cheerio that had been stored with thyme overnight, resulting in a novel food. Again, latency to take the first bite was recorded.
 
-
 #Dependent Measures and Statistical Analysis
 
 ##Tests for equal variance and heteroscedasticity.
@@ -243,7 +234,6 @@ Prior to statistical analyses, the data were tested for nor- malcy (Shapiro–Wi
 ##Principal Component Analyses
 
 PCA were run by applying the functions in FacotMineR in R 2.15.
-
 
 #Results
 
@@ -695,13 +685,14 @@ PCA were run by applying the functions in FacotMineR in R 2.15.
 
 ![PCA Task Comparison](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Tasks.pdf?raw=TRUE)
 
-*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Two major components emerges, accounting for 57.76% of the variance. These components seem to be tasks dependent upon MTL structures clustering together and executive + adaptive function components clustering together.*
+*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Two major components emerge, accounting for 57.76% of the variance. These components seem to be tasks dependent upon MTL structures clustering together and executive + motor + adaptive function components clustering together.*
+
+---
 
 ![PCA Sorting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Sorting.pdf?raw=TRUE)
 
-*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Using the components extracted above, all mice were correctly sorted along the primary component.*
+*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Using the components extracted above, all mice were correctly sorted into groups using the primary component. The secondary component accounting for slightly over 9% of the variance failed to sort the groups effetively.*
 
----
 
 #Discussion
 
