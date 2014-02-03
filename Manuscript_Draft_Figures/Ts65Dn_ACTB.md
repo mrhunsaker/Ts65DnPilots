@@ -163,6 +163,7 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 ---
 
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity.png?raw=TRUE)
+
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
 ![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity_Control.png?raw=TRUE)
@@ -237,11 +238,11 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ##Tests for equal variance and heteroscedasticity.
 
-##Parametric Statistics
-
-##FDR Correction after Benjamini et al. 2001
+Prior to statistical analyses, the data were tested for nor- malcy (Shapiro–Wilk test) and homoscedacity (Browne–For- sythe test). To account for any potential effects of order or multiple comparisons arising from performing ANCOVA and correlation analyses on four separate behavioral datasets as well as three plasticity datasets all collected from the same animals, a 3 (group) 3 4 (task) multivariate analysis of covar- iance (MANCOVA) was performed with experiment order and mouse age as covariates. Main effects of the MANCOVA were characterized by individual ANCOVA. All results were considered significant at an alpha < 0.05 and Power (1-beta) < 0.8, and analyses were performed to determine observed power and effect size of all main effects. Statistical analyses were performed in R 2.15. language and environment and statistical power was calculated using both R and the statistical program G*Power 3. All reported p values were adjusted for False Discovery Rate using a custom script written in R 2.15.
 
 ##Principal Component Analyses
+
+PCA were run by applying the functions in FacotMineR in R 2.15.
 
 
 #Results
@@ -252,7 +253,7 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ####Cheeseboard
 
-![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_TRACK.pdf?raw=TRUE)
+![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_TRACK.png?raw=TRUE)
 
 *Figure Caption: Top. 2N wildtype mouse performance on cheeseboard. Bottom. Ts65Dn mouse performance on cheeseboard.*
 
@@ -692,9 +693,13 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ##Principal Component Analysis
 
-![Cheeseboard Figure](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Tasks.pdf?raw=TRUE)
+![PCA Task Comparison](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Tasks.pdf?raw=TRUE)
 
-*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Two major components emerges, accounting for 59.57% of the variance. These components seem to be tasks dependent upon MTL structures clustering together and executive + adaptive function components clustering together.*
+*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Two major components emerges, accounting for 57.76% of the variance. These components seem to be tasks dependent upon MTL structures clustering together and executive + adaptive function components clustering together.*
+
+![PCA Sorting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Sorting.pdf?raw=TRUE)
+
+*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Using the components extracted above, all mice were correctly sorted along the primary component.*
 
 ---
 
