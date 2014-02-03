@@ -8,14 +8,24 @@
 
 ##Neuropsychological Aspects of Down Syndrome
 
-**Need a review of the state of the field at present**
+**Need a review of the state of what is known from studies of subjects with Down Syndrome**
 
 ###Phenotyping Approach
 
-**Mouse models use Water Maze, Spontaneous Alternation, and Novel Object Recognition at present**
+Any discussion concerning the behavioral phenotyping of mouse models of genetic disorders must necessarily begin with a description of what a behavioral phenotype is and what assumptions underly tasks used to evaluate them. In short, behavioral phenotyping quantifies performance of mutant mice across behavioral experiments; and the behavioral performance is related to the clinical population to identify parallels that may exist. The analogy between the phenotype of human genetic disorder and the behavioral phenotype of the mouse model can be expressed as a combination of three factors: face validity, construct or content) validity, and predictive validity.
 
+**Face validity** is the surface similarity between the behavior of the mouse model and the patient on analogous tasks (i.e., does the performance of the mouse and human resemble each other at face value). In other words, if a mouse has to perform a similar response during a task as the patient makes during performance of a similar task, the task shows face validity. Similarly, if the mouse and human behavioral tasks can be intuitively interpreted as being similar, the task shows face validity.
 
-##Arizona Cognitive Task Battery
+**Construct (or content) validity**, so far as the development of behavioral experiments is concerned, refers to the similarity between the behavioral or cognitive domains being tested by a given task in the mouse model and human patient. This means that for tests to show construct validity, the tasks must be designed to directly model specific aspects of the genetic disorder and additionally that performance be subserved by similar neural substrates and/or cognitive process across species. More specifi- cally, the tasks need to be developed to explicitly model the human disorder, not solely rely on creative post hoc interpretations of behavioral performance on general behavioral tasks. One necessity of construct validity is that a basic understanding of the disorder being modeled is required, such that the research is into translating a behavioral phenotype across species, not providing the primary elucidation of any phenotype at all in a model.
+
+**Predictive validity** refers to the utility of a mouse model as a proxy for the patient in studies of disease progression or therapeutic intervention—this can refer to either the endpoints of a behavioral study or the physiology of the model. Although predictive validity is commonly thought of as a characteristic of phenotyping approaches, it is more accurate to state that predictive validity is the quantified endpoint of an adequately
+designed behavioral phenotyping experiment—that is, to define some behavior or set of behaviors that serve as valid outcome measures for later studies. In other words, predictive validity is only present when behavioral performance of the model during a given experiment proves useful for inferring or correlating dosage of a given mutation, disease progression, or treatment outcomes in not only the model, but also the clinical population.
+
+---
+
+Commonly, the selection of behavioral tasks to evaluate a behavioral phenotype emphasizes either a high-throughput battery tasks to determine gross deficits for cognitive function or a limited selection of tasks that roughly assay cognitive processing. There are definite advantages to this approach as it provides a rich array of information from commonly implemented, easily interpreted tasks, but this approach does not explicitly model the behavioral phenotypes of the human disorder being modeled. When a behavioral screening approach becomes essential is for the primary screen for phenotypes in novel mouse disease models. For example, in cases where the mouse model has not been evaluated for gross cognitive function, this process is analogous to initial neuropsychological screens given in the clinic prior to more in depth neurocognitive testing.
+
+##Neurocognitive Testing: Arizona Cognitive Task Battery
 
 **Need a review of the state of the ACTB at present**
 
@@ -26,9 +36,11 @@ There is one clear difference between identifying a behavioral phenotype and ide
 
 The importance of finding a behavioral endophenotype is that if there is a predictable relationship among cognitive performance and gene expression, it can be assumed that the genetic mutation alters behavioral output; and subsequently, some sort of relationship between the two exists. Such a finding not only provides a wealth of information that helps the researcher design future experiments, but also data that are useful as outcome measures for studies of intervention that alter or even potentially mitigate some negative impact of the mutation. If there is a more complex relationship wherein age appears to modulate the relationship between the mutation and behavioral output, then those data serve not only as outcome measures, but if well enough understood, could be potentially useful to define risk prodromes to predict future symptomatology or disease progression.
 
-One reason we proposed underlying the lack of direct applicability of mouse model research for drug discovery is the unfortunate focus on gross phenotypes that may be either at best secondary to the mutation or result from mouse-unique factors that do not scale evolutionarily. Stated more colloquially, it is much easier to cure disease in mice than to translate the murine research into actually curing human disease. The same general paradigm is prevalent in research into sequelae resultant to neurodevelopmental/neurodegenerative genetic diseases. As a scientific community, we have been able to identify and provide *cures* for a wide range mouse models of genetic disorders (*i.e.*, Down Syndrome), but to date these cures have not proven particularly useful for ameliorating symptoms of human genetic disease: often failing or providing only marginal effects during early phase clinical trials. Elucidating behavioral or neurocognitive endophenotypes using tasks designed to test specific disease-related hypotheses is one proposed solution to mitigate this lack of efficacy in the mouse model.
+One reason we propose underlying the lack of direct applicability of mouse model research for drug discovery is the unfortunate focus on gross phenotypes that may be either at best secondary to the mutation or result from mouse-unique factors that do not scale evolutionarily. Stated more colloquially, it is much easier to cure disease in mice than to translate the murine research into actually curing human disease. The same general paradigm is prevalent in research into sequelae resultant to neurodevelopmental/neurodegenerative genetic diseases. As a scientific community, we have been able to identify and provide *cures* for a wide range mouse models of genetic disorders (*i.e.*, Down Syndrome), but to date these cures have not proven particularly useful for ameliorating symptoms of human genetic disease: often failing or providing only marginal effects during early phase clinical trials. Elucidating behavioral or neurocognitive endophenotypes using tasks designed to test specific disease-related hypotheses is one proposed solution to mitigate this lack of efficacy in the mouse model.
 
 For these, as well as many other reasons, research into schizophrenia has forced the field to changed their general approach, and emphasized an endophenotyping approach in the study of prodromal states associated with schizophrenia onset and symptom progression (*e.g.*, focusing research on longitudinal analyses of 22q11.2 deletion populations rather than on *de novo* schizophrenia cases of unknown or poorly understood genetic origin). By focusing on factors that scale with disease or symptom severity, researchers have been able to understand far more about schizophrenia and what may underlie symptom progression than they would otherwise have been able using a standardized, neuropsychological phenotyping approach.
+
+In this study we evaluate propose a clear strategy to efficiently and comprehensively characterize neurobehavioral deficits in the Ts65Dn mouse model of Down Syndrome. This approach uses neurocognitive theory to design and select behavioral tasks that test specific hypotheses concerning the genetic disorder being studied-specifically those proposed as part of the Arizona Cognitive Task Battery (ACTB) used to study human populations with Down Syndrome. This approach extends the utility of mouse models by integrating the expertise of clinical neurology and cognitive neuroscience into the mouse behavioral laboratory. Further, by directly emphasizing the reciprocal translation of research between human disease states and the associated mouse models, we demonstrate is is possible for both groups to mutually inform each other’s research to more efficiently generate hypotheses and elucidate treatment strategies.
 
 #Animals
 
@@ -38,7 +50,7 @@ As detailed by Jackson Laboratory, the segmentally trisomic Ts<sup>(1716)</sup>6
 
 #Behavioral Tasks
 
-The week prior to testing, all animals were handled in 15 min daily sessions and given an opportunity to habituate to the clear or red apparatus for at least 15 min and acclimate to sucrose pellet rewards. Each experimental session was separated by a minimum of 48 hours.
+The week prior to testing, all animals were handled in 15 min daily sessions and given an opportunity to habituate to the clear or red apparatus for at least 15 min and acclimate to sucrose pellet rewards.
 
 ##Spatiotemporal Attributes
 
@@ -235,7 +247,7 @@ Sawdust was used to fill a 10 cm long piece of 2" (~5 cm) diameter PVC pipe that
 Method:
 Mice were given three neophagia tests. The first was in their homecage. Each mouse was provided a food they had never encountered (Cheerios cereal) and the latcny to take the first bite was recorded. The second test was each mouse was placed on a large platter in a bright area int he testing room and the latency to take a bite from a reward pellet (familiar food) was recorded. The final test consisted of each mouse being placed in a novel white box and fed a Cheerio that had been stored with thyme overnight, resulting in a novel food. Again, latency to take the first bite was recorded.
 
-#Dependent Measures and Statistical Analysis
+#Statistical Analysis
 
 ##Tests for equal variance and heteroscedasticity.
 
@@ -706,10 +718,36 @@ PCA were run by applying the functions in FactoMineR in R 3.0.1.
 
 #Discussion
 
-#Implications
+###General Discussion
 
-#Conclusion
+* Mouse ACTB tests same brain regions and cognitive domains as the ACTB designed for use in Down Syndrome subjects
+* Ts65Dn mice show spatiotemporal, motor, executive, and adaptive functioning deficits
+* Ts65Dn Mouse behaviorally phenocopies human subjects with Down Syndrome when given appropriate tasks
+* Mouse version of ACTB can be used to more specifically assess contributions of different brain regions for intellectual disabilities observed in Down Syndrome
+* Mouse ACTB may serve as a Down Syndrome-specific outcome measure for tests of novel therapeutics
+* Potentially use this mouse ACTB to define prodromal states in Ts65Dn mouse for putative Alzheimer's Disease-like phenotypes or progression
 
----
+###Strengths
+
+* None of these tasks require specialized equipment or expertise (accessible to most disease researchers)
+* Behavioral paradigms carefully/specifically optimized to mouse models
+* Contributions of spatial & nonspatial attributes dissociated within each task
+* All but 2 tasks were performed in 2 days or less (high throughput)
+* No aversive components to tasks (*i.e.,* no negative reinforcement or aversive stimulus used to motivate)
+* Can specifically dissect contribution of basic cognitive processes &/or brain areas to performance
+* Previous work has demonstrated these tasks can be repeated for use in longitudinal studies
+
+###Weaknesses
+
+* We are unable to evaluate receptive vs. expressive language in mouse models
+* Ts65Dn mouse model not necessarily best model for Down Syndrome genetics
+
+###Future Directions
+
+* Eugene Yu's 16/17/10 mouse model (best genetic mouse model of Down Syndrome)
+* Single gene studies (*i.e.*, *App*, *Dyrk1*, *pep19/pcp4*, etc. triploid mice)
+* Cell specific genetic models
+* Ultrasonic vocalization studies for linguistic analog
+* Tasks to test affective attributes of memory
 
 #References
