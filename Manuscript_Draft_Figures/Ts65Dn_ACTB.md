@@ -4,7 +4,7 @@
 
 ####University of Utah
 
----
+
 
 #Background & Introduction
 
@@ -12,7 +12,7 @@
 
 ###Phenotyping Approach
 
----
+
 
 ##Arizona Cognitive Task Battery
 
@@ -23,7 +23,7 @@
 #####Spatial Context interfering (*i.e.,* poor DG pattern separation results in catastrophic interference)
 
 
----
+
 
 #Animals
 
@@ -31,7 +31,7 @@ In this study, 10 trisomic male Ts65Dn/DnJ mice and 10 age-matched wild type lit
 
 As detailed by Jackson Laboratory, the segmentally trisomic Ts<sup>(1716)</sup>65Dn mice have three copies of genes at the distal 15% of mouse chromosome 16 and span the region orthologous to genes on human chromosome 21. These extra genes, centromere, and about 5% of proximal mouse chromosome 17 are contained in the small extra chromosome derived from a reciprocal translocation. About 15% of the distal end of mouse chromosome 16 is fused to the centromeric end of chromosome 17 to form the small translocation chromosome. The translocation breaks mouse chromosome 16 just proximal to the amyloid precursor protein (*App*) gene and contains the chromosome 21-homologous genes from *App* to the telomere. The Ts65Dn/DnJ stock, commercially available from Jackson Laboratory, is homozygous for the wild type allele for retinal degeneration. The stock is maintained by repeated backcrossing of Ts65Dn females to B6EiC3H F1 hybrid males derived from a new congenic strain of C3H mice. This new congenic strain (C3Sn.BLiA-Pde6b+) lacks the blindness causing recessive mutant allele.
 
----
+
 
 #Behavioral Tasks
 
@@ -142,7 +142,6 @@ In addition to reflecting impaired temporal ordering, increased exploration of t
 
 *Figure Caption: Layout of theNovelty Detection for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
----
 
 ##Sensory/Perceptual Attributes
 
@@ -188,7 +187,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 *Figure Caption: Layout of the Object Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
 
----
 
 ##Executive Function
 
@@ -221,7 +219,6 @@ Mice were habituated over a weekend to dried capellini pasts in their cages. Eac
 Method:
 Mice were placed in a box measuring 15 cm squared with 1.5 mm diameter parallel rungs making up the floor. The mice were allowed to freely explore the box for 5 minutes. The number of times a paw slipped through the parallel rod floor beyond the wrist or ankle, a "foot slip" error was recorded. The total number of steps were also recorded to use as a normalizing factor.
 
----
 
 ##Adaptive Function
 
@@ -235,7 +232,6 @@ Sawdust was used to fill a 10 cm long piece of 2" (~5 cm) diameter PVC pipe that
 Method:
 Mice were given three neophagia tests. The first was in their homecage. Each mouse was provided a food they had never encountered (Cheerios cereal) and the latcny to take the first bite was recorded. The second test was each mouse was placed on a large platter in a bright area int he testing room and the latency to take a bite from a reward pellet (familiar food) was recorded. The final test consisted of each mouse being placed in a novel white box and fed a Cheerio that had been stored with thyme overnight, resulting in a novel food. Again, latency to take the first bite was recorded.
 
----
 
 #Dependent Measures and Statistical Analysis
 
@@ -248,8 +244,6 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 ##Principal Component Analyses
 
 
----
-
 #Results
 
 ##Spatiotemporal Processing
@@ -257,6 +251,10 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 ###Spatial
 
 ####Cheeseboard
+
+![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_TRACK.pdf?raw=TRUE)
+
+*Figure Caption: Top. 2N wildtype mouse performance on cheeseboard. Bottom. Ts65Dn mouse performance on cheeseboard.*
 
 	"Cheeseboard_RawLatency"
 	Error: Within
@@ -279,7 +277,10 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	---
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-	##################################################################################
+![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_Latency.pdf?raw=TRUE)
+
+*Figure Caption: Top. Raw latency (s) to obtain reward. Bottom. Percent latency to obtain reward each day scaled by latency on Day 1.*
+
 	"Cheeseboard_RawDistance"
 	Error: Within
 	                                    Df  Sum Sq Mean Sq F value   Pr(	F)
@@ -301,13 +302,15 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	---
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_Latency.pdf?raw=TRUE)
-
 ![Cheeseboard Distance](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_Distance.pdf?raw=TRUE)
+
+*Figure Caption: Top. Raw distance (cm) to obtain reward. Bottom. Percent distance to obtain reward each day scaled by latency on Day 1.*
+
+**Note: I do have the probe trial data, it is not very convincing as control mice almost immediately realize we moved the reward and they start exploring anew.
 
 ####Metric / Coordinate Processing
 
-	"Metric_Red"
+	"Metric / Coordinate Red"
 	                     Df  Sum Sq Mean Sq F value   Pr(	F)
 	spatiotemporal$GROUPS  1 0.10790  0.1079   29.94 3.38e-05 ***
 	Residuals             18 0.06486  0.0036
@@ -315,7 +318,7 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 	##################################################################################
-	"Metric_Clear"
+	"Metric / Coordinate Clear"
 	                      Df Sum Sq Mean Sq F value   Pr(	F)
 	spatiotemporal$GROUPS  1 0.6462  0.6462   39.38 6.44e-06 ***
 	Residuals             18 0.2954  0.0164
@@ -324,15 +327,17 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Coordinate](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
+*Figure Caption: Top. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues.*
+
 ####Topological / Categorical Processing
 
-	"Topological_Red"
+	"Topological / Categorical Red"
 	                      Df  Sum Sq  Mean Sq F value Pr(	F)
 	spatiotemporal$GROUPS  1 0.00884 0.008837   1.489  0.238
 	Residuals             18 0.10685 0.005936
 
 	##################################################################################
-	"Topological_Clear"
+	"Topological / Categorical Clear"
 	                     Df Sum Sq Mean Sq F value   Pr(	F)
 	spatiotemporal$GROUPS  1  0.672  0.6720   78.52 5.55e-08 ***
 	Residuals             18  0.154  0.0086
@@ -341,9 +346,11 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Categorical](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
+*Figure Caption: Bottom. Topological/Categorical processing performance in the presence and absence of extra-maze, distal cues.*
+
 ####Location Recognition
 
-	"LocationRecognition_Red"
+	"Location Recognition Red"
 	                      Df Sum Sq Mean Sq F value   Pr(	F)
 	spatiotemporal$GROUPS  1 0.5578  0.5578      62 3.07e-07 ***
 	Residuals             18 0.1619  0.0090
@@ -351,7 +358,7 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 	##################################################################################
-	"LocationRecognition_Clear"
+	"Location Recognition Clear"
 	                     Df Sum Sq Mean Sq F value   Pr(	F)
 	spatiotemporal$GROUPS  1 0.7411  0.7411   36.39 1.05e-05 ***
 	Residuals             18 0.3666  0.0204
@@ -359,6 +366,8 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ![Location Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec.pdf?raw=TRUE)
+
+*Figure Caption: Spatial Location recognition performance in the presence and absence of extra-maze, distal cues.*
 
 ##Temporal
 
@@ -379,6 +388,8 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Temporal Ordering](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/TempOrder.pdf?raw=TRUE)
 
+*Figure Caption: Top. Temporal ordering for visual objects in the presence and absence of extra-maze, distal cues.*
+
 ####Temporal Order Control Task: Novelty Detection for Visual Objects
 
 	"NoveltyDetection_Red"
@@ -395,6 +406,8 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ![Novelty Detection](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/TempOrder.pdf?raw=TRUE)
+
+*Figure Caption: Bottom. Visual object novelty detection control task in the presence and absence of extra-maze, distal cues.*
 
 ##Sensory/Perceptual
 
@@ -415,6 +428,8 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Ambiguous.pdf?raw=TRUE)
 
+*Figure Caption: Top. Configural ambiguity test in the presence and absence of extra-maze, distal cues.*
+
 ####Feature Ambiguity Control Task: Novelty Detection for Configural Object
 
 
@@ -431,9 +446,11 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	---
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-####Object Recognition
+![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Ambiguous.pdf?raw=TRUE)
 
-![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ObjectRec.pdf?raw=TRUE)
+*Figure Caption: Bottom. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues.*
+
+####Object Recognition
 
 #####Short (1 hr) Delay
 
@@ -447,6 +464,10 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	                      Df Sum Sq Mean Sq F value   Pr(	F)
 	spatiotemporal$GROUPS  1 0.2365 0.23653   29.51 3.68e-05 ***
 	Residuals             18 0.1443 0.00802
+
+![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ObjectRec.pdf?raw=TRUE)
+
+*Figure Caption: Top. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues.*
 
 #####Long (24 hr) Delay
 
@@ -465,6 +486,10 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	---
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
+![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ObjectRec.pdf?raw=TRUE)
+
+*Figure Caption: Bottom. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.*
+
 ---
 
 ##Executive Function
@@ -479,6 +504,8 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ![Spontaneous Alternation](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/SpontaneousAlternation.pdf?raw=TRUE)
+
+*Figure Caption: Spontaneous/Delayed Alternation performance.*
 
 ####Response Learning
 
@@ -495,7 +522,13 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Response learning](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ResponseAcquisition.pdf?raw=TRUE)
 
+*Figure Caption: Response rule acquisition.*
+
 ####Reversal Learning
+
+![Reversal Raw](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Reversal_RAW.pdf?raw=TRUE)
+
+*Figure Caption: Response rule reversal raw data converted to cumulative response.*
 
 	"Reversal_Changepoint"
 	                       Df Sum Sq Mean Sq F value   Pr(	F)
@@ -518,9 +551,12 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	response_factors$group  1    5.0    5.00   0.287  0.599
 	Residuals              18  313.8   17.43
 
-![Reversal Raw](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Reversal_RAW.pdf?raw=TRUE)
+
 
 ![Reversal Processed](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Reversal_Factors.pdf?raw=TRUE)
+
+*Figure Caption: Top. Changepoint, or trial at which each mouse learned to reverse the rule. Middle. Number of perseverative errors in trial 1-20 trials. Bottom. Number of Regressive erros in trials 20-40.*
+
 
 ---
 
@@ -536,6 +572,15 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 	##################################################################################
+	"Capellini_OverallAtypical"
+	                Df Sum Sq Mean Sq F value  Pr(	F)
+	capellini$GROUP  1  649.8   649.8   92.68 1.6e-08 ***
+	Residuals       18  126.2     7.0
+
+![Capellini latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Capellini_Latency.pdf?raw=TRUE)
+
+*Figure Caption: Top. Latency to consume capellini. Bottom. Total number of atypical behaviors.*
+
 	"Capellini_PawsTogether"
 	                Df Sum Sq Mean Sq F value   Pr(	F)
 	capellini$GROUP  1  92.45   92.45   42.34 4.06e-06 ***
@@ -559,15 +604,9 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	---
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-	##################################################################################
-	"Capellini_OverallAtypical"
-	                Df Sum Sq Mean Sq F value  Pr(	F)
-	capellini$GROUP  1  649.8   649.8   92.68 1.6e-08 ***
-	Residuals       18  126.2     7.0
-
-![Capellini latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Capellini_Latency.pdf?raw=TRUE)
-
 ![Capellini Errors](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Capellini_Errors.pdf?raw=TRUE)
+
+*Figure Caption: Atypical Behaviors. Top. Number of times mouse paws came together. Middle. Number of times mouse lost contact with capellini with one paw. Bottom. Number of times mouse pulled capellini with mouth rather than paw.*
 
 ####Parallel Rung Walking
 
@@ -586,6 +625,8 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ![Parallel Rung Walking](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ParallelRung.pdf?raw=TRUE)
+
+*Figure Caption: Top. Raw number of foot slips in a 1 minute period of free exploration. Bottom. Number of foot slips scaled by the total number of steps.*
 
 ---
 
@@ -618,6 +659,8 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Nesting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Nesting.pdf?raw=TRUE)
 
+*Figure Caption: Nesting Behaviors. Top. Latency to contact nesting material. Middle. Latency to first dig in nesting material. Bottom. Latency to complete nest.*
+
 ####Neophagia
 
 	"Neophagia_NovelFood"
@@ -643,11 +686,15 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Neophagia](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Neophagia.pdf?raw=TRUE)
 
+*Figure Caption: Neophagia Behaviors. Top. Latency to start to consume novel food in a familiar environemnt. Middle. Latency to start to consume familiar food in a novel environemnt. Bottom. Latency to start to consume a novel food in a novel environment.*
+
 ---
 
 ##Principal Component Analysis
 
 ![Cheeseboard Figure](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Tasks.pdf?raw=TRUE)
+
+*Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Two major components emerges, accounting for 59.57% of the variance. These components seem to be tasks dependent upon MTL structures clustering together and executive + adaptive function components clustering together.*
 
 ---
 
