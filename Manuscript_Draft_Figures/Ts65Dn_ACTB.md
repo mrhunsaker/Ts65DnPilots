@@ -4,34 +4,37 @@
 
 ####University of Utah
 
-
-
 #Background & Introduction
 
 ##Neuropsychological Aspects of Down Syndrome
 
+**Need a review of the state of the field at present**
+
 ###Phenotyping Approach
 
+**Mouse models use Water Maze, Spontaneous Alternation, and Novel Object Recognition at present**
 
 
 ##Arizona Cognitive Task Battery
 
+**Need a review of the state of the ACTB at present**
+
+
 ###Endophenotyping Approach
 
-####Why Red and Clear Boxes
+There is one clear difference between identifying a behavioral phenotype and identifying a behavioral endophenotype. This difference is that to evaluate a behavioral phenotype, the researcher need only look for a difference in behavior among a homogeneous group of mutant mice relative to littermate or strain-matched control group. This main effect is then used as evidence for some kind of behavioral impairment. This process is akin to using the same battery of standardized neuropsychological tests to evaluate the behavioral consequences of number of different genetic disorders and then trying to make inferences about what are the specific profiles of strengths and weaknesses unique to each disorder. In contrast, to evaluate a behavioral endophenotype in the same mice, there is a requirement that any behavioral phenotype predictably scale across some measure: Usually such factors include age, genetic dosage in situations of polymorphic mutations or chromosomal aneuploidy, or some other experimentally controlled factor that is altered parametrically (*e.g.*, stress, environmental toxicant exposure, etc.). This process is similar to how experimental psychology or cognitive neuroscience approaches to studying the behavior of populations carrying genetic mutations. That is, an approach that emphasizes using hypothesis driven tests that have been designed to evaluate hypothesized effects within the population being studied, irrespective to performance of other populations.
 
-#####Spatial Context interfering (*i.e.,* poor DG pattern separation results in catastrophic interference)
+The importance of finding a behavioral endophenotype is that if there is a predictable relationship among cognitive performance and gene expression, it can be assumed that the genetic mutation alters behavioral output; and subsequently, some sort of relationship between the two exists. Such a finding not only provides a wealth of information that helps the researcher design future experiments, but also data that are useful as outcome measures for studies of intervention that alter or even potentially mitigate some negative impact of the mutation. If there is a more complex relationship wherein age appears to modulate the relationship between the mutation and behavioral output, then those data serve not only as outcome measures, but if well enough understood, could be potentially useful to define risk prodromes to predict future symptomatology or disease progression.
 
+One reason we proposed underlying the lack of direct applicability of mouse model research for drug discovery is the unfortunate focus on gross phenotypes that may be either at best secondary to the mutation or result from mouse-unique factors that do not scale evolutionarily. Stated more colloquially, it is much easier to cure disease in mice than to translate the murine research into actually curing human disease. The same general paradigm is prevalent in research into sequelae resultant to neurodevelopmental/neurodegenerative genetic diseases. As a scientific community, we have been able to identify and provide *cures* for a wide range mouse models of genetic disorders (*i.e.*, Down Syndrome), but to date these cures have not proven particularly useful for ameliorating symptoms of human genetic disease: often failing or providing only marginal effects during early phase clinical trials. Elucidating behavioral or neurocognitive endophenotypes using tasks designed to test specific disease-related hypotheses is one proposed solution to mitigate this lack of efficacy in the mouse model.
 
-
+For these, as well as many other reasons, research into schizophrenia has forced the field to changed their general approach, and emphasized an endophenotyping approach in the study of prodromal states associated with schizophrenia onset and symptom progression (*e.g.*, focusing research on longitudinal analyses of 22q11.2 deletion populations rather than on *de novo* schizophrenia cases of unknown or poorly understood genetic origin). By focusing on factors that scale with disease or symptom severity, researchers have been able to understand far more about schizophrenia and what may underlie symptom progression than they would otherwise have been able using a standardized, neuropsychological phenotyping approach.
 
 #Animals
 
 In this study, 10 trisomic male Ts65Dn/DnJ mice and 10 age-matched wild type littermates were obtained from Jackson Laboratories (Bar Harbor, ME) and tested at 5-7 months of age, at an average weight of 33 +/- 3.8g (standard error). Animals were kept on a 12-h light/dark cycle, in a temperature and humidity controlled environment with *ad libitum* access to food and water. All behavioral tests were conducted during the light portion of the cycle (06:00-18:00). Mice were housed in same-genotype groups of 2-3 per cage. Animal care and experimental testing procedures conformed to NIH, IACUC, and AALAC standards and protocols.
 
 As detailed by Jackson Laboratory, the segmentally trisomic Ts<sup>(1716)</sup>65Dn mice have three copies of genes at the distal 15% of mouse chromosome 16 and span the region orthologous to genes on human chromosome 21. These extra genes, centromere, and about 5% of proximal mouse chromosome 17 are contained in the small extra chromosome derived from a reciprocal translocation. About 15% of the distal end of mouse chromosome 16 is fused to the centromeric end of chromosome 17 to form the small translocation chromosome. The translocation breaks mouse chromosome 16 just proximal to the amyloid precursor protein (*App*) gene and contains the chromosome 21-homologous genes from *App* to the telomere. The Ts65Dn/DnJ stock, commercially available from Jackson Laboratory, is homozygous for the wild type allele for retinal degeneration. The stock is maintained by repeated backcrossing of Ts65Dn females to B6EiC3H F1 hybrid males derived from a new congenic strain of C3H mice. This new congenic strain (C3Sn.BLiA-Pde6b+) lacks the blindness causing recessive mutant allele.
-
-
 
 #Behavioral Tasks
 
@@ -55,7 +58,7 @@ Each mouse was habituated to the cheeseboard for 30 min the day prior to experim
 ####Metric / Coordinate Processing
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the metric/coordinate test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the objects were moved closer together to an 8 cm separation and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the metric/coordinate test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the objects were moved closer together to an 8 cm separation and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Metric.png?raw=TRUE)
 
@@ -72,7 +75,7 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 ####Topological / Categorical Processing
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the topological/categorical test, four objects were placed in a square in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the front two objects were transposed, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the topological/categorical test, four objects were placed in a square in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the front two objects were transposed, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Topological.png?raw=TRUE)
 
@@ -89,7 +92,7 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 ####Location Recognition
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the location recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was moved at a diagonal to a new location (still 25 cm separation from the other object), and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the location recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was moved at a diagonal to a new location (still 25 cm separation from the other object), and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_LocationRecognition.png?raw=TRUE)
 
@@ -103,12 +106,12 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 ---
 
-##Temporal Attribute
+###Temporal Attribute
 
 ####Temporal Ordering for Visual Objects
 
 Method:
-During session 1, two identical copies of a first object (object 1) were placed at the ends of the box 2.5 cm from the end walls and centered between the long walls. The mouse was placed in the center of the box facing away from both objects. The mouse was given 5 min to freely explore the objects. After 5 min, the mouse was removed to a small holding cup for 5 min. During this time, the first objects were replaced with two duplicates of a second object (Object 2). For Session 2, the mouse was again placed in the apparatus and allowed to explore. After 5 min, the mouse was removed to the holding cup for 5 min and the objects were replaced with two duplicates of a third object (Object 3). For Session 3, the mouse was given 5 min to explore. After 5 min, the mouse was removed into a small cup for 5 min and an unused copy of the first and an unused copy of the third object were placed into the box. The mouse was again placed into the box and allowed to explore the two objects (*i.e.*, Objects 1 and 3) during a 5 min test session. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
+During session 1, two identical copies of a first object (object 1) were placed at the ends of the box 2.5 cm from the end walls and centered between the long walls. The mouse was placed in the center of the box facing away from both objects. The mouse was given 5 min to freely explore the objects. After 5 min, the mouse was removed to a small holding cup for 5 min. During this time, the first objects were replaced with two duplicates of a second object (Object 2). For Session 2, the mouse was again placed in the apparatus and allowed to explore. After 5 min, the mouse was removed to the holding cup for 5 min and the objects were replaced with two duplicates of a third object (Object 3). For Session 3, the mouse was given 5 min to explore. After 5 min, the mouse was removed into a small cup for 5 min and an unused copy of the first and an unused copy of the third object were placed into the box. The mouse was again placed into the box and allowed to explore the two objects (*i.e.*, Objects 1 and 3) during a 5 min test session. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the third over the first object. A ratio value approaching 1 suggest the mouse strongly explored the first over the third object.
 
 
 ![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_TemporalOrdering.png?raw=TRUE)
@@ -126,7 +129,7 @@ During session 1, two identical copies of a first object (object 1) were placed 
 ####Temporal Order Control: Novelty Detection for Visual Objects
 
 Method:
-In addition to reflecting impaired temporal ordering, increased exploration of the first object over the third could also be interpreted as being due to difficulty in remembering the first object prior to the test session. To minimize and con- trol for such general memory deficits, a novelty detection of visual objects task was performed. Briefly, on a different day mice received three sessions during which they were allowed to explore three novel sets of objects (Objects 4, 5, 6) similarly to the temporal ordering tasks. During the test session, the first object and a novel fourth object (Object 7) were presented and the mice were allowed 5 min to explore.  This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
+In addition to reflecting impaired temporal ordering, increased exploration of the first object over the third could also be interpreted as being due to difficulty in remembering the first object prior to the test session. To minimize and con- trol for such general memory deficits, a novelty detection of visual objects task was performed. Briefly, on a different day mice received three sessions during which they were allowed to explore three novel sets of objects (Objects 4, 5, 6) similarly to the temporal ordering tasks. During the test session, the first object and a novel fourth object (Object 7) were presented and the mice were allowed 5 min to explore.  This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the familiar over the novel object. A ratio value approaching 1 suggest the mouse strongly explored the novel over the familiar object.
 
 ![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_NoveltyDetection.png?raw=TRUE)
 
@@ -143,23 +146,30 @@ In addition to reflecting impaired temporal ordering, increased exploration of t
 ####Feature Ambiguity
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min Test Phase in which one object from the Study Phase remained the same (AB) and the other compound object is created from one component of each of the previous familiar objects, (*e.g.*, AD). That is, the “novel” object (AD) is composed of the same elements, but rearranged into a novel configuration. Therefore, the object is “novel” by virtue of its configuration, not by its elements, each of which is present in one of the compound stimuli in the habituation phase.Exploration of each compound object was scored as a single unit. A control task during which CD was replaced by two never before seen objects (EF) was also performed. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min Test Phase in which one object from the Study Phase remained the same (AB) and the other compound object is created from one component of each of the previous familiar objects, (*e.g.*, AD). That is, the “novel” object (AD) is composed of the same elements, but rearranged into a novel configuration. Therefore, the object is “novel” by virtue of its configuration, not by its elements, each of which is present in one of the compound stimuli in the habituation phase.Exploration of each compound object was scored as a single unit. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity.png?raw=TRUE)
 
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
-
-
-####Feature Ambiguity Control: Novelty Detection for Configural Objects
-![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
-
-*Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
 
 ---
 
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity.png?raw=TRUE)
 
 *Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions*
+
+---
+
+####Feature Ambiguity Control: Novelty Detection for Configural Objects
+
+Method:
+Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min  control task during which CD was replaced by two never before seen objects (EF) was also performed. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
+
+![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
+
+*Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions*
+
+---
 
 ![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity_Control.png?raw=TRUE)
 
@@ -170,7 +180,7 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 ####Object Recognition at 1 hour and 24 hour delays
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the object recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was replaced by a novel object that had never before been experienced byt he mouse, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. This procedure was carried out in each box separately for delays of 1 and 24 hours.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the object recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was replaced by a novel object that had never before been experienced byt he mouse, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. This procedure was carried out in each box separately for delays of 1 and 24 hours. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. a ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 
 ![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_ObjectRecognition.png?raw=TRUE)
@@ -199,7 +209,7 @@ Mice were placed in the stem of a Plus maze with one of the arms blocked off (fo
 ####Reversal Learning
 
 Method:
-The day after mice finished training on response learning, they received 80 trials of reversal training. This means that the turn the mice had just learned to make for reward was now incorrect, rather the mice had to make the opposite turn to receive reward.
+The day after mice finished training on response learning, they received 80 trials of reversal training. This means that the turn the mice had just learned to make for reward was now incorrect, rather the mice had to make the opposite turn to receive reward. Number of previously correct choices made were recorded as errors and error type was evaluated as perseverative or regressive based on the work of Aggleton and Ragozzino.
 
 ##Motor Function
 
@@ -229,11 +239,11 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ##Tests for equal variance and heteroscedasticity.
 
-Prior to statistical analyses, the data were tested for nor- malcy (Shapiro–Wilk test) and homoscedacity (Browne–For- sythe test). To account for any potential effects of order or multiple comparisons arising from performing ANCOVA and correlation analyses on four separate behavioral datasets as well as three plasticity datasets all collected from the same animals, a 3 (group) 3 4 (task) multivariate analysis of covar- iance (MANCOVA) was performed with experiment order and mouse age as covariates. Main effects of the MANCOVA were characterized by individual ANCOVA. All results were considered significant at an alpha < 0.05 and Power (1-beta) < 0.8, and analyses were performed to determine observed power and effect size of all main effects. Statistical analyses were performed in R 2.15. language and environment and statistical power was calculated using both R and the statistical program G*Power 3. All reported p values were adjusted for False Discovery Rate using a custom script written in R 2.15.
+Prior to statistical analyses, the data were tested for normalcy (Shapiro–Wilk test) and homoscedacity (Browne–Forsythe test). Once deemed appropriate, further statistical analyses were performed using parametric analyses of variance. All results were considered significant at an alpha < 0.05 and Power (1-beta) < 0.8, and analyses were performed to determine observed power and effect size of all main effects. Statistical analyses were performed in R 3.0.1. language and environment and statistical power was calculated using both R and the statistical program G*Power 3. All reported p values were adjusted for False Discovery Rate using a custom script written in R 3.0.1.
 
 ##Principal Component Analyses
 
-PCA were run by applying the functions in FacotMineR in R 2.15.
+PCA were run by applying the functions in FactoMineR in R 3.0.1.
 
 #Results
 
