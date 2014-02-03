@@ -29,15 +29,16 @@ Spontaneous Alternation
 Ts65Dn
 Percent of Trials with Alternations
 
-Coordinate Spatial Processing
-No Distal Cues
-Distal Cues
-Categorical Spatial Processing
+Location Recognition
 No Distal Cues
 Distal Cues
 2N Control
 Ts65Dn
 Ratio Value [-1,1]
+
+Location Recognition
+No Distal Cues
+Distal Cues
 Ratio Value [-1,1]
 
 Object Recognition - 1 hr
@@ -65,7 +66,7 @@ Ratio Value [-1,1]
 Feature Ambiguity
 No Distal Cues
 Distal Cues
-Location Recognition
+Feature Ambiguity Control
 No Distal Cues
 Distal Cues
 2N Control

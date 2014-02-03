@@ -358,7 +358,7 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	---
 	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Location Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec_Ambiguity.pdf?raw=TRUE)
+![Location Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec.pdf?raw=TRUE)
 
 ##Temporal
 
@@ -379,7 +379,7 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 
 ![Temporal Ordering](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/TempOrder.pdf?raw=TRUE)
 
-####Novelty Detection for Visual Objects
+####Temporal Order Control Task: Novelty Detection for Visual Objects
 
 	"NoveltyDetection_Red"
 	                      Df  Sum Sq Mean Sq F value Pr(	F)
@@ -413,23 +413,23 @@ Mice were given three neophagia tests. The first was in their homecage. Each mou
 	spatiotemporal$GROUPS  1 0.0000 0.000005       0  0.984
 	Residuals             18 0.2136 0.011865
 
-![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec_Ambiguity.pdf?raw=TRUE)
+![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Ambiguous.pdf?raw=TRUE)
 
 ####Feature Ambiguity Control Task: Novelty Detection for Configural Object
 
-	Ambiguity_Red
-	                      Df Sum Sq Mean Sq F value   Pr(	F)
-	spatiotemporal$GROUPS  1 0.1375 0.3711   34.13 4.8e-05 ***
-	Residuals             18 0.1300 0.00831
-	---
-	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+	Ambiguity_Control_Red
+   	                   Df  Sum Sq Mean Sq F value Pr(>F)
+	spatiotemporal$GROUPS  1 0.00018 0.00018   0.012  0.916
+	Residuals             18 0.28052 0.01558
 
 	##################################################################################
-	Ambiguity_Clear
-	                      Df Sum Sq  Mean Sq F value Pr(	F)
-	spatiotemporal$GROUPS  1 0.0006 0.000099       .381  0.545
-	Residuals             18 0.1721 0.009726
-
+	Ambiguity_Control_Clear
+	                      Df Sum Sq Mean Sq F value  Pr(>F)
+	spatiotemporal$GROUPS  1 0.1186 0.11858   12.27 0.00254 **
+	Residuals             18 0.1739 0.00966
+	---
+	Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ####Object Recognition
 
