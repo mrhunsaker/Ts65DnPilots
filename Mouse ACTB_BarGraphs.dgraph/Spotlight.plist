@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>Response Acquisition
+Percent Correct
+Blocks of 20 Trials
+2N Control
+Ts65Dn
+
+2N Control
+Ts65Dn
+Cumulative Performance
+Trial #
+Reversal Learning - All Datapoints
+
+Reversal - Changepoints
+Reversal - Perseverative Errors
+Reversal - Regressive Errors
+Changepoint
+Number
+Number
+2N Control
+Ts65Dn
+
+Spontaneous Alternation
+% Trials with Alternations
+2N Control
+Ts65Dn
+
+Location Recognition
+No Distal Cues
+Distal Cues
+Ratio Value [-1,1]
+2N Control
+Ts65Dn
+
+Coordinate Processing
+No Distal Cues
+Distal Cues
+Categorical Processing
+No Distal Cues
+Distal Cues
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+2N Control
+Ts65Dn
+
+Object Recognition - 1 hr
+No Distal Cues
+Distal Cues
+Object Recognition - 24 hr
+No Distal Cues
+Distal Cues
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+2N Control
+Ts65Dn
+
+Temporal Ordering
+No Distal Cues
+Distal Cues
+Novelty Detection
+No Distal Cues
+Distal Cues
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+2N Control
+Ts65Dn
+
+Feature Ambiguity
+No Distal Cues
+Distal Cues
+Feature Ambiguity Control
+No Distal Cues
+Distal Cues
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+2N Control
+Ts65Dn
+
+Parallel Rung Walk
+Adjusted Parallel Rung Walk
+Total Foot Slips
+Foot Slip / Step
+2N Control
+Ts65Dn
+
+Neophobia - Novel Food
+Neophobia - Novel Environ
+Neophobia - Novel Food &amp; Environ
+Latency (s)
+Latency (s)
+Latency (s)
+2N Control
+Ts65Dn
+
+Nesting - First Contact
+Nesting - First Dig
+Nesting - Complete Nest
+Latency (s)
+Latency (s)
+Latency (s)
+2N Control
+Ts65Dn
+
+Capellini - Paws Together
+Capellini - Paw Loses Contact
+Capellini - Mouth Pull
+Number
+Number
+Number
+2N Control
+Ts65Dn
+
+Capellini - Latency to Eat
+Capellini - Total Atypical
+Latency (s)
+Number
+2N Control
+Ts65Dn
+
+Latency to Reward
+Percent Latency to Reward
+Latency (s)
+Percent Day 1
+Blocks of 4 Trials
+2N Control
+Ts65Dn
+
+Distance to Reward
+2N Control
+Ts65Dn
+Percent Distance to Reward
+Distance (cm)
+Percent Day 1
+Blocks of 4 Trials
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>
