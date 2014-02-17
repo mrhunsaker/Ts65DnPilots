@@ -9,18 +9,18 @@ Blocks of 20 Trials
 2N Control
 Ts65Dn
 
+Reversal Learning
+Percent Reversals
+Blocks of 20 Trials
 2N Control
 Ts65Dn
-Cumulative Performance
-Trial #
-Reversal Learning - All Datapoints
 
 Reversal - Changepoints
 Reversal - Perseverative Errors
 Reversal - Regressive Errors
 Changepoint
-Number
-Number
+Number (Trials 1-20)
+Number (Trials 21-20)
 2N Control
 Ts65Dn
 
