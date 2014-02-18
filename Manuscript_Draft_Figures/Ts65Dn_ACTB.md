@@ -18,6 +18,22 @@ The behavioral endophenotyping process deviates from the currently accepted meth
 
 ##Clinical/Neuropsychological Aspects of Down Syndrome
 
+In recent years, there has been a virtual explosion of understanding of the cognitive phenotype of the chromosomal aneuploidy underlying Down Syndrome.
+
+It has been demonstrated that motor development in Down Syndrome is slower than age and mental age matched peers. Intriguingly, early motor markers like rolling and sitting up have been shown to be only very subtly slowed in Down Syndrome, but crawling and walking has been shown to be more dramatically delayed. Despite this delay, it *does* appear that children with Down Syndrome develop through the same milestones as typically developing children, these milestones are just happen dramatically later in development. Motor skill development shows the same developmental delays as these early markers of motor abilities.
+
+The IQ in Down Syndrome is typically moderately to severely intellectually disabled range (*i.e.*, 25-55) and mental age rarely moves beyond 8 years. Paradoxically, it has been suggested that early on, Down Syndrome only presented with a mild to moderate intellectual disability (*i.e.*, 55-70), but with age the IQ drops as mental age no longer increases with chronological age.
+
+With only rare exception, individuals with Down Syndrome have very poorly developed linguistic abilities. Specifically, even early in development, individuals with Down Syndrome show higher use of gestures than typically developing peers, or even peers with developmental disabilities such as William Syndrome.  It has specifically been demonstrated that individuals with Down Syndrome have specific impairments in receptive speech, with relative sparing in productive speech.
+
+As it is nonverbal, it has been demonstrated that visual-spatial abilities appear to be normal in Down Syndrome. However, this appears to be in comparison to auditory and verbal performance. In tests specifically assessing visual and spatial abilities in Down Syndrome, there is a clear deficit relative to typically developing or age matched control populations.
+
+In the memory domain, Down Syndrome results in deficits for digit or word span as well as general memory deficits with long delays prior to recall. Working memory, specifically verbal working memory is disrupted in Down Syndrome. For visual and spatial memory, it appears that Down Syndrome results in specific memory deficits when memory span is increased. Again, as suggested by the language deficits, it has been shown that individuals with Down Syndrome have greater impairments for verbal than visual-spatial span. Down Syndrome also results in long term memory deficits.
+
+Despite these memory deficits, implicit memory and perceptual priming appear to be normal. This pattern suggests that there is an explicit memory deficit in Down Syndrome, meaning that when memory requires temporal or spatial processes, there is a deficit. This has implicated hippocampus and medial temporal lobe function in Down Syndrome pathology, as well as the prefrontal cortex for working memory. Implicit memory, dependent upon different brain areas, appears to be spared, if not slightly facilitated in Down Syndrome (*i.e.*, word stem or perceptual priming tasks). A summary of select behavioral findings in Down Syndrome is presented in *Table 1*.
+
+---
+
 |Study|Finding|
 |---|---|
 |**Medial Temporal Lobe**||
@@ -55,13 +71,15 @@ The behavioral endophenotyping process deviates from the currently accepted meth
 |**Virji-Babul et al. (2006)**|Impaired complex perceptual discrimination using point light display of human action|
 |**Lam et al. (2009)**|Slower on Fitt's task|
 |**Edgin et al. (2010a)**|Impaired finger sequencing, <i>Intact</i> visuomotor precision, <i>Intact</i> CANTAB SRT|
-<i>**Table X. Brief listing of cognitive and functional deficits in Down Syndrome. table simplified from Edgin et al. (2012).</i>**
+<i>**Table 1. Brief listing of cognitive and functional deficits in Down Syndrome. table simplified from Edgin et al. (2012).</i>**
 
 ##Neurocognitive Testing: Arizona Cognitive Task Battery
 
-To design a battery of behavioral/neurocognitive tasks that could be presented to individuals with Down Syndrome across a wide age range in a single testing session, **Edgin et al (2010)** developed and validated the Arizona Cognitive Task Battery (ACTB). What makes this battery different than others that are available at present (*i.e.*, CANTAB) is that the ACTB has been developed to keep the following issues in mind: when one studies a population with a neurodevelopmental disease, particularly a chromosomal aneuploidy, there is a very real possibility of floor effects confounding task performance. In fact, in a number of the tasks in **Table X** above the CANTAB SRM was confounded by floor effects and was thus uninterpretable. Similarly, ceiling effects in the control group should similarly be avoided. Also, it is important to account for the potential longitudinal use of a behavioral test battery. For example, the chromosomal aneuploidy underlying Down Syndrome predisposes individuals with Down Syndrome to an early onset form of Alzheimer Disease: it would be useful to use a battery such as the ACTB at a number of timepoints to evaluate any cognitive decline or dementing process.
+To design a battery of behavioral/neurocognitive tasks that could be presented to individuals with Down Syndrome across a wide age range in a single testing session, **Edgin et al (2010)** developed and validated the Arizona Cognitive Task Battery (ACTB). What makes this battery different than others that are available at present (*i.e.*, Cambridge Neuropsychological Testing Automated Battery (CANTAB)) is that the ACTB has been developed to keep the following issues in mind: when one studies a population with a neurodevelopmental disease, particularly a chromosomal aneuploidy, there is a very real possibility of floor effects confounding task performance. In fact, in a number of the tasks in **Table 1** above the CANTAB SRM was confounded by floor effects and was thus uninterpretable. Similarly, ceiling effects in the control group should similarly be avoided. Also, it is important to account for the potential longitudinal use of a behavioral test battery. For example, the chromosomal aneuploidy underlying Down Syndrome predisposes individuals with Down Syndrome to an early onset form of Alzheimer Disease: it would be useful to use a battery such as the ACTB at a number of timepoints to evaluate any cognitive decline or dementing process. Additionally, individuals with Down Syndrome show language deficits, limiting the tasks that can be used to test cognitive function without a language confound. Finally, and perhaps most importantly, the ACTB was developed with the goal of maximizing the sensitivity to identify effects that are present in Down Syndrome. As can be seen in **Table 1**, previous assessment tools have shown a somewhat lackluster ability to consistently identify known deficits in Down Syndrome.
 
-**Table X** lists the tasks included in the ACTB as originally outlined by **Edgin et al (2010)**. These tasks have been either modified from the CANTAB for use in the Down Syndrome population or else specifically developed to test hypotheses about what brain regions are maximally impacted by Down Syndrome.
+**Table 2** lists the tasks included in the ACTB as originally outlined by **Edgin et al (2010)**. These tasks have been either modified from the CANTAB for use in the Down Syndrome population or else specifically developed to test hypotheses about what brain regions are maximally impacted by Down Syndrome (*e.g.*, Medial temporal lobe, prefrontal cortex, and cerebellum).
+
+---
 
 | Domain/Test | Ability Assessed |
 |---|---|
@@ -80,7 +98,7 @@ To design a battery of behavioral/neurocognitive tasks that could be presented t
 | Finger Sequencing Task |  Motor sequencing |
 | NEPSY visuomotor precision | Visuomotor tracking and hand-eye coordination |
 | CANTAB SRT | Motor response time and attention |
-<i>**Table X. Tasks included in the Arizona Cognitive Task Battery (ACTB) as reported by Edgin et al. (2010).**</i>
+<i>**Table 2. Tasks included in the Arizona Cognitive Task Battery (ACTB) as reported by Edgin et al. (2010).**</i>
 
 ###Considerations of a Phenotyping Approach
 
@@ -96,6 +114,10 @@ designed behavioral phenotyping experiment—that is, to define some behavior or
 ###Gross Behavioral Phenotype of Mouse Models of Down Syndrome
 
 Commonly, the selection of behavioral tasks to evaluate a behavioral phenotype emphasizes either a high-throughput battery tasks to determine gross deficits for cognitive function or a limited selection of tasks that roughly assay cognitive processing. There are definite advantages to this approach as it provides a rich array of information from commonly implemented, easily interpreted tasks, but this approach does not explicitly model the behavioral phenotypes of the human disorder being modeled. When a behavioral screening approach becomes essential is for the primary screen for phenotypes in novel mouse disease models. For example, in cases where the mouse model has not been evaluated for gross cognitive function, this process is analogous to initial neuropsychological screens given in the clinic prior to more in depth neurocognitive testing.
+
+To date, the majority of behavioral assays used to test the behavioral phenotype of the mouse models of Down Syndrome have focused on spatial memory. More specifically, a focus has been placed on the Morris water maze test of spatial memory. Later experiments have focused on novel object recognition at short and long delays as a proxy for general memory deficits observed across wide range of mouse disease models. As a measure of executive function or rostral cortical function spontaneous alternation has been used. The majority of motor tests use the rotarod or locomotor behavior in an pen field as the primary measure. **Table 3** lists notable experiments on mouse models of Down Syndrome and whether they found an impairment or intact function.
+
+---
 
 |Study|Finding|
 |---|---|
@@ -126,7 +148,7 @@ Commonly, the selection of behavioral tasks to evaluate a behavioral phenotype e
 |**Hampton et al. (2004)**|Abnormal gait and stride pattern|
 |**Hyde et al. (2000)**|<i>Intact</i> peg running, <i>Intact</i> rotarod, <i>Intact</i> accelerating rotarod|
 |**Gutierrez-Castellanos et al (2013)**| Impaired vestibulo-ocular reflex |
-<i>**Table X. Behavioral assays that have been performed on different mouse models of Down Syndrome.</i>**
+<i>**Table 3. Behavioral assays that have been performed on different mouse models of Down Syndrome.</i>**
 
 ###Endophenotyping Approach
 
@@ -153,14 +175,15 @@ As detailed by Jackson Laboratory, the segmentally trisomic Ts<sup>(1716)</sup>6
 
 Perhaps the most important consideration made in the generation of this mouse homolog of the ACTB is that of affect (*i.e.*, emotional valence). At least in the memory domain, the most common behavioral paradigms are the Morris water maze, the water radial arm maze, the Barnes maze, and active/passive avoidance of foot (or mouth) shock. What these tasks have in common is that they are spatial memory tasks subserved by a wide number of different neural networks. Furthermore, it is difficult to identify common memory tasks in humans that are directly modeled by these murine tasks, though some research has been done using virtual navigation in humans, but rarely in the context of genetic disease (*cf.*, **Goodrich-Hunsaker et al., 2010; MacLeod et al., 2010**).
 
-The most problematical factor shared among these tasks is the use of negative reinforcement motivating task performance. For the water mazes, the mouse is placed in a pool of cool (usually 24–28 C) water and is required to swim to locate a platform to escape the water—something that mice do not do as well as rats (*cf*., **Whishaw and Tomie, 1996**). In the Barnes maze, the mouse is placed on a round tabletop with a number of equally-spaced holes along the periphery of the maze and is required to find a hidden goal box placed under one of the holes to escape a bright light and/ or loud noise aversive stimulus. For the active or passive avoidance tasks, the mouse is required to avoid receiving a foot shock by either actively exiting or passively not entering into a predefined area of space. This negative reinforcement approach is particularly troublesome for comparison with clinical populations, which do not regularly receive negative reinforcement such as cold or applied electrical stimuli to motivate task performance. Non-aversive versions of a number of the water-based tasks are available, but are not common in mouse behavioral phenotyping screens (*e.g.*, dry land water maze (cheeseboard) and radial arm maze).
+The most problematical factor shared among these tasks is the use of negative reinforcement motivating task performance. For the water mazes, the mouse is placed in a pool of cool (usually 24–28 degrees C) water and is required to swim to locate a platform to escape the water—something that mice do not do as well as rats (*cf*., **Whishaw and Tomie, 1996**). In the Barnes maze, the mouse is placed on a round tabletop with a number of equally-spaced holes along the periphery of the maze and is required to find a hidden goal box placed under one of the holes to escape a bright light and/ or loud noise aversive stimulus. For the active or passive avoidance tasks, the mouse is required to avoid receiving a foot shock by either actively exiting or passively not entering into a predefined area of space. This negative reinforcement approach is particularly troublesome for comparison with clinical populations, which do not regularly receive negative reinforcement such as cold or applied electrical stimuli to motivate task performance. Non-aversive versions of a number of the water-based tasks are available, but are not common in mouse behavioral phenotyping screens (*e.g.*, dry land water maze (cheeseboard) and radial arm maze).
 
-To overcome this potential confound of anxiety or negative affect in behavioral tasks used in mice, we focused on tasks that emphasize spontaneous exploration in mice. Particularly, focusing on the tendency of mice to show heightened exploration of changes to their environment. For experiments wherein it was necessary to provide motivation, the mouse was given sucrose pellet rewards that were shown in preliminary testing to be highly palatable to the mouse.
+To overcome this potential confound of anxiety or negative affect in behavioral tasks used in mice, we focused on tasks that emphasize spontaneous exploration in mice (**cf.**, **Table 4**). Particularly, focusing on the tendency of mice to show heightened exploration of changes to their environment. For experiments wherein it was necessary to provide motivation, the mouse was given sucrose pellet rewards that were shown in preliminary testing to be highly palatable to the mouse.
 
-Additionally, the behavioral tasks included in the mouse model of the ACTB were designed such that any researcher with a digital camera and extra space to set up a 1 meter diameter table could recapitulate the methods. This was considered essential as often touchscreen or other operant systems run in excess of $50,000 USD, a hurdle insurmountable to most research laboratories. With this in mind, alternative experiments that test the same domains will be provided in the discussion.
+Additionally, the behavioral tasks included in the mouse model of the ACTB were designed such that any researcher with access to a digital camera and extra space to set up a 1 meter diameter table could recapitulate the methods. This was considered essential as often touchscreen or other operant systems run in excess of $50,000 USD, a hurdle insurmountable to most research laboratories. With this in mind, alternative experiments that test the same domains will be provided in the discussion.
 
 Due to differences among species, the language attribute was not evaluated in the Ts65Dn mouse model, as human receptive and productive language are not modeled by Ultrasonic Volcatlizations (USV), the state of the art analysis of vocal behaviors in rodents. In contrast to suggestions by **Edgin et al. (2012)**, tests for quality of life and adaptive function were adapted for the mouse model, providing another dimension to animal model research than previously available to the behavioral researcher.
 
+---
 
 | Domain/Test | Ability Assessed | Mouse Analog|
 |---|---|---|
@@ -187,7 +210,7 @@ Due to differences among species, the language attribute was not evaluated in th
 | Finger Sequencing Task | Motor sequencing | Capellini handling |
 | NEPSY visuomotor precision | Visuomotor tracking/Hand-eye coordination | Parallel rung walk|
 | CANTAB SRT | Motor response time/Attention | *not modeled* |
-<i>**Table X. Development of a Mouse Model for the Arizona Cognitive Task Battery (ACTB). In order to isolate the contribution of of spatial features from sensory/perceptual features on task performance, all paradigms in the Hippocampus and Medial Temporal Lobe section were run twice, once in the presence and once absence of environmental cues. Note that within the Hippocampus and Medial Temporal Lobe section there are additional tasks run in the mouse model that do not appear in the ACTB that are intended to more fully characterize any deficits observed in the mouse model.**</i>
+<i>**Table 4. Development of a Mouse Model for the Arizona Cognitive Task Battery (ACTB). In order to isolate the contribution of of spatial features from sensory/perceptual features on task performance, all paradigms in the Hippocampus and Medial Temporal Lobe section were run twice, once in the presence and once absence of environmental cues. Note that within the Hippocampus and Medial Temporal Lobe section there are additional tasks run in the mouse model that do not appear in the ACTB that are intended to more fully characterize any deficits observed in the mouse model and potentially inform research into human Down Syndrome.**</i>
 
 The week prior to testing, all animals were handled in 15 min daily sessions and given an opportunity to habituate to the clear or red apparatus for at least 15 min and acclimate to sucrose pellet rewards. Behavioral tasks emphasizing exploratory behaviors (under *Hippocampus and Medial Temporal Lobe* in **Table X**) were presented in a pseudorandomized order between mice (randomized within the Ts65Dn mice and a 2N wildtype littermate was yoked to a given Ts65Dn mouse to account for any potential task order effects), followed by spontaneous alternation and motor tasks, then response and reversal learning tasks. After these tasks, mice received training on the cheeseboard, and then finally were presented with test designed to evaluate quality of life/adaptive functional measures to reduce the influence of any anxiety measures on later task performance.
 
