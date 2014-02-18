@@ -16,28 +16,52 @@ Endophenotypes are collections of quantitative traits hypothesized to represent 
 
 The behavioral endophenotyping process deviates from the currently accepted method for determining behavioral phenotypes. The currently accepted method to determine phenotypes in clinical populations and mouse models is to use behavioral tasks that were designed without prior consideration of the pathology and clinical features present in the population. Far too often an approach such as this is not sufficiently sensitive to characterize the gene-brain-behavior interactions that underlie disease pathogenesis. In contrast with the currently utilized approach, behavioral endophenotyping emphasizes the use of behavioral paradigms that were developed to specifically evaluate a priori hypotheses concerning the alterations to nominal gene-brain-behavior interactions identified (or proposed to exist) in a given patient population using carefully selected tasks designed to identify unique phenotypes within each model; and thus are more capable of characterizing the neurocognitive consequences of the specific gene mutations underlying the genetic disorder.
 
-##Neuropsychological Aspects of Down Syndrome
+##Clinical/Neuropsychological Aspects of Down Syndrome
 
-**Need a review of the state of what is known from studies of subjects with Down Syndrome**
-
-###Standard Phenotyping Approach
-
-Any discussion concerning the behavioral phenotyping of mouse models of genetic disorders must necessarily begin with a description of what a behavioral phenotype is and what assumptions underly tasks used to evaluate them. In short, behavioral phenotyping quantifies performance of mutant mice across behavioral experiments; and the behavioral performance is related to the clinical population to identify parallels that may exist. The analogy between the phenotype of human genetic disorder and the behavioral phenotype of the mouse model can be expressed as a combination of three factors: face validity, construct or content) validity, and predictive validity.
-
-**Face validity** is the surface similarity between the behavior of the mouse model and the patient on analogous tasks (*i.e.*, does the performance of the mouse and human resemble each other at face value). In other words, if a mouse has to perform a similar response during a task as the patient makes during performance of a similar task, the task shows face validity. Similarly, if the mouse and human behavioral tasks can be intuitively interpreted as being similar, the task shows face validity.
-
-**Construct (or content) validity**, so far as the development of behavioral experiments is concerned, refers to the similarity between the behavioral or cognitive domains being tested by a given task in the mouse model and human patient. This means that for tests to show construct validity, the tasks must be designed to directly model specific aspects of the genetic disorder and additionally that performance be subserved by similar neural substrates and/or cognitive process across species. More specifically, the tasks need to be developed to explicitly model the human disorder, not solely rely on creative post hoc interpretations of behavioral performance on general behavioral tasks. One necessity of construct validity is that a basic understanding of the disorder being modeled is required, such that the research is into translating a behavioral phenotype across species, not providing the primary elucidation of any phenotype at all in a model.
-
-**Predictive validity** refers to the utility of a mouse model as a proxy for the patient in studies of disease progression or therapeutic intervention—this can refer to either the endpoints of a behavioral study or the physiology of the model. Although predictive validity is commonly thought of as a characteristic of phenotyping approaches, it is more accurate to state that predictive validity is the quantified endpoint of an adequately
-designed behavioral phenotyping experiment—that is, to define some behavior or set of behaviors that serve as valid outcome measures for later studies. In other words, predictive validity is only present when behavioral performance of the model during a given experiment proves useful for inferring or correlating dosage of a given mutation, disease progression, or treatment outcomes in not only the model, but also the clinical population.
-
----
-
-Commonly, the selection of behavioral tasks to evaluate a behavioral phenotype emphasizes either a high-throughput battery tasks to determine gross deficits for cognitive function or a limited selection of tasks that roughly assay cognitive processing. There are definite advantages to this approach as it provides a rich array of information from commonly implemented, easily interpreted tasks, but this approach does not explicitly model the behavioral phenotypes of the human disorder being modeled. When a behavioral screening approach becomes essential is for the primary screen for phenotypes in novel mouse disease models. For example, in cases where the mouse model has not been evaluated for gross cognitive function, this process is analogous to initial neuropsychological screens given in the clinic prior to more in depth neurocognitive testing.
-
-**Need a review of the spontaneous alternation, water maze, and novel object recognition work in the Ts65Dn models**
+|Study|Finding|
+|---|---|
+|**Medial Temporal Lobe**||
+|**Mangan (1992)**|Impaired place learning, <i>Intact</i> response learning|
+|**Carlesimo et al. (1997)**|Impaired word list learning, Impaired Prose recall|
+|**Pennington et al. (2003)**|Imparied CANTAB PRM, Impaired CANTAB PAL|
+|**Vicari et al. (2005)**|Impaired visual-object pattern learning|
+|**Visu-Petra et al. (2007)**|Impaired CANTAB PRM, Impaired CANTAB PAL, Impaired CANTAB SRM, <i>Intact</i> CANTAB SSP, <i>Intact</i> CATAB SWM|
+|**Edgin et al. (2010)**|Impaired CANTAB PAL, <i>Intact</i> virtual water maze|
+|**Prefrontal Cortex**||
+||<i>**Inhibition**</i>|
+|**Kopp et al (1983)**|Impaired reward-delay latency|
+|**Pennington et al. (2003)**|<i>Intact stopping task|
+|**Lanfranchi et al. (2010)**|Impaired Stroop task|
+|**Edgin et al. (2010a)**|<i>Intact</i> inhibition in modified dots task|
+|**Edgin et al. (2011)**|<i>Intact</i> BRIEF inhibition and emotional control|
+|**Raitano Lee et al. (2011)**|<i>Intact</i> BRIEF inhibition and emotional control|
+||<i>**Set-shifting**</i>|
+|**Zelazo et al. (1996)**|Impaired dimensional change card sort|
+|**Edgin (2003)**|Impaired dimensional change card sort|
+|**Rowe et al. (2006)**|Impaired weigl color-form sort test|
+|**Lanfranchi et al. (2010)**|Impaired rule shift card test, Impaired modified card sorting test|
+||<i>**Working Memory**</i>|
+|**Pennington et al. (2003)**|<i>Intact</i> CANTAB SWM, <i>Intact</i> counting span|
+|**Lanfranchi et al. (2004)**|Impaired on verbal and visuospatial tasks|
+|**Visu-Petra et al. (2007)**|Impaired CANTAB SWM|
+|**Edgin et al. (2010a)**|Impaired working memory phase of modified dots task|
+|**Cerebellum**||
+|**Frith and Frith (1974)**|No improvements on rotor tracking at 5 min, Slower finger tapping|
+|**Rast and Harris (1985)**|Impaired on Motor Assessment of Infants|
+|**Connolly and Michael (1986)**|Impaired gross motor and fine motor skill composite on Bruininks Oretsky Test of Motor Performance|
+|**Woodruff-Pak et al. (1994)**|Impaired eye-blink classical conditioning|
+|**Latash et al. (2002)**|Weaker max single- and multifinger force production|
+|**Stedron (2004)**|Impaired rhythmic finger tapping, <i>Intact</i> eye-blink conditioning|
+|**Virji-Babul et al. (2006)**|Impaired complex perceptual discrimination using point light display of human action|
+|**Lam et al. (2009)**|Slower on Fitt's task|
+|**Edgin et al. (2010a)**|Impaired finger sequencing, <i>Intact</i> visuomotor precision, <i>Intact</i> CANTAB SRT|
+<i>**Table X. Brief listing of cognitive and functional deficits in Down Syndrome. table simplified from Edgin et al. (2012).</i>**
 
 ##Neurocognitive Testing: Arizona Cognitive Task Battery
+
+To design a battery of behavioral/neurocognitive tasks that could be presented to individuals with Down Syndrome across a wide age range in a single testing session, **Edgin et al (2010)** developed and validated the Arizona Cognitive Task Battery (ACTB). What makes this battery different than others that are available at present (*i.e.*, CANTAB) is that the ACTB has been developed to keep the following issues in mind: when one studies a population with a neurodevelopmental disease, particularly a chromosomal aneuploidy, there is a very real possibility of floor effects confounding task performance. In fact, in a number of the tasks in **Table X** above the CANTAB SRM was confounded by floor effects and was thus uninterpretable. Similarly, ceiling effects in the control group should similarly be avoided. Also, it is important to account for the potential longitudinal use of a behavioral test battery. For example, the chromosomal aneuploidy underlying Down Syndrome predisposes individuals with Down Syndrome to an early onset form of Alzheimer Disease: it would be useful to use a battery such as the ACTB at a number of timepoints to evaluate any cognitive decline or dementing process.
+
+**Table X** lists the tasks included in the ACTB as originally outlined by **Edgin et al (2010)**. These tasks have been either modified from the CANTAB for use in the Down Syndrome population or else specifically developed to test hypotheses about what brain regions are maximally impacted by Down Syndrome.
 
 | Domain/Test | Ability Assessed |
 |---|---|
@@ -56,8 +80,53 @@ Commonly, the selection of behavioral tasks to evaluate a behavioral phenotype e
 | Finger Sequencing Task |  Motor sequencing |
 | NEPSY visuomotor precision | Visuomotor tracking and hand-eye coordination |
 | CANTAB SRT | Motor response time and attention |
-<i>**Table 1. Tasks included in the Arizona Cognitive Task Battery (ACTB).**</i>
+<i>**Table X. Tasks included in the Arizona Cognitive Task Battery (ACTB) as reported by Edgin et al. (2010).**</i>
 
+###Considerations of a Phenotyping Approach
+
+Any discussion concerning the behavioral phenotyping of mouse models of genetic disorders must necessarily begin with a description of what a behavioral phenotype is and what assumptions underly tasks used to evaluate them. In short, behavioral phenotyping quantifies performance of mutant mice across behavioral experiments; and the behavioral performance is related to the clinical population to identify parallels that may exist. The analogy between the phenotype of human genetic disorder and the behavioral phenotype of the mouse model can be expressed as a combination of three factors: face validity, construct or content) validity, and predictive validity.
+
+**Face validity** is the surface similarity between the behavior of the mouse model and the patient on analogous tasks (*i.e.*, does the performance of the mouse and human resemble each other at face value). In other words, if a mouse has to perform a similar response during a task as the patient makes during performance of a similar task, the task shows face validity. Similarly, if the mouse and human behavioral tasks can be intuitively interpreted as being similar, the task shows face validity.
+
+**Construct (or content) validity**, so far as the development of behavioral experiments is concerned, refers to the similarity between the behavioral or cognitive domains being tested by a given task in the mouse model and human patient. This means that for tests to show construct validity, the tasks must be designed to directly model specific aspects of the genetic disorder and additionally that performance be subserved by similar neural substrates and/or cognitive process across species. More specifically, the tasks need to be developed to explicitly model the human disorder, not solely rely on creative post hoc interpretations of behavioral performance on general behavioral tasks. One necessity of construct validity is that a basic understanding of the disorder being modeled is required, such that the research is into translating a behavioral phenotype across species, not providing the primary elucidation of any phenotype at all in a model.
+
+**Predictive validity** refers to the utility of a mouse model as a proxy for the patient in studies of disease progression or therapeutic intervention—this can refer to either the endpoints of a behavioral study or the physiology of the model. Although predictive validity is commonly thought of as a characteristic of phenotyping approaches, it is more accurate to state that predictive validity is the quantified endpoint of an adequately
+designed behavioral phenotyping experiment—that is, to define some behavior or set of behaviors that serve as valid outcome measures for later studies. In other words, predictive validity is only present when behavioral performance of the model during a given experiment proves useful for inferring or correlating dosage of a given mutation, disease progression, or treatment outcomes in not only the model, but also the clinical population.
+
+###Gross Behavioral Phenotype of Mouse Models of Down Syndrome
+
+Commonly, the selection of behavioral tasks to evaluate a behavioral phenotype emphasizes either a high-throughput battery tasks to determine gross deficits for cognitive function or a limited selection of tasks that roughly assay cognitive processing. There are definite advantages to this approach as it provides a rich array of information from commonly implemented, easily interpreted tasks, but this approach does not explicitly model the behavioral phenotypes of the human disorder being modeled. When a behavioral screening approach becomes essential is for the primary screen for phenotypes in novel mouse disease models. For example, in cases where the mouse model has not been evaluated for gross cognitive function, this process is analogous to initial neuropsychological screens given in the clinic prior to more in depth neurocognitive testing.
+
+|Study|Finding|
+|---|---|
+|**Medial Temporal Lobe**||
+|**Smith et al. (2013)**|Impaired Metric, Impaired object recognition at 24 hours, Impaired context processing, <i>Intact</i> object recognition at 5 min, <i>Intact</i> configural object recognition |
+|**Kleschevnikov et al. (2012)**|Impaired place recognition, Impaired object recognition, Impaired contextual fear conditioning|
+|**Falzi et al. (2011)**|Impaired delay match to place in hidden platform water maze, Impaired place avoidance, Impaired contextual fear conditioning|
+|**Lockrow et al. (2011)**|Impaired object recognition|
+|**Sanders et al. (2009)**|<i>Intact</i> incremental repeated acquisition|
+|**Fernandez and Garner (2008)**|<i>Intact</i> contextual learning, <i>Intact</i> Episodic-like memory|
+|**Fernandez and Garner (2007)**|<i>Intact</i> object recognition at 24 hours|
+|**Moran et al (2002)**|Impaired visual platform water maze, Impaired hidden platform water maze|
+|**Hyde and Crnic (2002)**|<i>Intact</i> spatial novelty detection, <i>Intact</i> object recogniton|
+|**Escorihuela et al. (1995)**|<i>Intact<i/> cued-platform water maze, Impaired hidden platform water maze|
+|**Prefrontal Cortex**||
+||<i>**Inhibition**</i>|
+|**Driscoll et al (2004)**|Impaired sustained attention, Heightened sensitivity to error|
+|**Turner et al (2001)**|Increased motor stereotypy, Intact acoustic startle|
+||<i>**Set-shifting**</i>|
+|**Granholm et al. (2002)**|Impaired response rule learning, Impaired reversal learning|
+||<i>**Working Memory**</i>|
+|**Kleschevnikov et al. (2012 J Neurosci)**|Impaired spontaneous alternation|
+|**Falzi et al. (2011)**|Impaired spontaneous alternation|
+|**Demas et al (1996)**|<i>Intact</i> spontaneous alternation|
+|**Bimonte-Nelson et al. (2003)**|Impaired working memory with increased cognitive load|
+|**Demas et al (1996)**|Impaired working memory with increased load, Impaired retention at 50 days|
+|**Cerebellum**||
+|**Hampton et al. (2004)**|Abnormal gait and stride pattern|
+|**Hyde et al. (2000)**|<i>Intact</i> peg running, <i>Intact</i> rotarod, <i>Intact</i> accelerating rotarod|
+|**Gutierrez-Castellanos et al (2013)**| Impaired vestibulo-ocular reflex |
+<i>**Table X. Behavioral assays that have been performed on different mouse models of Down Syndrome.</i>**
 
 ###Endophenotyping Approach
 
@@ -71,6 +140,7 @@ For these, as well as many other reasons, research into schizophrenia has forced
 
 In this study we evaluate propose a clear strategy to efficiently and comprehensively characterize neurobehavioral deficits in the Ts65Dn mouse model of Down Syndrome. This approach uses neurocognitive theory to design and select behavioral tasks that test specific hypotheses concerning the genetic disorder being studied-specifically those proposed as part of the Arizona Cognitive Task Battery (ACTB) used to study human populations with Down Syndrome. This approach extends the utility of mouse models by integrating the expertise of clinical neurology and cognitive neuroscience into the mouse behavioral laboratory. Further, by directly emphasizing the reciprocal translation of research between human disease states and the associated mouse models, we demonstrate is is possible for both groups to mutually inform each other’s research to more efficiently generate hypotheses and elucidate treatment strategies.
 
+
 #Materials and Methods
 
 #Animals
@@ -81,7 +151,16 @@ As detailed by Jackson Laboratory, the segmentally trisomic Ts<sup>(1716)</sup>6
 
 #Behavioral Model of Arizona Cognitive Task Batteries
 
-The week prior to testing, all animals were handled in 15 min daily sessions and given an opportunity to habituate to the clear or red apparatus for at least 15 min and acclimate to sucrose pellet rewards. Behavioral tasks emphasizing exploratory behaviors (under *Hippocampus and Medial Temporal Lobe* in **Table 2**) were presented in a pseudorandomized order between mice (randomized within the Ts65Dn mice and a 2N wildtype littermate was yoked to a given Ts65Dn mouse to account for any potential task order effects), followed by spontaneous alternation and motor tasks, then response and reversal learning tasks. After these tasks, mice received training on the cheeseboard, and then finally were presented with the the quality of life/adaptive functional measures to reduce the influence of any anxiety measures on later task performance.
+Perhaps the most important consideration made in the generation of this mouse homolog of the ACTB is that of affect (*i.e.*, emotional valence). At least in the memory domain, the most common behavioral paradigms are the Morris water maze, the water radial arm maze, the Barnes maze, and active/passive avoidance of foot (or mouth) shock. What these tasks have in common is that they are spatial memory tasks subserved by a wide number of different neural networks. Furthermore, it is difficult to identify common memory tasks in humans that are directly modeled by these murine tasks, though some research has been done using virtual navigation in humans, but rarely in the context of genetic disease (*cf.*, **Goodrich-Hunsaker et al., 2010; MacLeod et al., 2010**).
+
+The most problematical factor shared among these tasks is the use of negative reinforcement motivating task performance. For the water mazes, the mouse is placed in a pool of cool (usually 24–28 C) water and is required to swim to locate a platform to escape the water—something that mice do not do as well as rats (*cf*., **Whishaw and Tomie, 1996**). In the Barnes maze, the mouse is placed on a round tabletop with a number of equally-spaced holes along the periphery of the maze and is required to find a hidden goal box placed under one of the holes to escape a bright light and/ or loud noise aversive stimulus. For the active or passive avoidance tasks, the mouse is required to avoid receiving a foot shock by either actively exiting or passively not entering into a predefined area of space. This negative reinforcement approach is particularly troublesome for comparison with clinical populations, which do not regularly receive negative reinforcement such as cold or applied electrical stimuli to motivate task performance. Non-aversive versions of a number of the water-based tasks are available, but are not common in mouse behavioral phenotyping screens (*e.g.*, dry land water maze (cheeseboard) and radial arm maze).
+
+To overcome this potential confound of anxiety or negative affect in behavioral tasks used in mice, we focused on tasks that emphasize spontaneous exploration in mice. Particularly, focusing on the tendency of mice to show heightened exploration of changes to their environment. For experiments wherein it was necessary to provide motivation, the mouse was given sucrose pellet rewards that were shown in preliminary testing to be highly palatable to the mouse.
+
+Additionally, the behavioral tasks included in the mouse model of the ACTB were designed such that any researcher with a digital camera and extra space to set up a 1 meter diameter table could recapitulate the methods. This was considered essential as often touchscreen or other operant systems run in excess of $50,000 USD, a hurdle insurmountable to most research laboratories. With this in mind, alternative experiments that test the same domains will be provided in the discussion.
+
+Due to differences among species, the language attribute was not evaluated in the Ts65Dn mouse model, as human receptive and productive language are not modeled by Ultrasonic Volcatlizations (USV), the state of the art analysis of vocal behaviors in rodents. In contrast to suggestions by **Edgin et al. (2012)**, tests for quality of life and adaptive function were adapted for the mouse model, providing another dimension to animal model research than previously available to the behavioral researcher.
+
 
 | Domain/Test | Ability Assessed | Mouse Analog|
 |---|---|---|
@@ -108,7 +187,9 @@ The week prior to testing, all animals were handled in 15 min daily sessions and
 | Finger Sequencing Task | Motor sequencing | Capellini handling |
 | NEPSY visuomotor precision | Visuomotor tracking/Hand-eye coordination | Parallel rung walk|
 | CANTAB SRT | Motor response time/Attention | *not modeled* |
-<i>**Table 2. Development of a Mouse Model for the Arizona Cognitive Task Battery (ACTB). In order to isolate the contribution of of spatial features from sensory/perceptual features on task performance, all paradigms in the Hippocampus and Medial Temporal Lobe section were run twice, once in the presence and once absence of environmental cues.**</i>
+<i>**Table X. Development of a Mouse Model for the Arizona Cognitive Task Battery (ACTB). In order to isolate the contribution of of spatial features from sensory/perceptual features on task performance, all paradigms in the Hippocampus and Medial Temporal Lobe section were run twice, once in the presence and once absence of environmental cues. Note that within the Hippocampus and Medial Temporal Lobe section there are additional tasks run in the mouse model that do not appear in the ACTB that are intended to more fully characterize any deficits observed in the mouse model.**</i>
+
+The week prior to testing, all animals were handled in 15 min daily sessions and given an opportunity to habituate to the clear or red apparatus for at least 15 min and acclimate to sucrose pellet rewards. Behavioral tasks emphasizing exploratory behaviors (under *Hippocampus and Medial Temporal Lobe* in **Table X**) were presented in a pseudorandomized order between mice (randomized within the Ts65Dn mice and a 2N wildtype littermate was yoked to a given Ts65Dn mouse to account for any potential task order effects), followed by spontaneous alternation and motor tasks, then response and reversal learning tasks. After these tasks, mice received training on the cheeseboard, and then finally were presented with test designed to evaluate quality of life/adaptive functional measures to reduce the influence of any anxiety measures on later task performance.
 
 ##Tests of Spatiotemporal Attributes
 
@@ -797,6 +878,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 * Mouse version of ACTB can be used to more specifically assess contributions of different brain regions for intellectual disabilities observed in Down Syndrome
 * Mouse ACTB may serve as a Down Syndrome-specific outcome measure for tests of novel therapeutics
 * Potentially use this mouse ACTB to define prodromal states in Ts65Dn mouse for putative Alzheimer's Disease-like phenotypes or progression
+* List touchscreen tasks from Tim Bussey that model essentially the same thing as a great direction/alternative to mine.
 
 ###Strengths of Mouse ACTB
 
