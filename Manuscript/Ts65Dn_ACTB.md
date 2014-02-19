@@ -223,7 +223,7 @@ The week prior to testing, all animals were handled in 15 min daily sessions and
 Method:
 Each mouse was habituated to the cheeseboard for 30 min the day prior to experimentation with food pellets distributed in each hole. At the beginning of each trial, a sucrose reward pellet was placed in one of the holes of the cheeseboard (located within the midpoint of the NorthEast, NorthWest, SouthEast or SouthWest quadrant). A mouse was then released at one of the cardinal points (*e.g.,* North, South, East, or West at the edge of the cheeseboard) as latency in seconds and distance in centimeters travelled to locate and consume the reward was recorded. Each day, the mouse received a trial from each of the four cardinal directions (order randomized between mice and between days within mice). There were 5 minutes separating each trial for each mouse. After the fourth day of training, the mice were given a probe trial wherein there was no reward. The search patterns of the mice were evaluated.
 
-![Cheeseboard](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Cheeseboard.png?raw=TRUE)
+![Cheeseboard](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Cheeseboard.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Cheeseboard apparatus in the experimental space. The cheeseboard measured 1 m in diameter and was elevated 1 m from the floor.</i>**
 
@@ -234,13 +234,13 @@ Each mouse was habituated to the cheeseboard for 30 min the day prior to experim
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the metric/coordinate test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the objects were moved closer together to an 8 cm separation and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
-![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Metric.png?raw=TRUE)
+![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Metric.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Metric.png?raw=TRUE)
+![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Metric.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -251,13 +251,13 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the topological/categorical test, four objects were placed in a square in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the front two objects were transposed, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
-![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Topological.png?raw=TRUE)
+![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Topological.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Topological.png?raw=TRUE)
+![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Topological.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -268,13 +268,13 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the location recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was moved at a diagonal to a new location (still 25 cm separation between the two objects), and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
-![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_LocationRecognition.png?raw=TRUE)
+![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_LocationRecognition.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Location Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_LocationRecognition.png?raw=TRUE)
+![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_LocationRecognition.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Location Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -288,13 +288,13 @@ Method:
 During session 1, two identical copies of a first object (object 1) were placed at the ends of the box 2.5 cm from the end walls and centered between the long walls. The mouse was placed in the center of the box facing away from both objects. The mouse was given 5 min to freely explore the objects. After 5 min, the mouse was removed to a small holding cup for 5 min. During this time, the first objects were replaced with two duplicates of a second object (Object 2). For Session 2, the mouse was again placed in the apparatus and allowed to explore. After 5 min, the mouse was removed to the holding cup for 5 min and the objects were replaced with two duplicates of a third object (Object 3). For Session 3, the mouse was given 5 min to explore. After 5 min, the mouse was removed into a small cup for 5 min and an unused copy of the first and an unused copy of the third object were placed into the box. The mouse was again placed into the box and allowed to explore the two objects (*i.e.*, Objects 1 and 3) during a 5 min test session. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the third over the first object. A ratio value approaching 1 suggest the mouse strongly explored the first over the third object.
 
 
-![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_TemporalOrdering.png?raw=TRUE)
+![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_TemporalOrdering.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Temporal Ordering for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_TemporalOrdering.png?raw=TRUE)
+![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_TemporalOrdering.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Temporal ordering for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -305,13 +305,13 @@ During session 1, two identical copies of a first object (object 1) were placed 
 Method:
 In addition to reflecting impaired temporal ordering, increased exploration of the first object over the third could also be interpreted as being due to difficulty in remembering the first object prior to the test session. To minimize and con- trol for such general memory deficits, a novelty detection of visual objects task was performed. Briefly, on a different day mice received three sessions during which they were allowed to explore three novel sets of objects (Objects 4, 5, 6) similarly to the temporal ordering tasks. During the test session, the first object and a novel fourth object (Object 7) were presented and the mice were allowed 5 min to explore. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the familiar over the novel object. A ratio value approaching 1 suggest the mouse strongly explored the novel over the familiar object.
 
-![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_NoveltyDetection.png?raw=TRUE)
+![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_NoveltyDetection.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Novelty Detection for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_NoveltyDetection.png?raw=TRUE)
+![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_NoveltyDetection.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of theNovelty Detection for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -322,13 +322,13 @@ In addition to reflecting impaired temporal ordering, increased exploration of t
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min Test Phase in which one object from the Study Phase remained the same (AB) and the other compound object is created from one component of each of the previous familiar objects, (*e.g.*, AD). That is, the “novel” object (AD) is composed of the same elements, but rearranged into a novel configuration. Therefore, the object is “novel” by virtue of its configuration, not by its elements, each of which was present in one of the original compound stimuli. Exploration of each compound object was scored as a single unit. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
-![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity.png?raw=TRUE)
+![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Ambiguity.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity.png?raw=TRUE)
+![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Ambiguity.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -339,13 +339,13 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min control task during which CD was replaced by two never before seen objects (EF) was also performed. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
-![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
+![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_Ambiguity_Control.png?raw=TRUE)
+![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Ambiguity_Control.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -357,13 +357,13 @@ Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the object recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was replaced by a novel object that had never before been experienced byt he mouse, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. This procedure was carried out in each box separately for delays of 1 hour and 24 hours. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. a ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 
-![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Clear_ObjectRecognition.png?raw=TRUE)
+![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_ObjectRecognition.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Object Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
-![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript_Draft_Figures/Diagrams/Red_ObjectRecognition.png?raw=TRUE)
+![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_ObjectRecognition.png?raw=TRUE)
 
 **<i>Figure Caption: Layout of the Object Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
@@ -441,7 +441,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 
 ####Cheeseboard
 
-![Cheeseboard Track](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_TRACK.png?raw=TRUE)
+![Cheeseboard Track](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Cheeseboard_TRACK.png?raw=TRUE)
 
 **<i>Figure Caption: Top. 2N wildtype mouse performance on cheeseboard. Bottom. Ts65Dn mouse performance on cheeseboard</i>**
 
@@ -466,7 +466,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_Latency.pdf?raw=TRUE)
+![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Cheeseboard_Latency.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Raw latency (s) to obtain reward. Bottom. Percent latency to obtain reward each day scaled by latency on Day 1.</i>**
 
@@ -491,7 +491,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Cheeseboard Distance](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Cheeseboard_Distance.pdf?raw=TRUE)
+![Cheeseboard Distance](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Cheeseboard_Distance.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Raw distance (cm) to obtain reward. Bottom. Percent distance to obtain reward each day scaled by latency on Day 1.</i>**
 
@@ -514,7 +514,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Coordinate](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/CategoricalCoordinate.pdf?raw=TRUE)
+![Coordinate](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues.</i>**
 
@@ -533,7 +533,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Categorical](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/CategoricalCoordinate.pdf?raw=TRUE)
+![Categorical](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
 **<i>Figure Caption: Bottom. Topological/Categorical processing performance in the presence and absence of extra-maze, distal cues.</i>**
 
@@ -554,7 +554,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Location Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/LocRec.pdf?raw=TRUE)
+![Location Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/LocRec.pdf?raw=TRUE)
 
 **<i>Figure Caption: Spatial Location recognition performance in the presence and absence of extra-maze, distal cues.</i>**
 
@@ -575,7 +575,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Temporal Ordering](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/TempOrder.pdf?raw=TRUE)
+![Temporal Ordering](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/TempOrder.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Temporal ordering for visual objects in the presence and absence of extra-maze, distal cues.</i>**
 
@@ -594,7 +594,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Novelty Detection](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/TempOrder.pdf?raw=TRUE)
+![Novelty Detection](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/TempOrder.pdf?raw=TRUE)
 
 **<i>Figure Caption: Bottom. Visual object novelty detection control task in the presence and absence of extra-maze, distal cues.</i>**
 
@@ -615,7 +615,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	spatiotemporal$GROUPS 1 0.0000 0.000005    0 0.984
 	Residuals       18 0.2136 0.011865
 
-![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Ambiguous.pdf?raw=TRUE)
+![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Ambiguous.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Configural feature ambiguity test in the presence and absence of extra-maze, distal cues.</i>**
 
@@ -635,7 +635,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Ambiguous.pdf?raw=TRUE)
+![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Ambiguous.pdf?raw=TRUE)
 
 **<i>Figure Caption: Bottom. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues.</i>**
 
@@ -654,7 +654,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	spatiotemporal$GROUPS 1 0.2365 0.23653  29.51 3.68e-05 ***
 	Residuals       18 0.1443 0.00802
 
-![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ObjectRec.pdf?raw=TRUE)
+![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ObjectRec.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
@@ -675,7 +675,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ObjectRec.pdf?raw=TRUE)
+![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ObjectRec.pdf?raw=TRUE)
 
 **<i>Figure Caption: Bottom. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
@@ -692,7 +692,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Spontaneous Alternation](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/SpontaneousAlternation.pdf?raw=TRUE)
+![Spontaneous Alternation](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/SpontaneousAlternation.pdf?raw=TRUE)
 
 **<i>Figure Caption: Spontaneous/Delayed Alternation performance.</i>**
 
@@ -709,13 +709,13 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Response learning](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ResponseAcquisition.pdf?raw=TRUE)
+![Response learning](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ResponseAcquisition.pdf?raw=TRUE)
 
 **<i>Figure Caption: Response rule acquisition.</i>**
 
 ####Rule Reversal Learning
 
-![Reversal Raw](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Reversal_RAW.pdf?raw=TRUE)
+![Reversal Raw](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Reversal_RAW.pdf?raw=TRUE)
 
 **<i>Figure Caption: Response rule reversal raw data converted to cumulative response.</i>**
 
@@ -742,7 +742,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 
 
 
-![Reversal Processed](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Reversal_Factors.pdf?raw=TRUE)
+![Reversal Processed](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Reversal_Factors.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Changepoint, or trial at which each mouse learned to reverse the rule. Middle. Number of perseverative errors in trial 1-20 trials. Bottom. Number of Regressive erros in trials 20-40.</i>**
 
@@ -766,7 +766,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	capellini$GROUP 1 649.8  649.8  92.68 1.6e-08 ***
 	Residuals    18 126.2   7.0
 
-![Capellini latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Capellini_Latency.pdf?raw=TRUE)
+![Capellini latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Capellini_Latency.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Latency to consume capellini. Bottom. Total number of atypical behaviors.</i>**
 
@@ -793,7 +793,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Capellini Errors](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Capellini_Errors.pdf?raw=TRUE)
+![Capellini Errors](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Capellini_Errors.pdf?raw=TRUE)
 
 **<i>Figure Caption: Atypical Behaviors. Top. Number of times mouse paws came together. Middle. Number of times mouse lost contact with capellini with one paw. Bottom. Number of times mouse pulled capellini with mouth rather than paw.</i>**
 
@@ -813,7 +813,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Parallel Rung Walking](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/ParallelRung.pdf?raw=TRUE)
+![Parallel Rung Walking](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ParallelRung.pdf?raw=TRUE)
 
 **<i>Figure Caption: Top. Raw number of foot slips in a 1 minute period of free exploration. Bottom. Number of foot slips scaled by the total number of steps.</i>**
 
@@ -846,7 +846,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	---
 	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-![Nesting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Nesting.pdf?raw=TRUE)
+![Nesting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Nesting.pdf?raw=TRUE)
 
 **<i>Figure Caption: Nesting Behaviors. Top. Latency to contact nesting material. Middle. Latency to first dig in nesting material. Bottom. Latency to complete nest.</i>**
 
@@ -873,7 +873,7 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 	neophagia$group 1 31126  31126  83.74 3.44e-08 ***
 	Residuals    18  6691   372
 
-![Neophobia](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/Neophagia.pdf?raw=TRUE)
+![Neophobia](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Neophagia.pdf?raw=TRUE)
 
 **<i>Figure Caption: Neophagia Behaviors. Top. Latency to start to consume novel food in a familiar environemnt. Middle. Latency to start to consume familiar food in a novel environemnt. Bottom. Latency to start to consume a novel food in a novel environment.</i>**
 
@@ -881,13 +881,13 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 
 ##Grouping Tasks by Domain: Principal Component Analysis
 
-![PCA Task Comparison](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Tasks.pdf?raw=TRUE)
+![PCA Task Comparison](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/PCA_Tasks.pdf?raw=TRUE)
 
 **<i>Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Two major components emerge, accounting for 57.76% of the variance. These components seem to be behavioral tasks dependent upon MTL structures clustering together and executive+motor+adaptive function components clustering together.</i>**
 
 ---
 
-![PCA Sorting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript_Draft_Figures/Plots/PCA_Sorting.pdf?raw=TRUE)
+![PCA Sorting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/PCA_Sorting.pdf?raw=TRUE)
 
 **<i>Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Using the components extracted above, all mice were correctly sorted into groups using the primary component. The secondary component accounting for slightly over 9% of the variance failed to sort the groups effetively.</i>**
 
