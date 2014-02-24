@@ -216,6 +216,12 @@ The week prior to testing, all animals were handled in 15 min daily sessions and
 
 ##Tests of Spatiotemporal Attributes
 
+![Room Setup](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Red_RoomSetup.png?raw=TRUE)
+
+**<i>Figure Caption: Side by side comparison of environment with clear box and available extra maze cues and red box with no environmental cues available. Note, for the red box condition the extramaze cues were removed fromt he room, just in case the red Plexiglass was not optically transparent to the mice.</i>**
+
+---
+
 ###Spatial
 
 ####Cheeseboard
@@ -240,12 +246,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 ---
 
-![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Metric.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
-
----
-
 ####Topological / Categorical Processing
 
 Method:
@@ -257,11 +257,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 ---
 
-![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Topological.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
-
----
 
 ####Location Recognition
 
@@ -272,11 +267,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 **<i>Figure Caption: Layout of the Location Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
----
-
-![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_LocationRecognition.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of the Location Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
 ---
 
@@ -294,11 +284,6 @@ During session 1, two identical copies of a first object (object 1) were placed 
 
 ---
 
-![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_TemporalOrdering.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of the Temporal ordering for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
-
----
 
 ####Temporal Order Control: Novelty Detection for Visual Objects
 
@@ -309,11 +294,7 @@ In addition to reflecting impaired temporal ordering, increased exploration of t
 
 **<i>Figure Caption: Layout of the Novelty Detection for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
----
 
-![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_NoveltyDetection.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of theNovelty Detection for Visual Objects task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
 ##Sensory/Perceptual Attributes
 
@@ -328,11 +309,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 ---
 
-![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Ambiguity.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
-
----
 
 ####Feature Ambiguity Control: Novelty Detection for Configural Objects
 
@@ -345,11 +321,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 ---
 
-![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_Ambiguity_Control.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
-
----
 
 ####Object Recognition at 1 hour and 24 hour delays
 
@@ -361,11 +332,6 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 
 **<i>Figure Caption: Layout of the Object Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
----
-
-![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Red_ObjectRecognition.png?raw=TRUE)
-
-**<i>Figure Caption: Layout of the Object Recognition task in the experimental space. With the red box, the mice did not have access to distal cues to guide behavioral decisions</i>**
 
 
 ##Tests of Executive Function
