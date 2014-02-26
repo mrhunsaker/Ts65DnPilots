@@ -1,8 +1,6 @@
 #Adaptation of the Arizona Cognitive Task Battery for use with the Ts65Dn Mouse Model of Down Syndrome
-
-###Michael R. Hunsaker, Ph.D.<sup>1,*</sup>, Genevieve K. Smith<sup>2</sup>, Raymond P. Kesner, Ph.D<sup>1</sup>.
+###Michael R. Hunsaker, Ph.D.<sup>1,</sup>\*, Genevieve K. Smith<sup>2</sup>, Raymond P. Kesner, Ph.D<sup>1</sup>.
 ####<sup>1</sup>Department of Psychology, <sup>2</sup>Program in Neuroscience. University of Utah, Salt Lake City, UT, USA
-
 
 #Background & Introduction
 
@@ -30,7 +28,7 @@ As it is nonverbal, it has been demonstrated that visual-spatial abilities appea
 
 In the memory domain, Down Syndrome results in deficits for digit or word span as well as general memory deficits with long delays prior to recall. Working memory, specifically verbal working memory is disrupted in Down Syndrome. For visual and spatial memory, it appears that Down Syndrome results in specific memory deficits when memory span is increased. Again, as suggested by the language deficits, it has been shown that individuals with Down Syndrome have greater impairments for verbal than visual-spatial span. Down Syndrome also results in long term memory deficits.
 
-Despite these memory deficits, implicit memory and perceptual priming appear to be normal. This pattern suggests that there is an explicit memory deficit in Down Syndrome, meaning that when memory requires temporal or spatial processes, there is a deficit. This has implicated hippocampus and medial temporal lobe function in Down Syndrome pathology, as well as the prefrontal cortex for working memory. Implicit memory, dependent upon different brain areas, appears to be spared, if not slightly facilitated in Down Syndrome (*i.e.*, word stem or perceptual priming tasks). A summary of select behavioral findings in Down Syndrome is presented in *Table 1*.
+Despite these memory deficits, implicit memory and perceptual priming appear to be normal. This pattern suggests that there is an explicit memory deficit in Down Syndrome, meaning that when memory requires temporal or spatial processes, there is a deficit. This has implicated hippocampus and medial temporal lobe function in Down Syndrome pathology, as well as the prefrontal cortex for working memory. Implicit memory, dependent upon different brain areas, appears to be spared, if not slightly facilitated in Down Syndrome (*i.e.*, word stem or perceptual priming tasks). A summary of select behavioral findings in Down Syndrome is presented in **Table 1**.
 
 ---
 
@@ -185,7 +183,7 @@ Due to differences among species, the language attribute was not evaluated in th
 
 ---
 
-| Domain/Test | Ability Assessed | Mouse Analog|
+| Domain/Test | Ability Assessed | Analogous Task in Mice|
 |---|---|---|
 | **Benchmark** |||
 | KBIT-II verbal subscale |  Receptive and Productive language | *not modeled* |
@@ -200,7 +198,7 @@ Due to differences among species, the language attribute was not evaluated in th
 || <i>**Spatial Attribute**</i> ||
 | CANTAB PALS | Spatial associative memory | Location Recognition |
 | Virtual Water Maze | Spatial memory/navigation | Cheeseboard |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *not evaluated* | Spatial relationships |Coordinate, Categorical |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *not evaluated* | Spatial relationships | Metric, Topological |
 || <i>**Temporal Attribute**</i> ||
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *not evaluated* | Temporal processing/Sequence learning | Temporal order for visual objects |
 || <i>*Sensory/Perceptual Attribute*</i> ||
@@ -372,13 +370,13 @@ Mice were given three neophobia tests. The first was in their homecage. Each mou
 
 For exploratory tasks, ratio values were computed after the following formula: Exploration of the object of interest (or all objects in the 5 min session of interest) minus the exploration of the other objects or last 5 min of the habituation session. This was divided by the sum of all exploration across both sessions or of both objects. As a formula this is depicted as: (A-B)/(A+B).
 
-For the reversal learning, the number of perseverative errors (continuing old rule) during the first 20 (1-20) trials were computed. The number of regressive errors (returning to old rule) were calculated during trials 21-40. A frequentist change point algorithm developed by **Gallistel and colleagues (2004)** was used to compute the point at which each mouse showed evidence for having learned to apply the new rule.
+For the reversal learning, the number of perseverative errors (continuing old rule) during the first 20 (1-20) trials were computed. The number of regressive errors (returning to old rule) were calculated during trials 21-40. A frequentist change point algorithm developed by **Gallistel et al (2004)** and translated in the R programming language by **Diep et al. (2012)** was used to compute the point at which each mouse showed evidence for having learned to apply the new rule.
 
 Data are all plotted in DataGraph (3.21 beta, Visual Data Tools, Inc. Chapel Hill, NC.). Ratio data and computed factors are plotted as a bar plot to the mean with all collected data points overlain. Repeated data are presented as a line graph at the mean of each block, with all data points overlain.
 
 ##Tests for equal variance and heteroscedasticity.
 
-Prior to statistical analyses, the data were tested for normalcy (Shapiro–Wilk test) and homoscedacity (Browne–Forsythe test). Repeated measures were evaluated for sphericity using Mauchly's test of sphericity using R 3.0.1.
+Prior to statistical analyses, the data were tested for normalcy (Shapiro–Wilk test) and homoscedacity (Browne–Forsythe test). Repeated measures were evaluated for sphericity using Mauchly's test of sphericity and necessary adjustments were made using the Huhn-Feldt correction using R 3.0.1.
 
 ##Parametric Statistical Analysis
 
@@ -418,7 +416,7 @@ During the probe trial, Ts65Dn mice spent significantly less time in the quadran
 
 ![Cheeseboard Probe](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Cheeseboard_Probe.pdf?raw=TRUE)
 
-**<i>Figure 13: Top. Percent dwell time in the goal quadrant for each mouse. Bottom. Average distance for each mouse from the previously rewarded location (measure from <b>REF</b>).**</i>
+**<i>Figure 13: Top. Percent dwell time in the goal quadrant for each mouse. Bottom. Average distance (in cm) for each mouse from the previously rewarded location (measure from <b>REF</b>).**</i>
 
 ####Metric / Coordinate Processing
 
@@ -426,16 +424,11 @@ For detection of a metric change (**Figure 14**), Ts65Dn mice showed significant
 
 ![Coordinate](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
-**<i>Figure 14: Top. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 14: Top. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues. Bottom. Topological/Categorical processing performance in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Topological / Categorical Processing
 
 For detection of a topological change (**Figure 14**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=78.52,p<5.55e-8) but not for the red box (F(1,18)=1.489,p=.238).
-
-
-![Categorical](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/CategoricalCoordinate.pdf?raw=TRUE)
-
-**<i>Figure 14: Bottom. Topological/Categorical processing performance in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Location Recognition
 
@@ -471,15 +464,11 @@ For detection of configural feature ambiguity (**Figure 17**), Ts65Dn mice did n
 
 ![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Ambiguous.pdf?raw=TRUE)
 
-**<i>Figure 17: Top. Configural feature ambiguity test in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 17: Top. Configural feature ambiguity test in the presence and absence of extra-maze, distal cues. Bottom. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Feature Ambiguity Control Task: Novelty Detection for Configural Object
 
 For detection of configural feature novelty (**Figure 17**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=12.27,p=.00254) but not for the red box (F(1,18)=.012,p=.916). These data suggest that the presence of spatial cues, but not configural feature novelty detection ordering resulted in deficits in the clear box.
-
-![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Ambiguous.pdf?raw=TRUE)
-
-**<i>Figure 17: Bottom. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Object Recognition
 
@@ -489,15 +478,11 @@ For object recognition memory at 1 hour (**Figure 18**), Ts65Dn mice did not sho
 
 ![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ObjectRec.pdf?raw=TRUE)
 
-**<i>Figure 18: Top. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 18: Top. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues. Bottom. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
 #####Long (24 hr) Delay
 
 For object recognition memory at 24 hours (**Figure 18**), Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=46.23,p<2.29e-6) as well as for the red box (F(1,18)=31.36,p=2.58e-5). These data suggest that the presence of spatial cues, but not object recognition resulted in deficits in the clear box.
-
-![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ObjectRec.pdf?raw=TRUE)
-
-**<i>Figure 18: Bottom. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
 ---
 
@@ -513,13 +498,15 @@ For spontaneous alternation (**Figure 19**), Ts65Dn mice showed fewer alternatio
 
 ####Response Learning
 
-For the learning of a turn response (**Figure 20**), Ts65Dn mice took significantly longer to learn the rule than 2N control mice. There was a main effect for groups (F(1,76)=30.24,p=4.92e-7), a main effect for block of trials (F(1,76)=502.86,p<2e-16). There was also an interaction among group and block (F(1,76)=7.82,p=.00654). This interaction was the result of the Ts65Dn mice taking longer to learn the rule. For the final block of 20 trials, there were no differences in performance for Ts65Dn and 2N control mice.
+For the learning of a turn response (**Figure 20**), Ts65Dn mice took significantly longer to learn the rule than 2N control mice. There was a main effect for groups (F(1,76)=4.24,p=.013), a main effect for block of trials (F(1,76)=502.86,p<2e-16). There was also an interaction among group and block (F(1,76)=7.82,p=.00654). This interaction was the result of the Ts65Dn mice taking longer to learn the rule. For the final block of 20 trials, there were no differences in performance for Ts65Dn and 2N control mice.
 
 ![Response learning](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ResponseAcquisition.pdf?raw=TRUE)
 
 **<i>Figure 20: Response rule acquisition.</i>**
 
 ####Rule Reversal Learning
+
+For the reversal of a turn response (**Figure 21**), Ts65Dn mice took significantly longer to learn the rule than 2N control mice. There was a main effect for groups (F(1,76)=4.952,p=.029), a main effect for block of trials (F(1,76)=24.62,p<4e-6). There was also a trend toward there being an interaction among group and block (F(1,76)=3.21,p=.077). This nonsignificant interaction was the result of the Ts65Dn mice taking longer to learn to reverse the rule. In fact, the Ts65Dn mice were only impaired relative to the 2N control mice for the first block of 20 trials. For the remaining blocks of trials there were no differences in performance for Ts65Dn and 2N control mice.
 
 ![Reversal Raw](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Reversal_RAW.pdf?raw=TRUE)
 
@@ -531,7 +518,6 @@ For reversal learning (**Figure 21, Figure 22**), Ts65Dn mice showed significant
 
 **<i>Figure 22: Top. Changepoint, or trial at which each mouse learned to reverse the rule. Middle. Number of perseverative errors in trial 1-20 trials. Bottom. Number of Regressive erros in trials 20-40.</i>**
 
-
 ---
 
 ##Motor Function
@@ -539,7 +525,6 @@ For reversal learning (**Figure 21, Figure 22**), Ts65Dn mice showed significant
 ####Capellini Handling
 
 For the capellini task (**Figure 23**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for latency, with Ts65Dn mice taking longer to eat the pasta on average (F(1,18)=14.74,p=.0012). Ts65Dn mice also made a greater number of pasta handling errors (F(1,18)=92.68,p=1.6e-8)
-
 
 ![Capellini latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Capellini_Latency.pdf?raw=TRUE)
 
@@ -554,7 +539,6 @@ For type of errors in the capellini handling task (**Figure 24**), Ts65Dn mice s
 ####Parallel Rung Walking
 
 For the parallel rung walking task (**Figure 25**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for the number of foot slips in a 1 minute session (F(1,18)=27,32,p=5.7e-5).  When adjusted for number of steps, Ts65Dn mice still showed a greater number of foot slip errors (F(1,18)=11.70,p=.00305)
-
 
 ![Parallel Rung Walking](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ParallelRung.pdf?raw=TRUE)
 
@@ -591,14 +575,11 @@ To determine if there were a general structure to the tasks being used in the mo
 
 **<i>Figure 28: Principal Component Analysis focusing on behavioral paradigms. Two major components emerge, accounting for 57.76% of the variance. These components seem to be behavioral tasks dependent upon MTL structures clustering together and executive+motor+adaptive function components clustering together.</i>**
 
----
-
 ![PCA Sorting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/PCA_Sorting.pdf?raw=TRUE)
 
 **<i>Figure 29: Principal Component Analysis focusing on behavioral paradigms. Using the components extracted above, all mice were correctly sorted into groups using the primary component. The secondary component accounting for slightly over 9% of the variance failed to sort the groups effetively.</i>**
 
 #Discussion
-
 ###General Discussion
 
 * Mouse ACTB tests same brain regions and cognitive domains as the ACTB designed for use in Down Syndrome subjects
