@@ -3,10 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Labels</key>
-	<string>Response Acquisition
-Percent Correct
-Blocks of 20 Trials
-2N Control
+	<string>2N Control
 Ts65Dn
 
 Reversal Learning
@@ -136,6 +133,17 @@ Percent Distance to Reward
 Distance (cm)
 Percent Day 1
 Blocks of 4 Trials
+
+Probe Trial - Dwell Time
+No Distal Cues
+Distal Cues
+Probe Trial - Distance from Goal
+No Distal Cues
+Distal Cues
+Percent Dwell Time 
+Mean Distance
+2N Control
+Ts65Dn
 </string>
 	<key>Text</key>
 	<string></string>
