@@ -37,27 +37,27 @@ Despite these memory deficits, implicit memory and perceptual priming appear to 
 |Study|Finding|
 |---|---|
 |**Medial Temporal Lobe**||
-|**Mangan (1992)**|Impaired place learning, <i>Intact</i> response learning|
+|**Mangan (1992)**|Impaired place learning, <i>**Intact**</i> response learning|
 |**Carlesimo et al. (1997)**|Impaired word list learning, Impaired Prose recall|
 |**Pennington et al. (2003)**|Imparied CANTAB PRM, Impaired CANTAB PAL|
 |**Vicari et al. (2005)**|Impaired visual-object pattern learning|
-|**Visu-Petra et al. (2007)**|Impaired CANTAB PRM, Impaired CANTAB PAL, Impaired CANTAB SRM, <i>Intact</i> CANTAB SSP, <i>Intact</i> CATAB SWM|
-|**Edgin et al. (2010)**|Impaired CANTAB PAL, <i>Intact</i> virtual water maze|
+|**Visu-Petra et al. (2007)**|Impaired CANTAB PRM, Impaired CANTAB PAL, Impaired CANTAB SRM, <i>**Intact**</i> CANTAB SSP, <i>**Intact**</i> CATAB SWM|
+|**Edgin et al. (2010)**|Impaired CANTAB PAL, <i>**Intact**</i> virtual water maze|
 |**Prefrontal Cortex**||
 ||<i>**Inhibition**</i>|
 |**Kopp et al (1983)**|Impaired reward-delay latency|
-|**Pennington et al. (2003)**|<i>Intact stopping task|
+|**Pennington et al. (2003)**|<i>**Intact**</i> stopping task|
 |**Lanfranchi et al. (2010)**|Impaired Stroop task|
-|**Edgin et al. (2010a)**|<i>Intact</i> inhibition in modified dots task|
-|**Edgin et al. (2011)**|<i>Intact</i> BRIEF inhibition and emotional control|
-|**Raitano Lee et al. (2011)**|<i>Intact</i> BRIEF inhibition and emotional control|
+|**Edgin et al. (2010a)**|<i>**Intact**</i> inhibition in modified dots task|
+|**Edgin et al. (2011)**|<i>**Intact**</i> BRIEF inhibition and emotional control|
+|**Raitano Lee et al. (2011)**|<i>**Intact**</i> BRIEF inhibition and emotional control|
 ||<i>**Set-shifting**</i>|
 |**Zelazo et al. (1996)**|Impaired dimensional change card sort|
 |**Edgin (2003)**|Impaired dimensional change card sort|
 |**Rowe et al. (2006)**|Impaired weigl color-form sort test|
 |**Lanfranchi et al. (2010)**|Impaired rule shift card test, Impaired modified card sorting test|
 ||<i>**Working Memory**</i>|
-|**Pennington et al. (2003)**|<i>Intact</i> CANTAB SWM, <i>Intact</i> counting span|
+|**Pennington et al. (2003)**|<i>**Intact**</i> CANTAB SWM, <i>**Intact**</i> counting span|
 |**Lanfranchi et al. (2004)**|Impaired on verbal and visuospatial tasks|
 |**Visu-Petra et al. (2007)**|Impaired CANTAB SWM|
 |**Edgin et al. (2010a)**|Impaired working memory phase of modified dots task|
@@ -67,11 +67,11 @@ Despite these memory deficits, implicit memory and perceptual priming appear to 
 |**Connolly and Michael (1986)**|Impaired gross motor and fine motor skill composite on Bruininks Oretsky Test of Motor Performance|
 |**Woodruff-Pak et al. (1994)**|Impaired eye-blink classical conditioning|
 |**Latash et al. (2002)**|Weaker max single- and multifinger force production|
-|**Stedron (2004)**|Impaired rhythmic finger tapping, <i>Intact</i> eye-blink conditioning|
+|**Stedron (2004)**|Impaired rhythmic finger tapping, <i>**Intact**</i> eye-blink conditioning|
 |**Virji-Babul et al. (2006)**|Impaired complex perceptual discrimination using point light display of human action|
 |**Lam et al. (2009)**|Slower on Fitt's task|
-|**Edgin et al. (2010a)**|Impaired finger sequencing, <i>Intact</i> visuomotor precision, <i>Intact</i> CANTAB SRT|
-<i>**Table 1. Brief listing of cognitive and functional deficits in Down Syndrome. table simplified from Edgin et al. (2012).</i>**
+|**Edgin et al. (2010a)**|Impaired finger sequencing, <i>**Intact**</i> visuomotor precision, <i>**Intact**</i> CANTAB SRT|
+<i>**Table 1. Brief listing of cognitive and functional deficits in Down Syndrome. Table simplified from Edgin et al. (2012).**</i>
 
 ##Neurocognitive Testing: Arizona Cognitive Task Battery
 
@@ -98,7 +98,7 @@ To design a battery of behavioral/neurocognitive tasks that could be presented t
 | Finger Sequencing Task |  Motor sequencing |
 | NEPSY visuomotor precision | Visuomotor tracking and hand-eye coordination |
 | CANTAB SRT | Motor response time and attention |
-<i>**Table 2. Tasks included in the Arizona Cognitive Task Battery (ACTB) as reported by Edgin et al. (2010).**</i>
+<i>**Table 2. Tasks included in the Arizona Cognitive Task Battery (ACTB) as developed by Edgin et al. (2010).**</i>
 
 ###Considerations of a Phenotyping Approach
 
@@ -122,15 +122,15 @@ To date, the majority of behavioral assays used to test the behavioral phenotype
 |Study|Finding|
 |---|---|
 |**Medial Temporal Lobe**||
-|**Smith et al. (2013)**|Impaired Metric, Impaired object recognition at 24 hours, Impaired context processing, <i>Intact</i> object recognition at 5 min, <i>Intact</i> configural object recognition |
+|**Smith et al. (2013)**|Impaired Metric, Impaired object recognition at 24 hours, Impaired context processing, <i>**Intact**</i> object recognition at 5 min, <i>**Intact**</i> configural object recognition |
 |**Kleschevnikov et al. (2012)**|Impaired place recognition, Impaired object recognition, Impaired contextual fear conditioning|
 |**Falzi et al. (2011)**|Impaired delay match to place in hidden platform water maze, Impaired place avoidance, Impaired contextual fear conditioning|
 |**Lockrow et al. (2011)**|Impaired object recognition|
-|**Sanders et al. (2009)**|<i>Intact</i> incremental repeated acquisition|
-|**Fernandez and Garner (2008)**|<i>Intact</i> contextual learning, <i>Intact</i> Episodic-like memory|
-|**Fernandez and Garner (2007)**|<i>Intact</i> object recognition at 24 hours|
+|**Sanders et al. (2009)**|<i>**Intact**</i> incremental repeated acquisition|
+|**Fernandez and Garner (2008)**|<i>**Intact**</i> contextual learning, <i>**Intact**</i> Episodic-like memory|
+|**Fernandez and Garner (2007)**|<i>**Intact**</i> object recognition at 24 hours|
 |**Moran et al (2002)**|Impaired visual platform water maze, Impaired hidden platform water maze|
-|**Hyde and Crnic (2002)**|<i>Intact</i> spatial novelty detection, <i>Intact</i> object recogniton|
+|**Hyde and Crnic (2002)**|<i>**Intact**</i> spatial novelty detection, <i>**Intact**</i> object recogniton|
 |**Escorihuela et al. (1995)**|<i>Intact<i/> cued-platform water maze, Impaired hidden platform water maze|
 |**Prefrontal Cortex**||
 ||<i>**Inhibition**</i>|
@@ -141,14 +141,14 @@ To date, the majority of behavioral assays used to test the behavioral phenotype
 ||<i>**Working Memory**</i>|
 |**Kleschevnikov et al. (2012 J Neurosci)**|Impaired spontaneous alternation|
 |**Falzi et al. (2011)**|Impaired spontaneous alternation|
-|**Demas et al (1996)**|<i>Intact</i> spontaneous alternation|
+|**Demas et al (1996)**|<i>**Intact**</i> spontaneous alternation|
 |**Bimonte-Nelson et al. (2003)**|Impaired working memory with increased cognitive load|
 |**Demas et al (1996)**|Impaired working memory with increased load, Impaired retention at 50 days|
 |**Cerebellum**||
 |**Hampton et al. (2004)**|Abnormal gait and stride pattern|
-|**Hyde et al. (2000)**|<i>Intact</i> peg running, <i>Intact</i> rotarod, <i>Intact</i> accelerating rotarod|
+|**Hyde et al. (2000)**|<i>**Intact**</i> peg running, <i>**Intact**</i> rotarod, <i>**Intact**</i> accelerating rotarod|
 |**Gutierrez-Castellanos et al (2013)**| Impaired vestibulo-ocular reflex |
-<i>**Table 3. Behavioral assays that have been performed on different mouse models of Down Syndrome.</i>**
+<i>**Table 3. Behavioral assays that have been performed on different mouse models of Down Syndrome.**</i>
 
 ###Endophenotyping Approach
 
@@ -177,7 +177,7 @@ Perhaps the most important consideration made in the generation of this mouse ho
 
 The most problematical factor shared among these tasks is the use of negative reinforcement motivating task performance. For the water mazes, the mouse is placed in a pool of cool (usually 24–28 degrees C) water and is required to swim to locate a platform to escape the water—something that mice do not do as well as rats (*cf*., **Whishaw and Tomie, 1996**). In the Barnes maze, the mouse is placed on a round tabletop with a number of equally-spaced holes along the periphery of the maze and is required to find a hidden goal box placed under one of the holes to escape a bright light and/ or loud noise aversive stimulus. For the active or passive avoidance tasks, the mouse is required to avoid receiving a foot shock by either actively exiting or passively not entering into a predefined area of space. This negative reinforcement approach is particularly troublesome for comparison with clinical populations, which do not regularly receive negative reinforcement such as cold or applied electrical stimuli to motivate task performance. Non-aversive versions of a number of the water-based tasks are available, but are not common in mouse behavioral phenotyping screens (*e.g.*, dry land water maze (cheeseboard) and radial arm maze).
 
-To overcome this potential confound of anxiety or negative affect in behavioral tasks used in mice, we focused on tasks that emphasize spontaneous exploration in mice (**cf.**, **Table 4**). Particularly, focusing on the tendency of mice to show heightened exploration of changes to their environment. For experiments wherein it was necessary to provide motivation, the mouse was given sucrose pellet rewards that were shown in preliminary testing to be highly palatable to the mouse.
+To overcome this potential confound of anxiety or negative affect in behavioral tasks used in mice, we focused on tasks that emphasize spontaneous exploration in mice (*cf.*, **Table 4**). Particularly, focusing on the tendency of mice to show heightened exploration of changes to their environment. For experiments wherein it was necessary to provide motivation, the mouse was given sucrose pellet rewards that were shown in preliminary testing to be highly palatable to the mouse.
 
 Additionally, the behavioral tasks included in the mouse model of the ACTB were designed such that any researcher with access to a digital camera and extra space to set up a 1 meter diameter table could recapitulate the methods. This was considered essential as often touchscreen or other operant systems run in excess of $50,000 USD, a hurdle insurmountable to most research laboratories. With this in mind, alternative experiments that test the same domains will be provided in the discussion.
 
@@ -212,13 +212,15 @@ Due to differences among species, the language attribute was not evaluated in th
 | CANTAB SRT | Motor response time/Attention | *not modeled* |
 <i>**Table 4. Development of a Mouse Model for the Arizona Cognitive Task Battery (ACTB). In order to isolate the contribution of of spatial features from sensory/perceptual features on task performance, all paradigms in the Hippocampus and Medial Temporal Lobe section were run twice, once in the presence and once absence of environmental cues. Note that within the Hippocampus and Medial Temporal Lobe section there are additional tasks run in the mouse model that do not appear in the ACTB that are intended to more fully characterize any deficits observed in the mouse model and potentially inform research into human Down Syndrome.**</i>
 
-The week prior to testing, all animals were handled in 15 min daily sessions and given an opportunity to habituate to the clear or red apparatus for at least 15 min and acclimate to sucrose pellet rewards. Behavioral tasks emphasizing exploratory behaviors (under *Hippocampus and Medial Temporal Lobe* in **Table X**) were presented in a pseudorandomized order between mice (randomized within the Ts65Dn mice and a 2N wildtype littermate was yoked to a given Ts65Dn mouse to account for any potential task order effects), followed by spontaneous alternation and motor tasks, then response and reversal learning tasks. After these tasks, mice received training on the cheeseboard, and then finally were presented with test designed to evaluate quality of life/adaptive functional measures to reduce the influence of any anxiety measures on later task performance.
+The week prior to testing, all animals were handled in 15 min daily sessions and given an opportunity to habituate to the clear or red apparatus for at least 15 min and acclimate to sucrose pellet rewards. Behavioral tasks emphasizing exploratory behaviors (under *Hippocampus and Medial Temporal Lobe* in **Table 4**) were presented in a pseudorandomized order between mice (randomized within the Ts65Dn mice and a 2N wildtype littermate was yoked to a given Ts65Dn mouse to account for any potential task order effects), followed by spontaneous alternation and motor tasks, then response and reversal learning tasks. After these tasks, mice received training on the cheeseboard, and then finally were presented with test designed to evaluate quality of life/adaptive functional measures to reduce the influence of any anxiety measures on later task performance.
 
 ##Tests of Spatiotemporal Attributes
 
+As part of testing spatiotemporal attributes in the Ts65Dn mice, **Smith et al. (2013)** demonstrated that it is important to consider a role for spatial context interfering with tests of sensory/perceptual or temporal processing (*e.g.*, object recognition or sequence learning tasks). This is due to specific alterations in plasticity that have been demonstrated in the dentate gyrus of the Ts65Dn mice (**REFS**) and abnormal anatomy of the dentate gyrus of the hippocampus in individuals with Down Syndrome (**REFS**). To eliminate confounding effects of contextual/spatial memory deficits in Ts65Dn mice, we performed all spatiotemporal experiments twice, once in a red box and no distal cues present, and once with a transparent box and a number of distinct distal cues available (*cf.*, Figure 1).
+
 ![Room Setup](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Red_RoomSetup.png?raw=TRUE)
 
-**<i>Figure Caption: Side by side comparison of environment with clear box and available extra maze cues and red box with no environmental cues available. Note, for the red box condition the extramaze cues were removed fromt he room, just in case the red Plexiglass was not optically transparent to the mice.</i>**
+**<i>Figure 1: Side by side comparison of environment with clear box and available extra maze cues and red box with no environmental cues available. Note, for the red box condition the extramaze cues were removed from the room, just in case the red Plexiglass was not optically transparent to the mice.</i>**
 
 ---
 
@@ -227,46 +229,44 @@ The week prior to testing, all animals were handled in 15 min daily sessions and
 ####Cheeseboard
 
 Method:
-Each mouse was habituated to the cheeseboard for 30 min the day prior to experimentation with food pellets distributed in each hole. At the beginning of each trial, a sucrose reward pellet was placed in one of the holes of the cheeseboard (located within the midpoint of the NorthEast, NorthWest, SouthEast or SouthWest quadrant). A mouse was then released at one of the cardinal points (*e.g.,* North, South, East, or West at the edge of the cheeseboard) as latency in seconds and distance in centimeters travelled to locate and consume the reward was recorded. Each day, the mouse received a trial from each of the four cardinal directions (order randomized between mice and between days within mice). There were 5 minutes separating each trial for each mouse. After the fourth day of training, the mice were given a probe trial wherein there was no reward. The search patterns of the mice were evaluated.
+Each mouse was habituated to the cheeseboard for 30 min the day prior to experimentation with food pellets distributed in each hole (**Figure 2**). At the beginning of each trial, a sucrose reward pellet was placed in one of the holes of the cheeseboard (located within the midpoint of the NorthEast, NorthWest, SouthEast or SouthWest quadrant). A mouse was then released at one of the cardinal points (*e.g.,* North, South, East, or West at the edge of the cheeseboard) as latency in seconds and distance in centimeters travelled to locate and consume the reward was recorded. Each day, the mouse received a trial from each of the four cardinal directions (order randomized between mice and between days within mice). There were 5 minutes separating each trial for each mouse. After the fourth day of training, the mice were given a probe trial wherein there was no reward. The search patterns of the mice were evaluated.
 
 ![Cheeseboard](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Cheeseboard.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Cheeseboard apparatus in the experimental space. The cheeseboard measured 1 m in diameter and was elevated 1 m from the floor.</i>**
+**<i>Figure 2: Layout of the Cheeseboard apparatus in the experimental space. The cheeseboard measured 1 m in diameter and was elevated 1 m from the floor.</i>**
 
 ---
 
 ####Metric / Coordinate Processing
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the metric/coordinate test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the objects were moved closer together to an 8 cm separation and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the metric/coordinate test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the objects were moved closer together to an 8 cm separation and the mouse was allowed to explore for 5 min (**Figure 3**). This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Coordinate](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Metric.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Metric or Coordinate task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
+**<i>Figure 3: Layout of the Metric or Coordinate task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
 ####Topological / Categorical Processing
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the topological/categorical test, four objects were placed in a square in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the front two objects were transposed, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the topological/categorical test, four objects were placed in a square in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the front two objects were transposed, and the mouse was allowed to explore for 5 min (**Figure 4**). This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Categorical](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Topological.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Topological or Categorical task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
+**<i>Figure 4: Layout of the Topological or Categorical task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
-
 
 ####Location Recognition
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the location recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was moved at a diagonal to a new location (still 25 cm separation between the two objects), and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the location recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was moved at a diagonal to a new location (still 25 cm separation between the two objects), and the mouse was allowed to explore for 5 min(**Figure 5**).  This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Location Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_LocationRecognition.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Location Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
-
+**<i>Figure 5: Layout of the Location Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
 
@@ -275,64 +275,55 @@ Each mouse had previously been habituated to the clear and red experimental boxe
 ####Temporal Ordering for Visual Objects
 
 Method:
-During session 1, two identical copies of a first object (object 1) were placed at the ends of the box 2.5 cm from the end walls and centered between the long walls. The mouse was placed in the center of the box facing away from both objects. The mouse was given 5 min to freely explore the objects. After 5 min, the mouse was removed to a small holding cup for 5 min. During this time, the first objects were replaced with two duplicates of a second object (Object 2). For Session 2, the mouse was again placed in the apparatus and allowed to explore. After 5 min, the mouse was removed to the holding cup for 5 min and the objects were replaced with two duplicates of a third object (Object 3). For Session 3, the mouse was given 5 min to explore. After 5 min, the mouse was removed into a small cup for 5 min and an unused copy of the first and an unused copy of the third object were placed into the box. The mouse was again placed into the box and allowed to explore the two objects (*i.e.*, Objects 1 and 3) during a 5 min test session. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the third over the first object. A ratio value approaching 1 suggest the mouse strongly explored the first over the third object.
-
+During session 1, two identical copies of a first object (object 1) were placed at the ends of the box 2.5 cm from the end walls and centered between the long walls. The mouse was placed in the center of the box facing away from both objects. The mouse was given 5 min to freely explore the objects. After 5 min, the mouse was removed to a small holding cup for 5 min. During this time, the first objects were replaced with two duplicates of a second object (Object 2). For Session 2, the mouse was again placed in the apparatus and allowed to explore. After 5 min, the mouse was removed to the holding cup for 5 min and the objects were replaced with two duplicates of a third object (Object 3). For Session 3, the mouse was given 5 min to explore. After 5 min, the mouse was removed into a small cup for 5 min and an unused copy of the first and an unused copy of the third object were placed into the box. The mouse was again placed into the box and allowed to explore the two objects (*i.e.*, Objects 1 and 3) during a 5 min test session (**Figure 6**). This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the third over the first object. A ratio value approaching 1 suggest the mouse strongly explored the first over the third object.
 
 ![Temporal Ordering](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_TemporalOrdering.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Temporal Ordering for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
+**<i>Figure 6: Layout of the Temporal Ordering for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
-
 
 ####Temporal Order Control: Novelty Detection for Visual Objects
 
 Method:
-In addition to reflecting impaired temporal ordering, increased exploration of the first object over the third could also be interpreted as being due to difficulty in remembering the first object prior to the test session. To minimize and con- trol for such general memory deficits, a novelty detection of visual objects task was performed. Briefly, on a different day mice received three sessions during which they were allowed to explore three novel sets of objects (Objects 4, 5, 6) similarly to the temporal ordering tasks. During the test session, the first object and a novel fourth object (Object 7) were presented and the mice were allowed 5 min to explore. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the familiar over the novel object. A ratio value approaching 1 suggest the mouse strongly explored the novel over the familiar object.
+In addition to reflecting impaired temporal ordering, increased exploration of the first object over the third could also be interpreted as being due to difficulty in remembering the first object prior to the test session. To minimize and con- trol for such general memory deficits, a novelty detection of visual objects task was performed. Briefly, on a different day mice received three sessions during which they were allowed to explore three novel sets of objects (Objects 4, 5, 6) similarly to the temporal ordering tasks. During the test session, the first object and a novel fourth object (Object 7) were presented and the mice were allowed 5 min to explore (**Figure 7**). This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the familiar over the novel object. A ratio value approaching 1 suggest the mouse strongly explored the novel over the familiar object.
 
 ![Novelty Detection](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_NoveltyDetection.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Novelty Detection for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
-
-
+**<i>Figure 7: Layout of the Novelty Detection for Visual Objects task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ##Sensory/Perceptual Attributes
 
 ####Feature Ambiguity
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min Test Phase in which one object from the Study Phase remained the same (AB) and the other compound object is created from one component of each of the previous familiar objects, (*e.g.*, AD). That is, the “novel” object (AD) is composed of the same elements, but rearranged into a novel configuration. Therefore, the object is “novel” by virtue of its configuration, not by its elements, each of which was present in one of the original compound stimuli. Exploration of each compound object was scored as a single unit. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min Test Phase in which one object from the Study Phase remained the same (AB) and the other compound object is created from one component of each of the previous familiar objects, (*e.g.*, AD). That is, the “novel” object (AD) is composed of the same elements, but rearranged into a novel configuration (**Figure 8**). Therefore, the object is “novel” by virtue of its configuration, not by its elements, each of which was present in one of the original compound stimuli. Exploration of each compound object was scored as a single unit. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Ambiguity](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Ambiguity.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
+**<i>Figure 8: Layout of the Configural Ambiguity task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
-
 
 ####Feature Ambiguity Control: Novelty Detection for Configural Objects
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min control task during which CD was replaced by two never before seen objects (EF) was also performed. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
+Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min control task during which CD was replaced by two never before seen objects (EF) was also performed (**Figure 9**). This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Ambiguity Control](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_Ambiguity_Control.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
+**<i>Figure 9: Layout of the Configural Ambiguity Control task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ---
-
 
 ####Object Recognition at 1 hour and 24 hour delays
 
 Method:
-Each mouse had previously been habituated to the clear and red experimental boxes. For the object recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was replaced by a novel object that had never before been experienced byt he mouse, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. This procedure was carried out in each box separately for delays of 1 hour and 24 hours. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. a ratio value approaching 1 suggest the mouse dramatically explored the change.
-
+Each mouse had previously been habituated to the clear and red experimental boxes. For the object recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was replaced by a novel object that had never before been experienced byt he mouse, and the mouse was allowed to explore for 5 min (**Figure 10**). This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. This procedure was carried out in each box separately for delays of 1 hour and 24 hours. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. a ratio value approaching 1 suggest the mouse dramatically explored the change.
 
 ![Object Recognition](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Clear_ObjectRecognition.png?raw=TRUE)
 
-**<i>Figure Caption: Layout of the Object Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
-
-
+**<i>Figure 10: Layout of the Object Recognition task in the experimental space. With the clear box, the mice were able to use distal cues to guide behavioral decisions</i>**
 
 ##Tests of Executive Function
 
@@ -411,239 +402,104 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 
 **<i>Figure Caption: Top. 2N wildtype mouse performance on cheeseboard. Bottom. Ts65Dn mouse performance on cheeseboard</i>**
 
-	"Cheeseboard_RawLatency"
-	Error: Within
-	                  Df Sum Sq Mean Sq F value Pr(	F)
-	cheeseboard$GROUPS          1 42228  42228 185.645 <2e-16 ***
-	cheeseboard$DAYS           1 151010 151010 663.876 <2e-16 ***
-	cheeseboard$GROUPS:cheeseboard$DAYS 1   76   76  0.333 0.566
-	Residuals              76 17287   227
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For unadjusted raw latency (**Figure 11**), Ts65Dn mice took significantly longer to find the reward than 2N control mice. There was a main effect for groups (F(1,76)=185.645,p<2e-16), a main effect for block of trials (F(1,76)=663.876,p<2e-16). There was no interaction among group and block (F(1,76)=0.333,p=.566).
 
-	##################################################################################
-	"Cheeseboard_ScaledLatency"
-	Error: Within
-	                  Df Sum Sq Mean Sq F value  Pr(	F)
-	cheeseboard$GROUPS          1  4424  4424  48.44 1.05e-09 ***
-	cheeseboard$DAYS           1 70015  70015 766.64 < 2e-16 ***
-	cheeseboard$GROUPS:cheeseboard$DAYS 1  1346  1346  14.74 0.000253 ***
-	Residuals              76  6941   91
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+When one scaled the latency data to account for differential performance during block 1, a different pattern of data emerge (**Figure 11**). There is still an effect for groups (F(1,76)=48.44,p=1.05e-9) as well as an effect for blocks (F(1,76)=766.64,p<2e-16). However, when the data are scaled for performance on block 1, a clear interaction emerges wherein the Ts65Dn mice show a more shallow learning curve than 2N control mice (F(1,76)=14.74,p=.000253).
+
 
 ![Cheeseboard Latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Cheeseboard_Latency.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Raw latency (s) to obtain reward. Bottom. Percent latency to obtain reward each day scaled by latency on Day 1.</i>**
+**<i>Figure 11: Top. Raw latency (s) to obtain reward. Bottom. Percent latency to obtain reward each day scaled by latency on Day 1.</i>**
 
-	"Cheeseboard_RawDistance"
-	Error: Within
-	                  Df Sum Sq Mean Sq F value  Pr(	F)
-	cheeseboard$GROUPS          1 1675916 1675916 88.406 2.27e-14 ***
-	cheeseboard$DAYS           1 2830638 2830638 149.318 < 2e-16 ***
-	cheeseboard$GROUPS:cheeseboard$DAYS 1  4893  4893  0.258  0.613
-	Residuals              76 1440741  18957
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For unadjusted raw distance (**Figure 12**), Ts65Dn mice took significantly longer to find the reward than 2N control mice. There was a main effect for groups (F(1,76)=88.406,p<2.27e-14), a main effect for block of trials (F(1,76)=149.318,p<2e-16). There was no interaction among group and block (F(1,76)=0.258,p=.613).
 
-	##################################################################################
-	"Cheeseboard_ScaledDistance"
-	Error: Within
-	                  Df Sum Sq Mean Sq F value  Pr(	F)
-	cheeseboard$GROUPS          1  5680  5680 25.194 3.32e-06 ***
-	cheeseboard$DAYS           1 30934  30934 137.217 < 2e-16 ***
-	cheeseboard$GROUPS:cheeseboard$DAYS 1  876   876  3.887  0.0523 .
-	Residuals              76 17133   225
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+When one scaled the distance data to account for differential performance during block 1, a different pattern of data emerge (**Figure 12**). There is still an effect for groups (F(1,76)=25.194,p=3.32e-6) as well as an effect for blocks (F(1,76)=137.217,p<2e-16). However, when the data are scaled for performance on block 1, a trend toward a significant interaction emerges wherein the Ts65Dn mice show a more shallow learning curve than 2N control mice (F(1,76)=3.887,p=.0523).
 
 ![Cheeseboard Distance](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Cheeseboard_Distance.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Raw distance (cm) to obtain reward. Bottom. Percent distance to obtain reward each day scaled by latency on Day 1.</i>**
+**<i>Figure 12: Top. Raw distance (cm) to obtain reward. Bottom. Percent distance to obtain reward each day scaled by latency on Day 1.</i>**
 
 **Note: I do have the probe trial data, it is not very convincing as control mice almost immediately realize we moved the reward and they start exploring anew.
 
 ####Metric / Coordinate Processing
 
-	"Metric / Coordinate Red"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.10790 0.1079  29.94 3.38e-05 ***
-	Residuals       18 0.06486 0.0036
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For detection of a metric change (**Figure 13**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=39.38,p<6.44e-6) as well as the red box (F(1,18)=29.94,p<3.38e-5).
 
-	##################################################################################
-	"Metric / Coordinate Clear"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.6462 0.6462  39.38 6.44e-06 ***
-	Residuals       18 0.2954 0.0164
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ![Coordinate](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 13: Top. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Topological / Categorical Processing
 
-	"Topological / Categorical Red"
-	           Df Sum Sq Mean Sq F value Pr(	F)
-	spatiotemporal$GROUPS 1 0.00884 0.008837  1.489 0.238
-	Residuals       18 0.10685 0.005936
+For detection of a topological change (**Figure 13**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=78.52,p<5.55e-8) but not for the red box (F(1,18)=1.489,p=.238).
 
-	##################################################################################
-	"Topological / Categorical Clear"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.672 0.6720  78.52 5.55e-08 ***
-	Residuals       18 0.154 0.0086
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ![Categorical](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/CategoricalCoordinate.pdf?raw=TRUE)
 
-**<i>Figure Caption: Bottom. Topological/Categorical processing performance in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 13: Bottom. Topological/Categorical processing performance in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Location Recognition
 
-	"Location Recognition Red"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.5578 0.5578   62 3.07e-07 ***
-	Residuals       18 0.1619 0.0090
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Location Recognition Clear"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.7411 0.7411  36.39 1.05e-05 ***
-	Residuals       18 0.3666 0.0204
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For detection of a change in the spatial location of a visual object (**Figure 14**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=36.39,p<1.05e-5) as well as in the red box (F(1,18)=62.0,p=3.07e-7).
 
 ![Location Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/LocRec.pdf?raw=TRUE)
 
-**<i>Figure Caption: Spatial Location recognition performance in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 14: Spatial Location recognition performance in the presence and absence of extra-maze, distal cues.</i>**
 
 ##Temporal Attribute
 
 ####Temporal Ordering for Visual Objects
 
-	"TemporalOrder_Red"
-	           Df Sum Sq Mean Sq F value Pr(	F)
-	spatiotemporal$GROUPS 1 0.02048 0.020480  2.267 0.149
-	Residuals       18 0.16260 0.009033
-
-	##################################################################################
-	 "TemporalOrder_Clear"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.4697 0.4697  68.24 1.55e-07 ***
-	Residuals       18 0.1239 0.0069
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For temporal ordering (**Figure 15**), Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=68.24,p<1.55e-7) but not for the red box (F(1,18)=2.267,p=.149). These data suggest that the presence of spatial cues, but not temporal ordering resulted in deficits in the clear box.
 
 ![Temporal Ordering](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/TempOrder.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Temporal ordering for visual objects in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 15: Top. Temporal ordering for visual objects in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Temporal Order Control Task: Novelty Detection for Visual Objects
 
-	"NoveltyDetection_Red"
-	           Df Sum Sq Mean Sq F value Pr(	F)
-	spatiotemporal$GROUPS 1 0.02592 0.02592  2.909 0.105
-	Residuals       18 0.16038 0.00891
-
-	##################################################################################
-	"NoveltyDetection_Clear"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.8201 0.8201  82.78 3.74e-08 ***
-	Residuals       18 0.1783 0.0099
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For the novelty detection task run as a control for temporal ordering (**Figure 15**), Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=82.78,p<3.74e-8) but not for the red box (F(1,18)=2.909,p=.105). These data suggest that the presence of spatial cues, but not temporal ordering or novelty detection resulted in deficits in the clear box.
 
 ![Novelty Detection](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/TempOrder.pdf?raw=TRUE)
 
-**<i>Figure Caption: Bottom. Visual object novelty detection control task in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 15: Bottom. Visual object novelty detection control task in the presence and absence of extra-maze, distal cues.</i>**
 
 ##Sensory/Perceptual Attribute
 
 ####Feature Ambiguity
 
-	Ambiguity_Red
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.2689 0.26889  34.13 1.56e-05 ***
-	Residuals       18 0.1418 0.00788
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	Ambiguity_Clear
-	           Df Sum Sq Mean Sq F value Pr(	F)
-	spatiotemporal$GROUPS 1 0.0000 0.000005    0 0.984
-	Residuals       18 0.2136 0.011865
+For detection of configural feature ambiguity (**Figure 16**), Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=34.13,p<1.56e-5) but not for the red box (F(1,18)=.021,p=.984). These data suggest that the presence of spatial cues, but not configural feature ambiguity resulted in deficits in the clear box.
 
 ![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Ambiguous.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Configural feature ambiguity test in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 16: Top. Configural feature ambiguity test in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Feature Ambiguity Control Task: Novelty Detection for Configural Object
 
-
-	Ambiguity_Control_Red
-  	          Df Sum Sq Mean Sq F value Pr(>F)
-	spatiotemporal$GROUPS 1 0.00018 0.00018  0.012 0.916
-	Residuals       18 0.28052 0.01558
-
-	##################################################################################
-	Ambiguity_Control_Clear
-	           Df Sum Sq Mean Sq F value Pr(>F)
-	spatiotemporal$GROUPS 1 0.1186 0.11858  12.27 0.00254 **
-	Residuals       18 0.1739 0.00966
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For detection of configural feature novelty (**Figure 16**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=12.27,p=.00254) but not for the red box (F(1,18)=.012,p=.916). These data suggest that the presence of spatial cues, but not configural feature novelty detection ordering resulted in deficits in the clear box.
 
 ![Feature Ambiguity](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Ambiguous.pdf?raw=TRUE)
 
-**<i>Figure Caption: Bottom. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 16: Bottom. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues.</i>**
 
 ####Object Recognition
 
 #####Short (1 hr) Delay
 
-	"ObjectRecognition_1hr_Red"
-	           Df Sum Sq Mean Sq F value Pr(	F)
-	spatiotemporal$GROUPS 1 0.00924 0.009245  0.908 0.353
-	Residuals       18 0.18325 0.010181
-
-	##################################################################################
-	"ObjectRecognition_1_hr_Clear"
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.2365 0.23653  29.51 3.68e-05 ***
-	Residuals       18 0.1443 0.00802
+For object recognition memory at 1 hour (**Figure 17**), Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=29.51,p<3.68e-5) but not for the red box (F(1,18)=.908,p=.353). These data suggest that the presence of spatial cues, but not object recognition resulted in deficits in the clear box.
 
 ![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ObjectRec.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 17: Top. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
 #####Long (24 hr) Delay
 
-	ObjectRecognition_24hr_Red
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.2182 0.21820  31.36 2.58e-05 ***
-	Residuals       18 0.1253 0.00696
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	ObjectRecognition_24hr_Clear)
-	           Df Sum Sq Mean Sq F value  Pr(	F)
-	spatiotemporal$GROUPS 1 0.25225 0.25225  46.23 2.29e-06 ***
-	Residuals       18 0.09821 0.00546
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For object recognition memory at 24 hours (**Figure 17**), Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=46.23,p<2.29e-6) as well as for the red box (F(1,18)=31.36,p=2.58e-5). These data suggest that the presence of spatial cues, but not object recognition resulted in deficits in the clear box.
 
 ![Object Recognition](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ObjectRec.pdf?raw=TRUE)
 
-**<i>Figure Caption: Bottom. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.</i>**
+**<i>Figure 17: Bottom. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
 ---
 
@@ -651,66 +507,31 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 
 ####Spontaneous Alternation
 
-	"DelayedAlternation"
-	           Df Sum Sq Mean Sq F value Pr(	F)
-	spatiotemporal$GROUPS 1  3125  3125  23.85 0.00012 ***
-	Residuals       18  2359   131
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For spontaneous alternation (**Figure 18**), Ts65Dn mice showed fewer alternations than 2N control mice (F(1,18)=23.85,p=.00012).
 
 ![Spontaneous Alternation](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/SpontaneousAlternation.pdf?raw=TRUE)
 
-**<i>Figure Caption: Spontaneous/Delayed Alternation performance.</i>**
+**<i>Figure 18: Spontaneous/Delayed Alternation performance.</i>**
 
 ####Response Learning
 
-	"Response_Learning"
-
-	Error: Within
-	                       Df Sum Sq Mean Sq F value  Pr(	F)
-	response_learning$GROUP            1  1288  1288  30.24 4.92e-07 ***
-	response_learning$DAY             1 21418  21418 502.86 < 2e-16 ***
-	response_learning$GROUP:response_learning$DAY 1  333   333  7.82 0.00654 **
-	Residuals                   76  3237   43
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For the learning of a turn response (**Figure 19**), Ts65Dn mice took significantly longer to learn the rule than 2N control mice. There was a main effect for groups (F(1,76)=30.24,p=4.92e-7), a main effect for block of trials (F(1,76)=502.86,p<2e-16). There was also an interaction among group and block (F(1,76)=7.82,p=.00654). This interaction was the result of the Ts65Dn mice taking longer to learn the rule. For the final block of 20 trials, there were no differences in performance for Ts65Dn and 2N control mice.
 
 ![Response learning](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ResponseAcquisition.pdf?raw=TRUE)
 
-**<i>Figure Caption: Response rule acquisition.</i>**
+**<i>Figure 19: Response rule acquisition.</i>**
 
 ####Rule Reversal Learning
 
 ![Reversal Raw](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Reversal_RAW.pdf?raw=TRUE)
 
-**<i>Figure Caption: Response rule reversal raw data converted to cumulative response.</i>**
+**<i>Figure 20: Response rule reversal raw data converted to cumulative response.</i>**
 
-	"Reversal_Changepoint"
-	            Df Sum Sq Mean Sq F value  Pr(	F)
-	response_factors$group 1  1805 1805.0  21.43 0.000208 ***
-	Residuals       18  1516  84.2
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Reversal_Perseverative"
-	            Df Sum Sq Mean Sq F value Pr(	F)
-	response_factors$group 1 145.8 145.80  11.98 0.00278 **
-	Residuals       18 219.0  12.17
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Reversal_Regressive"
-	            Df Sum Sq Mean Sq F value Pr(	F)
-	response_factors$group 1  5.0  5.00  0.287 0.599
-	Residuals       18 313.8  17.43
-
-
+For reversal learning (**Figure 20, Figure 21**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the trial at which the mice changed preference from old rule to new rule (changepoint; F(1,18)=21.43,p=.000208). For the first 20 trials of reversal learning, Ts65Dn mice showed a greater number of perseverative errors (F(1,18)=11.98,p=.00278). For trials 21-40, there was no difference between Ts65Dn mice and 2N control mice for regressive errors (F(1,18)=.287,p=.599).
 
 ![Reversal Processed](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Reversal_Factors.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Changepoint, or trial at which each mouse learned to reverse the rule. Middle. Number of perseverative errors in trial 1-20 trials. Bottom. Number of Regressive erros in trials 20-40.</i>**
+**<i>Figure 21: Top. Changepoint, or trial at which each mouse learned to reverse the rule. Middle. Number of perseverative errors in trial 1-20 trials. Bottom. Number of Regressive erros in trials 20-40.</i>**
 
 
 ---
@@ -719,69 +540,27 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 
 ####Capellini Handling
 
-	"Capellini_Latency"
-	        Df Sum Sq Mean Sq F value Pr(	F)
-	capellini$GROUP 1  1201 1201.2  14.74 0.0012 **
-	Residuals    18  1467  81.5
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For the capellini task (**Figure 22**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for latency, with Ts65Dn mice taking longer to eat the pasta on average (F(1,18)=14.74,p=.0012). Ts65Dn mice also made a greater number of pasta handling errors (F(1,18)=92.68,p=1.6e-8)
 
-	##################################################################################
-	"Capellini_OverallAtypical"
-	        Df Sum Sq Mean Sq F value Pr(	F)
-	capellini$GROUP 1 649.8  649.8  92.68 1.6e-08 ***
-	Residuals    18 126.2   7.0
 
 ![Capellini latency](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Capellini_Latency.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Latency to consume capellini. Bottom. Total number of atypical behaviors.</i>**
+**<i>Figure 22: Top. Latency to consume capellini. Bottom. Total number of atypical behaviors.</i>**
 
-	"Capellini_PawsTogether"
-	        Df Sum Sq Mean Sq F value  Pr(	F)
-	capellini$GROUP 1 92.45  92.45  42.34 4.06e-06 ***
-	Residuals    18 39.30  2.18
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Capellini_NoContact"
-	        Df Sum Sq Mean Sq F value Pr(	F)
-	capellini$GROUP 1  45.0  45.00  20.35 0.00027 ***
-	Residuals    18  39.8  2.21
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Capellini_MouthPull"
-	        Df Sum Sq Mean Sq F value  Pr(	F)
-	capellini$GROUP 1 84.05  84.05  21.46 0.000207 ***
-	Residuals    18 70.50  3.92
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For type of errors in the capellini handling task (**Figure 23**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the number of times the paws came together (F(1,18)=42.34,p=4.06e-6), for the number of times the mouse lost contact with the pasta (F(1,18)=20.35,p=.00027)and the number of times the mouse pulled the pasta with their mouth rather than using the hands to move it (F(1,18)=21.46,p=.000207).
 
 ![Capellini Errors](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Capellini_Errors.pdf?raw=TRUE)
 
-**<i>Figure Caption: Atypical Behaviors. Top. Number of times mouse paws came together. Middle. Number of times mouse lost contact with capellini with one paw. Bottom. Number of times mouse pulled capellini with mouth rather than paw.</i>**
+**<i>Figure 23: Atypical Behaviors. Top. Number of times mouse paws came together. Middle. Number of times mouse lost contact with capellini with one paw. Bottom. Number of times mouse pulled capellini with mouth rather than paw.</i>**
 
 ####Parallel Rung Walking
 
-	"Ladder_Raw"
-	       Df Sum Sq Mean Sq F value Pr(	F)
-	ladder$groups 1  1549 1548.8  27.32 5.7e-05 ***
-	Residuals   18  1020  56.7
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-	[1] " "
-	[1] "Ladder_Adjusted"
-	       Df  Sum Sq  Mean Sq F value Pr(	F)
-	ladder$groups 1 0.001575 0.0015753  11.7 0.00305 **
-	Residuals   18 0.002423 0.0001346
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+For the parallel rung walking task (**Figure 24**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for the number of foot slips in a 1 minute session (F(1,18)=27,32,p=5.7e-5).  When adjusted for number of steps, Ts65Dn mice still showed a greater number of foot slip errors (F(1,18)=11.70,p=.00305)
+
 
 ![Parallel Rung Walking](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/ParallelRung.pdf?raw=TRUE)
 
-**<i>Figure Caption: Top. Raw number of foot slips in a 1 minute period of free exploration. Bottom. Number of foot slips scaled by the total number of steps.</i>**
+**<i>Figure 24: Top. Raw number of foot slips in a 1 minute period of free exploration. Bottom. Number of foot slips scaled by the total number of steps.</i>**
 
 ---
 
@@ -789,73 +568,36 @@ PCA were run by applying the functions in the *FactoMineR* package in R 3.0.1 an
 
 ####Nesting Behaviors
 
-	"Nesting_Contact"
-	       Df Sum Sq Mean Sq F value Pr(	F)
-	nesting$group 1  7605  7605  152.9 3.1e-10 ***
-	Residuals   18  895   50
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Ts65Dn mice showed significant impairments relative to 2N control mice for nesting measures (**Figure 25**). Ts65Dn mice took longer to make contact with the nesting material (F(1,18)=152.9,p=3.1e-10), for the time it took for them to dig in the media (measured from time of first contact) (F(1,18)=318.6,p=6.79e-13), and the time it took from starting to dig to finish the nest (F(1,18)=94.3,p=1.4e-8).
 
-	##################################################################################
-	"Nesting_Dig"
-	       Df Sum Sq Mean Sq F value  Pr(	F)
-	nesting$group 1 13210  13210  318.6 6.79e-13 ***
-	Residuals   18  746   41
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Nesting_Complete"
-	       Df Sum Sq Mean Sq F value Pr(	F)
-	nesting$group 1 15125  15125  94.3 1.4e-08 ***
-	Residuals   18  2887   160
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 ![Nesting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Nesting.pdf?raw=TRUE)
 
-**<i>Figure Caption: Nesting Behaviors. Top. Latency to contact nesting material. Middle. Latency to first dig in nesting material. Bottom. Latency to complete nest.</i>**
+**<i>Figure 25: Nesting Behaviors. Top. Latency to contact nesting material. Middle. Latency to first dig in nesting material. Bottom. Latency to complete nest.</i>**
 
 ####Neophobia
 
-	"Neophobia_NovelFood"
-	        Df Sum Sq Mean Sq F value  Pr(	F)
-	neophagia$group 1  3485  3485  19.59 0.000326 ***
-	Residuals    18  3201   178
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Neophobia_NovelEnvironment"
-	        Df Sum Sq Mean Sq F value  Pr(	F)
-	neophagia$group 1 11424  11424  40.87 5.09e-06 ***
-	Residuals    18  5032   280
-	---
-	Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-	##################################################################################
-	"Neophobia_NovelBoth"
-	        Df Sum Sq Mean Sq F value  Pr(	F)
-	neophagia$group 1 31126  31126  83.74 3.44e-08 ***
-	Residuals    18  6691   372
+Ts65Dn mice showed significant impairments relative to 2N control mice for neophobia (**Figure 26**). Ts65Dn mice took longer to eat a novel food in a familiar environment(F(1,18)=19.59,p=.000326), took longer to eat a familiar food in a novel environment(F(1,18)=40.87,p=5.09e-6), and took longer to eat a novel food in a novel environment(F(1,18)=83.74,p=3.44e-8).
 
 ![Neophobia](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Neophagia.pdf?raw=TRUE)
 
-**<i>Figure Caption: Neophagia Behaviors. Top. Latency to start to consume novel food in a familiar environemnt. Middle. Latency to start to consume familiar food in a novel environemnt. Bottom. Latency to start to consume a novel food in a novel environment.</i>**
+**<i>Figure 26: Neophagia Behaviors. Top. Latency to start to consume novel food in a familiar environemnt. Middle. Latency to start to consume familiar food in a novel environemnt. Bottom. Latency to start to consume a novel food in a novel environment.</i>**
 
 ---
 
 ##Grouping Tasks by Domain: Principal Component Analysis
 
+To determine if there were a general structure to the tasks being used in the mouse ACTB, a principal component analysis was performed (**Figure 27, Figure 28**). This PCA analysis identified 2 main clusters, with one axis accounting for 57.76% of the variance. This clustered the tasks into groups with all the spatiotemporal tasks and spontaneous alternation in one group, and the executive, motor, and adaptive function tasks comprising a second cluster. When this clustering was used to sort the mice into groups, the principal axis was sufficient to sort the mice into appropriate Ts65Dn and 2N control groups.
+
 ![PCA Task Comparison](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/PCA_Tasks.pdf?raw=TRUE)
 
-**<i>Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Two major components emerge, accounting for 57.76% of the variance. These components seem to be behavioral tasks dependent upon MTL structures clustering together and executive+motor+adaptive function components clustering together.</i>**
+**<i>Figure 27: Principal Component Analysis focusing on behavioral paradigms. Two major components emerge, accounting for 57.76% of the variance. These components seem to be behavioral tasks dependent upon MTL structures clustering together and executive+motor+adaptive function components clustering together.</i>**
 
 ---
 
 ![PCA Sorting](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/PCA_Sorting.pdf?raw=TRUE)
 
-**<i>Figure Caption: Principal Component Analysis focusing on behavioral paradigms. Using the components extracted above, all mice were correctly sorted into groups using the primary component. The secondary component accounting for slightly over 9% of the variance failed to sort the groups effetively.</i>**
+**<i>Figure 28: Principal Component Analysis focusing on behavioral paradigms. Using the components extracted above, all mice were correctly sorted into groups using the primary component. The secondary component accounting for slightly over 9% of the variance failed to sort the groups effetively.</i>**
 
 #Discussion
 
