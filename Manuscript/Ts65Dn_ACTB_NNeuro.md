@@ -216,7 +216,7 @@ The week prior to testing, all animals were handled in 15 min daily sessions and
 
 As part of testing spatiotemporal attributes in the Ts65Dn mice, **Smith et al. (2013)** demonstrated that it is important to consider a role for spatial context interfering with tests of sensory/perceptual or temporal processing (*e.g.*, object recognition or sequence learning tasks). This is due to specific alterations in plasticity that have been demonstrated in the dentate gyrus of the Ts65Dn mice (**REFS**) and abnormal anatomy of the dentate gyrus of the hippocampus in individuals with Down Syndrome (**REFS**). To eliminate confounding effects of contextual/spatial memory deficits in Ts65Dn mice, we performed all spatiotemporal experiments twice, once in a red box and no distal cues present, and once with a transparent box and a number of distinct distal cues available (*cf.*, Figure 1).
 
-![Figure 1](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Figure1_RoomSetup.tiff?raw=TRUE)
+![Figure 1](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Figure1_RoomSetup.pdf?raw=TRUE)
 
 **<i>Figure 1: Side by side comparison of environment with clear box and available extra maze cues and red box with no environmental cues available. Note, for the red box condition the extramaze cues were removed from the room, just in case the red Plexiglass was not optically transparent to the mice.</i>**
 
