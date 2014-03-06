@@ -46,6 +46,7 @@ Perhaps the most important consideration made in testing mouse models of genetic
 | Finger Sequencing Task | Motor sequencing | Capellini handling |
 | NEPSY visuomotor precision | Visuomotor tracking/Hand-eye coordination | Parallel rung walk|
 | CANTAB SRT | Motor response time/Attention | *not modeled* |
+
 <i>**Table 1. Mouse Model for the Arizona Cognitive Task Battery (mACTB). In order to isolate the contribution of of spatial features from sensory/perceptual features on task performance, all paradigms in the Hippocampus and Medial Temporal Lobe section were run twice, once in the presence and once absence of environmental cues. Note that within the Hippocampus and Medial Temporal Lobe section there are additional tasks run in the mouse model that do not appear in the ACTB that are intended to more fully characterize any deficits observed in the mouse model and potentially inform research into human Down Syndrome.**</i>
 
 #Results
@@ -58,13 +59,14 @@ The week prior to testing, all animals were handled in 15 min daily sessions and
 
 ####Spatial Navigation
 
-To evaluate spatial navigation and general spatial memory, mice were tested on a dry land version of the Morris water maze (**REFS**). The Ts76Dn mice showed deficits relative to 2N control mice for raw latency to find reward (**Figure 1**; groups (F(1,76)=185.645,p<2e<sup>-16</sup>), no interaction among group and trial block (F(1,76)=0.333,p=.566)). These deficits are present as well when the data are adjusted for total latency on trial 1 (groups (F(1,76)=48.44,p=1.05e<sup>-9</sup>)) Ts65Dn mice have impaired learning in the Ts65Dn mice in the adjusted data (F(1,76)=14.74,p=.000253).
+To evaluate spatial navigation and general spatial memory, mice were tested on a dry land version of the Morris water maze (**REFS**). The Ts76Dn mice showed deficits relative to 2N control mice for raw latency to find reward (**Figure 1**; groups (F(1,76)=185.645,p<2e<sup>-16</sup>), no interaction among group and trial block (F(1,76)=0.333,p=.566)). These deficits are present as well when the data are adjusted for total latency on trial 1 (groups(F(1,76)=48.44,p=1.05e<sup>-9</sup>)) Ts65Dn mice have impaired learning in the Ts65Dn mice in the adjusted data (F(1,76)=14.74,p=.000253).
 
 The same pattern of effects was observed for the data when evaluated for raw distance covered to find reward (groups (F(1,76)=88.406,p<2.27e<sup>-14</sup>) no interaction among group and block (F(1,76)=0.258,p=.613). Similarly to the latency data, an interaction emerges with Ts65Dn mice showing a shallower learning curve when the data are adjusted for total distance on trial 1 (groups (F(1,76)=25.194,p=3.32e<sup>-6</sup>), interaction (F(1,76)=3.887,p=.0523)).
 
 During the probe trial, Ts65Dn mice spent significantly less time in the quadrant where the reward was previously located (F(1,18)=91.25,p=1.8e<sup>-6</sup>). Ts65Dn mice also on average were a further distance away from the previously rewarded spatial location (F(1,18)=41.7,p=4.47e<sup>-6</sup>).
 
 ![Figure 1](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure2_Cheeseboard.pdf?raw=TRUE)
+
 **<i>Figure 1: a. Raw latency (s) to obtain reward. b. Percent latency to obtain reward each day scaled by latency on Day 1. c. probe trial performance. d. Sample traces from Ts65Dn and 2N Control mice.</i>**
 
 
@@ -77,6 +79,7 @@ To evaluate parietal lobe dependent spatial processing, mice were tested for det
 To specifically test spatial memory, mice were tested for detection of a change in the spatial location of a visual object (**Figure 2**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=36.39,p<1.05e<sup>-5</sup>) as well as in the red box (F(1,18)=62.0,p=3.07e<sup>-7</sup>), suggesting spatial novelty detection deficits in Ts65Dn mice.
 
 ![Figure 2](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure3_Spatiotemporal.pdf?raw=TRUE)
+
 **<i>Figure 2: a. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues. b. Topological/Categorical processing performance. c. Temporal Ordering and d. Novelty Detection performance. e. Spatial Location recognition.</i>**
 
 ##Temporal Attribute
@@ -92,6 +95,7 @@ To test perirhinal function in Ts65Dn mice, a configural feature ambiguity test 
 Ts65Dn mice were not impaired in a configural ambiguity control task. There was a main effect for groups for the clear box (F(1,18)=12.27,p=.00254) but not for the red box (F(1,18)=.012,p=.916). These data suggest that the presence of spatial cues, but not configural feature novelty detection ordering resulted in deficits in the clear box.
 
 ![Figure 3](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure4_SensoryPerceptual.pdf?raw=TRUE)
+
 **<i>Figure 3: a. Configural feature ambiguity test in the presence and absence of extra-maze, distal cues. b. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues. c. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues. d. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
 Object memory was tested in Ts65Dn mice using object recognition memory at 1 and 24 hours (**Figure 3**), Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=29.51,p<3.68e<sup>-5</sup>) but not for the red box (F(1,18)=.908,p=.353). These data suggest that the presence of spatial cues, but not object recognition resulted in deficits in the clear box.
@@ -107,6 +111,7 @@ Spontaneous alternation was used to test working memory in the Ts65Dn mice (**Fi
 To evaluate rule reversal learning (or behavioral inflexibility) in Ts65Dn mice, the reversal of a turn response was evaluated (**Figure 4**). Ts65Dn mice took significantly longer to learn the rule than 2N control mice. There was a main effect for groups (F(1,76)=4.952,p=.029), a main effect for block of trials (F(1,76)=24.62,p<4e<sup>-6</sup>). There was also a trend toward there being an interaction among group and block (F(1,76)=3.21,p=.077). This nonsignificant interaction was the result of the Ts65Dn mice taking longer to learn to reverse the rule. In fact, the Ts65Dn mice were only impaired relative to the 2N control mice for the first block of 20 trials. For the remaining blocks of trials there were no differences in performance for Ts65Dn and 2N control mice. There was also a main effect for groups for the trial at which the mice changed preference from old rule to new rule (changepoint; F(1,18)=21.43,p=.000208)). For the first 20 trials of reversal learning, Ts65Dn mice showed a greater number of perseverative errors (F(1,18)=11.98,p=.00278). For trials 21-40, there was no difference between Ts65Dn mice and 2N control mice for regressive errors (F(1,18)=.287,p=.599).
 
 ![Figure 4](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure5_ExecutiveFunction.pdf?raw=TRUE)
+
 **<i>Figure 4: a. Response rule reversal raw data converted to cumulative response. b. Reversal Learning. c. Changepoint, or trial at which each mouse learned to reverse the rule. d. Number of perseverative errors in trial 1-20 trials. e. Number of Regressive erros in trials 20-40. f. Spontaneous/Delayed Alternation performance.</i>**
 
 ---
@@ -118,6 +123,7 @@ For the capellini task of manual dexterity (**Figure 5**), Ts65Dn mice showed si
 For the parallel rung walking task (**Figure 5**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for the number of foot slips in a 1 minute session (F(1,18)=27,32,p=5.7e<sup>-5</sup>).  When adjusted for number of steps, Ts65Dn mice still showed a greater number of foot slip errors (F(1,18)=11.70,p=.00305).
 
 ![Figure 5](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure6_Motor.pdf?raw=TRUE)
+
 **<i>Figure 5: a. Latency to consume capellini. b. Total number of atypical behaviors. Top. Number of times mouse paws came together. c. Number of times mouse lost contact with capellini with one paw. d. Number of times mouse pulled capellini with mouth rather than paw. e. Raw number of foot slips in a 1 minute period of free exploration. f. Number of foot slips scaled by the total number of steps.</i>**
 
 ---
@@ -129,6 +135,7 @@ Ts65Dn mice showed significant impairments relative to 2N control mice for measu
 Ts65Dn mice showed significant impairments relative to 2N control mice for neophobia (**Figure 27**). Ts65Dn mice took longer to eat a novel food in a familiar environment(F(1,18)=19.59,p=.000326), took longer to eat a familiar food in a novel environment(F(1,18)=40.87,p=5.09e<sup>-6</sup>), and took longer to eat a novel food in a novel environment(F(1,18)=83.74,p=3.44e<sup>-8</sup>).
 
 ![Figure 6](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure7_AdaptiveFunction.pdf?raw=TRUE)
+
 **<i>Figure 6: a. Latency to contact nesting material. b. Latency to first dig in nesting material. Bottom. Latency to complete nest. c. Latency to start to consume novel food in a familiar environemnt. d. Latency to start to consume familiar food in a novel environemnt. e. Latency to start to consume a novel food in a novel environment.</i>**
 
 ---
@@ -136,7 +143,6 @@ Ts65Dn mice showed significant impairments relative to 2N control mice for neoph
 ##Grouping Tasks by Domain: Principal Component Analysis
 
 To determine if there were a general structure to the tasks being used in the mouse ACTB, a principal component analysis was performed. This PCA analysis identified 2 main clusters, with one axis accounting for 57.76% of the variance, and the other only 9%. This clustered the tasks into groups with all the spatiotemporal tasks and spontaneous alternation in one group, and the executive, motor, and adaptive function tasks comprising a second cluster. Although it seems odd for the alternation to be sorted in with MTL dependent tasks, this makes sense given the spontaneous alternation protocol was also an unrewarded delayed alternation task, known to be hippocampus dependent (**REFS**). When this clustering was used to sort the mice into groups, the principal axis was sufficient to sort the mice into appropriate Ts65Dn and 2N control groups.
-
 
 #Discussion
 ###General Discussion
