@@ -4,7 +4,7 @@
 
 #Abstract
 
-We propose and validate a clear strategy to efficiently and comprehensively characterize neurobehavioral deficits in the Ts65Dn mouse model of Down Syndrome. This novel approach uses neurocognitive theory to design and select behavioral tasks that test specific hypotheses concerning Down Syndrome. In this manuscript we model in mice the Arizona Cognitive Task Battery used to study human populations with Down Syndrome. This approach extends the utility of mouse models of Down Syndrome by integrating the expertise of clinical neurology and cognitive neuroscience into the mouse behavioral laboratory. Further, by directly emphasizing the reciprocal translation of research between human disease states and the associated mouse models, we demonstrate is is possible for both groups to mutually inform each other’s research to more efficiently generate hypotheses and elucidate treatment strategies.
+We propose and validate a clear strategy to efficiently and comprehensively characterize neurobehavioral deficits in the Ts65Dn mouse model of Down Syndrome. This novel approach uses neurocognitive theory to design and select behavioral tasks that test specific hypotheses concerning Down Syndrome. In this manuscript we model in mice the Arizona Cognitive Task Battery used to study human populations with Down Syndrome. This approach extends the utility of mouse models of Down Syndrome by integrating the expertise of clinical neurology and cognitive neuroscience into the mouse behavioral laboratory. Further, by directly emphasizing the reciprocal translation of research between human disease states and the associated mouse models, we demonstrate is possible for both groups to mutually inform each other’s research to more efficiently generate hypotheses and elucidate treatment strategies.
 
 #Introduction
 
@@ -152,13 +152,7 @@ The week prior to testing, all animals were handled in 15 min daily sessions and
 #Supplemental Methods
 ##Tests of Spatiotemporal Attributes
 
-As part of testing spatiotemporal attributes in the Ts65Dn mice, **Smith et al. (2013)** demonstrated that it is important to consider a role for spatial context interfering with tests of sensory/perceptual or temporal processing (<i>e.g.</i>, object recognition or sequence learning tasks). This is due to specific alterations in plasticity that have been demonstrated in the dentate gyrus of the Ts65Dn mice (**REFS**) and abnormal anatomy of the dentate gyrus of the hippocampus in individuals with Down Syndrome (**REFS**). To eliminate confounding effects of contextual/spatial memory deficits in Ts65Dn mice, we performed all spatiotemporal experiments twice, once in a red box and no distal cues present, and once with a transparent box and a number of distinct distal cues available (<i>cf.</i>, **Figure S1**).
-
-![Figure S1](https://raw.github.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Diagrams/Figure1_RoomSetup.pdf?raw=TRUE)
-
-**<i>Figure S1: Side by side comparison of environment with clear box and available extra maze cues and red box with no environmental cues available. Note, for the red box condition the extramaze cues were removed from the room, just in case the red Plexiglass was not optically transparent to the mice.</i>**
-
----
+As part of testing spatiotemporal attributes in the Ts65Dn mice, **Smith et al. (2013)** demonstrated that it is important to consider a role for spatial context interfering with tests of sensory/perceptual or temporal processing (<i>e.g.</i>, object recognition or sequence learning tasks). This is due to specific alterations in plasticity that have been demonstrated in the dentate gyrus of the Ts65Dn mice (**REFS**) and abnormal anatomy of the dentate gyrus of the hippocampus in individuals with Down Syndrome (**REFS**). To eliminate confounding effects of contextual/spatial memory deficits in Ts65Dn mice, we performed all spatiotemporal experiments twice, once in a red box and no distal cues present, and once with a transparent box and a number of distinct distal cues available.
 
 ###Spatial Navigation
 ####Cheeseboard
@@ -166,37 +160,27 @@ As part of testing spatiotemporal attributes in the Ts65Dn mice, **Smith et al. 
 Method:
 Each mouse was habituated to the cheeseboard for 30 min the day prior to experimentation with food pellets distributed in each hole. At the beginning of each trial, a sucrose reward pellet was placed in one of the holes of the cheeseboard (located within the midpoint of the NorthEast, NorthWest, SouthEast or SouthWest quadrant). A mouse was then released at one of the cardinal points (*e.g.,* North, South, East, or West at the edge of the cheeseboard) as latency in seconds and distance in centimeters travelled to locate and consume the reward was recorded. Each day, the mouse received a trial from each of the four cardinal directions (order randomized between mice and between days within mice). There were 5 minutes separating each trial for each mouse. After the fourth day of training, the mice were given a probe trial wherein there was no reward. The search patterns of the mice were evaluated.
 
----
-
 ###Spatial Processing
 ####Metric / Coordinate Processing
 
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the metric/coordinate test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the objects were moved closer together to an 8 cm separation and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
----
-
 ####Topological / Categorical Processing
 
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the topological/categorical test, four objects were placed in a square in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, the front two objects were transposed, and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
-
----
 
 ####Location Recognition
 
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the location recognition test, two objects were placed in the box separated by 25 cm (from inner edges) and mice were allowed to explore the objects for 15 minutes. After a 5 min interval during which the mice were covered by a heavy cup, one of the objects was moved at a diagonal to a new location (still 25 cm separation between the two objects), and the mouse was allowed to explore for 5 min. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
----
-
 ###Temporal Attribute
 ####Temporal Ordering for Visual Objects
 
 Method:
 During session 1, two identical copies of a first object (object 1) were placed at the ends of the box 2.5 cm from the end walls and centered between the long walls. The mouse was placed in the center of the box facing away from both objects. The mouse was given 5 min to freely explore the objects. After 5 min, the mouse was removed to a small holding cup for 5 min. During this time, the first objects were replaced with two duplicates of a second object (Object 2). For Session 2, the mouse was again placed in the apparatus and allowed to explore. After 5 min, the mouse was removed to the holding cup for 5 min and the objects were replaced with two duplicates of a third object (Object 3). For Session 3, the mouse was given 5 min to explore. After 5 min, the mouse was removed into a small cup for 5 min and an unused copy of the first and an unused copy of the third object were placed into the box. The mouse was again placed into the box and allowed to explore the two objects (<i>i.e.</i>, Objects 1 and 3) during a 5 min test session. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration of each object during the test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing an absolute preference for the third over the first object. A ratio value approaching 1 suggest the mouse strongly explored the first over the third object.
-
----
 
 ####Temporal Order Control: Novelty Detection for Visual Objects
 
@@ -209,16 +193,10 @@ In addition to reflecting impaired temporal ordering, increased exploration of t
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min Test Phase in which one object from the Study Phase remained the same (AB) and the other compound object is created from one component of each of the previous familiar objects, (<i>e.g.</i>, AD). That is, the “novel” object (AD) is composed of the same elements, but rearranged into a novel configuration. Therefore, the object is “novel” by virtue of its configuration, not by its elements, each of which was present in one of the original compound stimuli. Exploration of each compound object was scored as a single unit. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
 
-
----
-
 ####Feature Ambiguity Control: Novelty Detection for Configural Objects
 
 Method:
 Each mouse had previously been habituated to the clear and red experimental boxes. For the configural recognition condition, mice were placed for 15 min in the red box containing two compound objects, AB and CD, separated by 15 cm. Following a 5 min delay under a heavy cup, the mouse underwent a 5-min control task during which CD was replaced by two never before seen objects (EF) was also performed. This procedure was carried out in the clear box that allowed the mouse to see the extra-maze, distal cues as well as in the red box that blocked the ability of the mouse to see these cues. Exploration during the last 5 min of habituation and during the 5 min test session were converted into a ratio value ranging [-1,1] to control for overall exploration. As such, a ratio value approaching -1 is interpreted as the mouse showing continued habituation and thus not noticing the change. A ratio value approaching 1 suggest the mouse dramatically explored the change.
-
-
----
 
 ####Object Recognition at 1 hour and 24 hour delays
 

@@ -3,7 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>Labels</key>
-	<string>2N Control
+	<string>Response Acquisition
+Percent Correct
+Blocks of 20 Trials
+2N Control
 Ts65Dn
 
 Reversal Learning
@@ -16,8 +19,8 @@ Reversal - Changepoints
 Reversal - Perseverative Errors
 Reversal - Regressive Errors
 Changepoint
-Number (Trials 1-20)
-Number (Trials 21-20)
+# (Trials 1-20)
+# (Trials 21-40)
 2N Control
 Ts65Dn
 
@@ -33,21 +36,10 @@ Ratio Value [-1,1]
 2N Control
 Ts65Dn
 
-Coordinate Processing
+Metric / Coordinate
 No Distal Cues
 Distal Cues
-Categorical Processing
-No Distal Cues
-Distal Cues
-Ratio Value [-1,1]
-Ratio Value [-1,1]
-2N Control
-Ts65Dn
-
-Object Recognition - 1 hr
-No Distal Cues
-Distal Cues
-Object Recognition - 24 hr
+Topological / Categorical
 No Distal Cues
 Distal Cues
 Ratio Value [-1,1]
@@ -59,6 +51,17 @@ Temporal Ordering
 No Distal Cues
 Distal Cues
 Novelty Detection
+No Distal Cues
+Distal Cues
+Ratio Value [-1,1]
+Ratio Value [-1,1]
+2N Control
+Ts65Dn
+
+Object Recognition - 1 hr
+No Distal Cues
+Distal Cues
+Object Recognition - 24 hr
 No Distal Cues
 Distal Cues
 Ratio Value [-1,1]
