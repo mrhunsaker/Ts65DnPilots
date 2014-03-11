@@ -1,0 +1,1126 @@
+Exported References will appear here ...
+
+trying to export 62 references ...
+% 24412222
+@Article{pmid24412222,
+   Author="Martinez-Cue, C.  and Delatour, B.  and Potier, M. C. ",
+   Title="{{T}reating enhanced {G}{A}{B}{A}ergic inhibition in {D}own syndrome: {U}se of {G}{A}{B}{A} Î±5-selective inverse agonists}",
+   Journal="Neurosci Biobehav Rev",
+   Year="2014",
+   Pages=" ",
+   Month="Jan",
+   Abstract={Excess inhibition in the brain of individuals carrying an extra copy of chromosome 21 could be responsible for cognitive deficits observed throughout their lives. A change in the excitatory/inhibitory balance in adulthood would alter synaptic plasticity, potentially triggering learning and memory deficits. Î³-Aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the mature central nervous system and binds to GABAA receptors, opens a chloride channel, and reduces neuronal excitability. In this review we discuss methods to alleviate neuronal inhibition in a mouse model of Down syndrome, the Ts65Dn mouse, using either an antagonist (pentylenetetrazol) or two different inverse agonists selective for the Î±5-subunit containing receptor. Both inverse agonists, which reduce inhibitory GABAergic transmission, could rescue learning and memory deficits in Ts65Dn mice. We also discuss safety issues since modulation of the excitatory-inhibitory balance to improve cognition without inducing seizures remains particularly difficult when using GABA antagonists.}
+}
+
+% 24339224
+@Article{pmid24339224,
+   Author="Smith, G. K.  and Kesner, R. P.  and Korenberg, J. R. ",
+   Title="{{D}entate gyrus mediates cognitive function in the {T}s65{D}n/{D}n{J} mouse model of down syndrome}",
+   Journal="Hippocampus",
+   Year="2014",
+   Volume="24",
+   Number="3",
+   Pages="354--362",
+   Month="Mar",
+   Abstract={In the Ts65Dn/DnJ mouse model of Down syndrome (DS), hippocampal deficits of learning and memory are the most robust features supporting this mouse as a valid cognitive model of DS. Although dentate gyrus (DG) dysfunction is suggested by excessive GABAergic inhibition, its role in perturbing DG functions in DS is unknown. We hypothesize that in the Ts65Dn/DnJ mouse, the specific role of the DG is disturbed in its support of contextual and spatial information. Support for this hypothesis comes from rats with DG lesions that show similar deficits. In order to test this hypothesis, we have developed a novel series of spontaneous exploratory tasks that emphasize the importance of recognizing spatial and contextual cues and that involve DG function. The results with this exploratory battery show that Ts65Dn/DnJ mice are impaired in DG-dependent short-term recognition tests involving object recognition with contextual cues, in place recognition and in metric distance recognition relative to wild type littermate controls. Further, whereas Ts65Dn/DnJ mice can recognize object novelty in the absence of contextual cues after a 5-min delay, they cannot do so after a delay of 24 h, suggesting a problem with CA1-mediated consolidation. The results also show that Ts65Dn/DnJ mice are not impaired in tasks (object recognition and configural object recognition) that are mediated by the perirhinal cortex (PRh). These results implicate the DG as a specific therapeutic target and the PRh as a potential therapeutic strength for future research to ameliorate learning and memory in DS. © 2013 Wiley Periodicals, Inc.}
+}
+
+% 24099355
+@Article{pmid24099355,
+   Author="Whitney, K. N.  and Wenger, G. R. ",
+   Title="{{I}mpulsivity and motor activity in aged, male {T}s65{D}n mice}",
+   Journal="Exp Clin Psychopharmacol",
+   Year="2013",
+   Volume="21",
+   Number="5",
+   Pages="345--354",
+   Month="Oct",
+   Abstract={Attention deficit/hyperactivity disorder (ADHD) is more prevalent in children with Down syndrome than in typically developing children. The defining characteristics of ADHD include inattention, impulsivity, and hyperactivity. The main purpose of this study was to determine whether a mouse model of Down syndrome exhibited higher levels of impulsivity than controls. A secondary aim was to examine the effects of d-amphetamine (0.1-10 mg/kg) and fenfluramine (0.3-10 mg/kg) on impulsivity. Seven male Ts65Dn and 9 male littermate control (LC) mice were trained under a response inhibition schedule of reinforcement; the main measure of impulsivity under this schedule is the mean wait time. After behavior stabilized, the mean wait time for the Ts65Dn mice was indistinguishable from that of the LC mice. Administration of 1 mg/kg d-amphetamine increased the mean wait time in both Ts65Dn and LC, though it was statistically significant only for the LC. However, no dose of fenfluramine altered the mean wait time in Ts65Dn or LC mice. An additional aim of these studies was to determine whether Ts65Dn mice displayed higher levels of motor activity than LC mice. A comparison of running wheel activity revealed no difference between Ts65Dn and LC mice. Thus, the results of the current studies suggest that aged, male Ts65Dn mice are no different from age-matched LC mice in terms of impulsivity or motor activity.}
+}
+
+% 24009680
+@Article{pmid24009680,
+   Author="Ruby, N. F.  and Fernandez, F.  and Garrett, A.  and Klima, J.  and Zhang, P.  and Sapolsky, R.  and Heller, H. C. ",
+   Title="{{S}patial memory and long-term object recognition are impaired by circadian arrhythmia and restored by the {G}{A}{B}{A}{A}{A}ntagonist pentylenetetrazole}",
+   Journal="PLoS ONE",
+   Year="2013",
+   Volume="8",
+   Number="8",
+   Pages="e72433",
+   Abstract={Performance on many memory tests varies across the day and is severely impaired by disruptions in circadian timing. We developed a noninvasive method to permanently eliminate circadian rhythms in Siberian hamsters (Phodopussungorus) so that we could investigate the contribution of the circadian system to learning and memory in animals that are neurologically and genetically intact. Male and female adult hamsters were rendered arrhythmic by a disruptive phase shift protocol that eliminates cycling of clock genes within the suprachiasmatic nucleus (SCN), but preserves sleep architecture. These arrhythmic animals have deficits in spatial working memory and in long-term object recognition memory. In a T-maze, rhythmic control hamsters exhibited spontaneous alternation behavior late in the day and at night, but made random arm choices early in the day. By contrast, arrhythmic animals made only random arm choices at all time points. Control animals readily discriminated novel objects from familiar ones, whereas arrhythmic hamsters could not. Since the SCN is primarily a GABAergic nucleus, we hypothesized that an arrhythmic SCN could interfere with memory by increasing inhibition in hippocampal circuits. To evaluate this possibility, we administered the GABAA antagonist pentylenetetrazole (PTZ; 0.3 or 1.0 mg/kg/day) to arrhythmic hamsters for 10 days, which is a regimen previously shown to produce long-term improvements in hippocampal physiology and behavior in Ts65Dn (Down syndrome) mice. PTZ restored long-term object recognition and spatial working memory for at least 30 days after drug treatment without restoring circadian rhythms. PTZ did not augment memory in control (entrained) animals, but did increase their activity during the memory tests. Our findings support the hypothesis that circadian arrhythmia impairs declarative memory by increasing the relative influence of GABAergic inhibition in the hippocampus.}
+}
+
+% 23489250
+@Article{pmid23489250,
+   Author="Colas, D.  and Chuluun, B.  and Warrier, D.  and Blank, M.  and Wetmore, D. Z.  and Buckmaster, P.  and Garner, C. C.  and Heller, H. C. ",
+   Title="{{S}hort-term treatment with the {G}{A}{B}{A}{A} receptor antagonist pentylenetetrazole produces a sustained pro-cognitive benefit in a mouse model of {D}own's syndrome}",
+   Journal="Br. J. Pharmacol.",
+   Year="2013",
+   Volume="169",
+   Number="5",
+   Pages="963--973",
+   Month="Jul",
+   Abstract={Down's syndrome is a common genetic cause of intellectual disability, for which there are no drug therapies. Mechanistic studies in a model of Down's syndrome [Ts65Dn (TS) mice] demonstrated that impaired cognitive function was due to excessive neuronal inhibitory tone. These deficits were normalized by low doses of GABAA receptor antagonists in adult animals. In this study, we explore the therapeutic potential of pentylenetetrazole, a GABAA receptor antagonist with a history of safe use in humans.\\ Long-term memory was assessed by the novel object recognition test in different cohorts of TS mice after a delay following a short-term chronic treatment with pentylenetetrazole. Seizure susceptibility, an index of treatment safety, was studied by means of EEG, behaviour and hippocampus morphology. EEG spectral analysis was used as a bio-marker of the treatment.\\ PTZ has a wide therapeutic window (0.03-3 mg·kg(-1)) that is >10-1000-fold below its seizure threshold and chronic pentylenetetrazole treatment did not lower the seizure threshold. Short-term, low, chronic dose regimens of pentylenetetrazole elicited long-lasting (>1 week) normalization of cognitive function in young and aged mice. Pentylenetetrazole effectiveness was dependent on the time of treatment; cognitive performance improved after treatment during the light (inactive) phase, but not during the dark (active) phase. Chronic pentylenetetrazole treatment normalized EEG power spectra in TS mice.\\ Low doses of pentylenetetrazole were safe, produced long-lasting cognitive improvements and have the potential of fulfilling an unmet therapeutic need in Down's syndrome.}
+}
+
+% 23447605
+@Article{pmid23447605,
+   Author="Martinez-Cue, C.  and Martinez, P.  and Rueda, N.  and Vidal, R.  and Garcia, S.  and Vidal, V.  and Corrales, A.  and Montero, J. A.  and Pazos, A.  and Florez, J.  and Gasser, R.  and Thomas, A. W.  and Honer, M.  and Knoflach, F.  and Trejo, J. L.  and Wettstein, J. G.  and Hernandez, M. C. ",
+   Title="{{R}educing {G}{A}{B}{A}{A} Î±5 receptor-mediated inhibition rescues functional and neuromorphological deficits in a mouse model of down syndrome}",
+   Journal="J. Neurosci.",
+   Year="2013",
+   Volume="33",
+   Number="9",
+   Pages="3953--3966",
+   Month="Feb",
+   Abstract={Down syndrome (DS) is associated with neurological complications, including cognitive deficits that lead to impairment in intellectual functioning. Increased GABA-mediated inhibition has been proposed as a mechanism underlying deficient cognition in the Ts65Dn (TS) mouse model of DS. We show that chronic treatment of these mice with RO4938581 (3-bromo-10-(difluoromethyl)-9H-benzo[f]imidazo[1,5-a][1,2,4]triazolo[1,5-d][1,4]diazepine), a selective GABA(A) Î±5 negative allosteric modulator (NAM), rescued their deficits in spatial learning and memory, hippocampal synaptic plasticity, and adult neurogenesis. We also show that RO4938581 normalized the high density of GABAergic synapse markers in the molecular layer of the hippocampus of TS mice. In addition, RO4938581 treatment suppressed the hyperactivity observed in TS mice without inducing anxiety or altering their motor abilities. These data demonstrate that reducing GABAergic inhibition with RO4938581 can reverse functional and neuromorphological deficits of TS mice by facilitating brain plasticity and support the potential therapeutic use of selective GABA(A) Î±5 NAMs to treat cognitive dysfunction in DS.}
+}
+
+% 23350971
+@Article{pmid23350971,
+   Author="Corrales, A.  and Martinez, P.  and Garcia, S.  and Vidal, V.  and Garcia, E.  and Florez, J.  and Sanchez-Barcelo, E. J.  and Martinez-Cue, C.  and Rueda, N. ",
+   Title="{{L}ong-term oral administration of melatonin improves spatial learning and memory and protects against cholinergic degeneration in middle-aged {T}s65{D}n mice, a model of {D}own syndrome}",
+   Journal="J. Pineal Res.",
+   Year="2013",
+   Volume="54",
+   Number="3",
+   Pages="346--358",
+   Month="Apr",
+   Abstract={Ts65Dn mice (TS), the most commonly used model of Down syndrome (DS), exhibit phenotypic characteristics of this condition. Both TS mice and DS individuals present cognitive disturbances, age-related cholinergic degeneration, and increased brain expression of Î²-amyloid precursor protein (AÎ²PP). These neurodegenerative processes may contribute to the progressive cognitive decline observed in DS. Melatonin is a pineal indoleamine that has been reported to reduce neurodegenerative processes and improve cognitive deficits in various animal models. In this study, we evaluated the potentially beneficial effects of long-term melatonin treatment on the cognitive deficits, cholinergic degeneration, and enhanced AÎ²PP and Î²-amyloid levels of TS mice. Melatonin was administered for 5 months to 5- to 6-month-old TS and control (CO) mice. Melatonin treatment improved spatial learning and memory and increased the number of choline acetyltransferase (ChAT)-positive cells in the medial septum of both TS and CO mice. However, melatonin treatment did not significantly reduce AÎ²PP or Î²-amyloid levels in the cortex or the hippocampus of TS mice. Melatonin administration did reduce anxiety in TS mice without inducing sensorimotor alterations, indicating that prolonged treatment with this indoleamine is devoid of noncognitive behavioral side effects (e.g., motor coordination, sensorimotor abilities, or spontaneous activity). Our results suggest that melatonin administration might improve the cognitive abilities of both TS and CO mice, at least partially, by reducing the age-related degeneration of basal forebrain cholinergic neurons. Thus, chronic melatonin supplementation may be an effective treatment for delaying the age-related progression of cognitive deterioration found in DS.}
+}
+
+% 23340518
+@Article{pmid23340518,
+   Author="Hanson, J. E.  and Weber, M.  and Meilandt, W. J.  and Wu, T.  and Luu, T.  and Deng, L.  and Shamloo, M.  and Sheng, M.  and Scearce-Levie, K.  and Zhou, Q. ",
+   Title="{{G}lu{N}2{B} antagonism affects interneurons and leads to immediate and persistent changes in synaptic plasticity, oscillations, and behavior}",
+   Journal="Neuropsychopharmacology",
+   Year="2013",
+   Volume="38",
+   Number="7",
+   Pages="1221--1233",
+   Month="Jun",
+   Abstract={Although antagonists to GluN2B-containing N-methyl-D-aspartate receptors (NMDARs) have been widely considered to be neuroprotective under certain pathological conditions, their immediate and lasting impacts on synaptic, circuit, and cognitive functions are poorly understood. In hippocampal slices, we found that the GluN2B-selective antagonist Ro25-6981 (Ro25) reduced synaptic NMDAR responses and consequently neuronal output in a subpopulation of GABAergic interneurons, but not pyramidal neurons. Consistent with these effects, Ro25 reduced GABAergic responses in pyramidal neurons and hence could affect circuit functions by altering the excitation/inhibition balance in the brain. In slices from Ts65Dn mice, a Down syndrome model with excess inhibition and cognitive impairment, acutely applied Ro25-rescued long-term potentiation (LTP) and gamma oscillation deficits, whereas prolonged dosing induced persistent rescue of LTP. In contrast, Ro25 did not impact LTP in wild-type (wt) mice but reduced gamma oscillations both acutely and following prolonged treatment. Although acute Ro25 treatment impaired memory performance in wt mice, memory deficits in Ts65Dn mice were unchanged. Thus, GluN2B-NMDARs contribute to the excitation/inhibition balance via impacts on interneurons, and blocking GluN2B-NMDARs can alter functions that depend on this balance, including synaptic plasticity, gamma oscillations, and memory. That prolonged GluN2B antagonism leads to persistent changes in synaptic and circuit functions, and that the influence of GluN2B antagonism differs between wt and disease model mice, provide critical insight into the therapeutic potential and possible liabilities of GluN2B antagonists.}
+}
+
+% 23220201
+@Article{pmid23220201,
+   Author="Altafaj, X.  and Martin, E. D.  and Ortiz-Abalia, J.  and Valderrama, A.  and Lao-Peregrin, C.  and Dierssen, M.  and Fillat, C. ",
+   Title="{{N}ormalization of {D}yrk1{A} expression by {A}{A}{V}2/1-sh{D}yrk1{A} attenuates hippocampal-dependent defects in the {T}s65{D}n mouse model of {D}own syndrome}",
+   Journal="Neurobiol. Dis.",
+   Year="2013",
+   Volume="52",
+   Pages="117--127",
+   Month="Apr",
+   Abstract={The cognitive dysfunctions of Down Syndrome (DS) individuals are the most disabling alterations caused by the trisomy of human chromosome 21 (HSA21). In trisomic Ts65Dn mice, a genetic model for DS, the overexpression of HSA21 homologous genes has been associated with strong visuo-spatial cognitive alterations, ascribed to hippocampal dysfunction. In the present study, we evaluated whether the normalization of the expression levels of Dyrk1A (Dual specificity tyrosine-phosphorylation-regulated kinase 1A), a candidate gene for DS, might correct hippocampal defects in Ts65Dn mice. In the hippocampus of 2 month-old Ts65Dn mice, such normalization was achieved through the stereotaxical injection of adeno-associated viruses containing a short hairpin RNA against Dyrk1A (AAV2/1-shDyrk1A) and a luciferase reporter gene. The injected hippocampi were efficiently transduced, as shown by bioluminescence in vivo imaging, luciferase activity quantification and immunohistochemical analysis. At the molecular level, viral infusion allowed the normalization of the targeted Dyrk1A expression, as well as of the key players of the MAPK/CREB pathway. The electrophysiological recordings of hippocampal slices from Ts65Dn mice injected with AAV2/1-shDyrk1A displayed attenuation of the synaptic plasticity defects of trisomic mice. In contrast, contralateral hippocampal injection with an AAV2/1 control virus containing a scrambled sequence, showed neither the normalization of Dyrk1A levels nor changes of synaptic plasticity. In the Morris water maze task, although long-term consolidation of the task was not achieved, treated Ts65Dn mice displayed initially a normalized thigmotactic behavior, similar to euploid littermates, indicating the partial improvement in their hippocampal-dependent search strategy. Taken together, these results show Dyrk1A as a critical player in the pathophysiology of DS and define Dyrk1A as a therapeutic target in adult trisomic mice.}
+}
+
+% 23201095
+@Article{pmid23201095,
+   Author="Kida, E.  and Rabe, A.  and Walus, M.  and Albertini, G.  and Golabek, A. A. ",
+   Title="{{L}ong-term running alleviates some behavioral and molecular abnormalities in {D}own syndrome mouse model {T}s65{D}n}",
+   Journal="Exp. Neurol.",
+   Year="2013",
+   Volume="240",
+   Pages="178--189",
+   Month="Feb",
+   Abstract={Running may affect the mood, behavior and neurochemistry of running animals. In the present study, we investigated whether voluntary daily running, sustained over several months, might improve cognition and motor function and modify the brain levels of selected proteins (SOD1, DYRK1A, MAP2, APP and synaptophysin) in Ts65Dn mice, a mouse model for Down syndrome (DS). Ts65Dn and age-matched wild-type mice, all females, had free access to a running wheel either from the time of weaning (post-weaning cohort) or from around 7 months of age (adult cohort). Sedentary female mice were housed in similar cages, without running wheels. Behavioral testing and evaluation of motor performance showed that running improved cognitive function and motor skills in Ts65Dn mice. However, while a dramatic improvement in the locomotor functions and learning of motor skills was observed in Ts65Dn mice from both post-weaning and adult cohorts, improved object memory was seen only in Ts65Dn mice that had free access to the wheel from weaning. The total levels of APP and MAP2ab were reduced and the levels of SOD1 were increased in the runners from the post-weaning cohort, while only the levels of MAP2ab and Î±-cleaved C-terminal fragments of APP were reduced in the adult group in comparison with sedentary trisomic mice. Hence, our study demonstrates that Ts65Dn females benefit from sustained voluntary physical exercise, more prominently if running starts early in life, providing further support to the idea that a properly designed physical exercise program could be a valuable adjuvant to future pharmacotherapy for DS.}
+}
+
+% 22898099
+@Article{pmid22898099,
+   Author="Mohler, H. ",
+   Title="{{C}ognitive enhancement by pharmacological and behavioral interventions: the murine {D}own syndrome model}",
+   Journal="Biochem. Pharmacol.",
+   Year="2012",
+   Volume="84",
+   Number="8",
+   Pages="994--999",
+   Month="Oct",
+   Abstract={The cognitive deficits in Down syndrome (DS) are attributed to an excessive hippocampal inhibition, which obstructs neuronal plasticity and normal learning and memory, a view which is largely based on studies of Ts65Dn mice, the best characterized mouse model of DS. The cognitive behavioral deficits of Ts65Dn mice can be rescued by reducing GABAergic inhibition, most selectively by partial inverse agonists acting on Î±(5) GABA-A receptors, of which one compound has recently entered clinical trials in DS. Most remarkably, the improved cognitive performance of Ts65Dn can persist for weeks and months after cessation of drug treatment, as demonstrated for the non-specific GABA antagonist pentylenetetrazole. The Alzheimer drugs, memantine and donepezil largely fail to show any benefit. Finally, repeated non-invasive sensory stimulation such as over-training or enriching the environment, are able to enhance the learning performance which underlines the reversibility of an obstructed neuronal plasticity in Ts65Dn mice.}
+}
+
+% 22848851
+@Article{pmid22848851,
+   Author="Heinen, M.  and Hettich, M. M.  and Ryan, D. P.  and Schnell, S.  and Paesler, K.  and Ehninger, D. ",
+   Title="{{A}dult-onset fluoxetine treatment does not improve behavioral impairments and may have adverse effects on the {T}s65{D}n mouse model of {D}own syndrome}",
+   Journal="Neural Plast.",
+   Year="2012",
+   Volume="2012",
+   Pages="467251",
+   Abstract={Down syndrome is caused by triplication of chromosome 21 and is associated with neurocognitive phenotypes ranging from severe intellectual disability to various patterns of more selective neuropsychological deficits, including memory impairments. In the Ts65Dn mouse model of Down syndrome, excessive GABAergic neurotransmission results in local over-inhibition of hippocampal circuits, which dampens hippocampal synaptic plasticity and contributes to cognitive impairments. Treatments with several GABA(A) receptor antagonists result in increased plasticity and improved memory deficits in Ts65Dn mice. These GABA(A) receptor antagonists are, however, not suitable for clinical applications. The selective serotonin reuptake inhibitor fluoxetine, in contrast, is a widely prescribed antidepressant that can also enhance plasticity in the adult rodent brain by lowering GABAergic inhibition. For these reasons, we wondered if an adult-onset 4-week oral fluoxetine treatment restores spatial learning and memory impairments in Ts65Dn mice. Fluoxetine did not measurably improve behavioral impairments of Ts65Dn mice. On the contrary, we observed seizures and mortality in fluoxetine-treated Ts65Dn mice, raising the possibility of a drug × genotype interaction with respect to these adverse treatment outcomes. Future studies should re-address this in larger animal cohorts and determine if fluoxetine treatment is associated with adverse treatment effects in individuals with Down syndrome.}
+}
+
+% 22776132
+@Article{pmid22776132,
+   Author="Rachubinski, A. L.  and Maclean, K. N.  and Evans, J. R.  and Bjugstad, K. B. ",
+   Title="{{M}odulating cognitive deficits and tau accumulation in a mouse model of aging {D}own syndrome through neonatal implantation of neural progenitor cells}",
+   Journal="Exp. Gerontol.",
+   Year="2012",
+   Volume="47",
+   Number="9",
+   Pages="723--733",
+   Month="Sep",
+   Abstract={Although Down syndrome (DS) is primarily considered as a pediatric disorder, all DS patients incur Alzheimer's disease (AD)-like pathology and about 60% develop an additional AD-like dementia by 30-40 years of age. Cognitive and neuroanatomical changes in DS are least compromised perinatally, indicating there may be an opportunity to modulate their cognitive and neuroanatomical development during aging, preventing or postponing the onset of AD. To this end, neural progenitor cells (NPC) or saline were implanted into the hippocampus of neonatal DS-modeling (trisomic Ts65Dn) mice and non-DS (disomic Ts65Dn) age-matched mice. Twelve months later, implanted and unimplanted mice were assessed for long-term survival of NPC, for cognitive function, hippocampal cell density, and the presence of extracellular tau accumulation. Implantation of NPC in trisomic mice improved learning and memory as assessed by conditioned taste aversion testing, but not on the novel object recognition task. Trisomic mice given saline control injections improved performance on both cognitive tasks compared to unimplanted trisomic mice. In contrast, disomic mice, implanted with either saline or NPC, were impaired in both tasks. Long-term surviving NPC were found in 7 out of 11 disomic brains and 4 out of 5 trisomic brains, with an average survival rate of 3.1% and 5.9% respectively. Extracellular tau aggregations were elevated in trisomic mice, but implantation with NPC was associated with significantly fewer aggregations. This was also seen in disomic mice. Saline injections significantly elevated tau presence in both karyotypes. Based on these results, we conclude that the modest effects of a few surviving NPC cannot be distinguished from those induced by the implant procedure. However, the changes prompted by neonatal treatment were detectable in aged animals. Collectively, our data are consistent with the hypothesis that neonatal therapeutic intervention in DS has the potential to exert positive lasting effects in the later stages of life but that NPC or the implantation approach may not be the most effective strategy and alternative stem cell types or delivery systems merit further investigation.}
+}
+
+% 22764230
+@Article{pmid22764230,
+   Author="Kleschevnikov, A. M.  and Belichenko, P. V.  and Faizi, M.  and Jacobs, L. F.  and Htun, K.  and Shamloo, M.  and Mobley, W. C. ",
+   Title="{{D}eficits in cognition and synaptic plasticity in a mouse model of {D}own syndrome ameliorated by {G}{A}{B}{A}{B} receptor antagonists}",
+   Journal="J. Neurosci.",
+   Year="2012",
+   Volume="32",
+   Number="27",
+   Pages="9217--9227",
+   Month="Jul",
+   Abstract={Cognitive impairment in Down syndrome (DS) is characterized by deficient learning and memory. Mouse genetic models of DS exhibit impaired cognition in hippocampally mediated behavioral tasks and reduced synaptic plasticity of hippocampal pathways. Enhanced efficiency of GABAergic neurotransmission was implicated in those changes. We have recently shown that signaling through postsynaptic GABA(B) receptors is significantly increased in the dentate gyrus of Ts65Dn mice, a genetic model of DS. Here we examined a role for GABA(B) receptors in cognitive deficits in DS by defining the effect of selective GABA(B) receptor antagonists on behavior and synaptic plasticity of adult Ts65Dn mice. Treatment with the GABA(B) receptor antagonist CGP55845 restored memory of Ts65Dn mice in the novel place recognition, novel object recognition, and contextual fear conditioning tasks, but did not affect locomotion and performance in T-maze. The treatment increased hippocampal levels of brain-derived neurotrophic factor, equally in 2N and Ts65Dn mice. In hippocampal slices, treatment with the GABA(B) receptor antagonists CGP55845 or CGP52432 enhanced long-term potentiation (LTP) in the Ts65Dn DG. The enhancement of LTP was accompanied by an increase in the NMDA receptor-mediated component of the tetanus-evoked responses. These findings are evidence for a contribution of GABA(B) receptors to changes in hippocampal-based cognition in the Ts65Dn mouse. The ability to rescue cognitive performance through treatment with selective GABA(B) receptor antagonists motivates studies to further explore the therapeutic potential of these compounds in people with DS.}
+}
+
+% 22728103
+@Article{pmid22728103,
+   Author="Vidal, V.  and Garcia, S.  and Martinez, P.  and Corrales, A.  and Florez, J.  and Rueda, N.  and Sharma, A.  and Martinez-Cue, C. ",
+   Title="{{L}ack of behavioral and cognitive effects of chronic ethosuximide and gabapentin treatment in the {T}s65{D}n mouse model of {D}own syndrome}",
+   Journal="Neuroscience",
+   Year="2012",
+   Volume="220",
+   Pages="158--168",
+   Month="Sep",
+   Abstract={The Ts65Dn (TS) mouse model of Down syndrome (DS) displays a number of behavioral, neuromorphological and neurochemical phenotypes of the syndrome. Altered GABAergic transmission appears to contribute to the mechanisms responsible for the cognitive impairments in TS mice. Increased functional expression of the trisomic gene encoding an inwardly rectifying potassium channel, subfamily J, member 6 (KCNJ6) has been reported in DS and TS mice, along with the consequent impairment in GAB Aergic function. Partial display of DS phenotypes in mice harboring a single trisomy of Kcnj6 provides compelling evidence for a functional role of increased channel expression in some of the abnormal neurological phenotypes found in DS. Notably, the antiepileptic drug (AED) ethosuximide (ETH), but not other AEDs such as gabapentin (GAB), is known to inhibit KCNJ6 channels in mice. Here, we report the effect of chronic ETH and GAB on the behavioral and cognitive phenotypes of TS and disomic control (CO) mice. Neither drug significantly affected sensorimotor abilities, motor coordination or spontaneous activity in TS and CO mice. Also, ETH and GAB did not induce anxiety in the open field or plus maze tests, did not alter performance in the Morris water maze, and did not affect cued - or context - fear conditioning. Our results thus suggest that KCNJ6 may not be a promising drug target candidate in DS. As a corollary, they also show that long-term use of ETH and GAB is devoid of adverse behavioral and cognitive effects.}
+}
+
+% 22558337
+@Article{pmid22558337,
+   Author="Rachubinski, A. L.  and Crowley, S. K.  and Sladek, J. R.  and Maclean, K. N.  and Bjugstad, K. B. ",
+   Title="{{E}ffects of neonatal neural progenitor cell implantation on adult neuroanatomy and cognition in the {T}s65{D}n model of {D}own syndrome}",
+   Journal="PLoS ONE",
+   Year="2012",
+   Volume="7",
+   Number="4",
+   Pages="e36082",
+   Abstract={As much of the aberrant neural development in Down syndrome (DS) occurs postnatally, an early opportunity exists to intervene and influence life-long cognitive development. Recent success using neural progenitor cells (NPC) in models of adult neurodegeneration indicate such therapy may be a viable option in diseases such as DS. Murine NPC (mNPC, C17.2 cell line) or saline were implanted bilaterally into the dorsal hippocampus of postnatal day 2 (PND 2) Ts65Dn pups to explore the feasibility of early postnatal treatment in this mouse model of DS. Disomic littermates provided karyotype controls for trisomic pups. Pups were monitored for developmental milestone achievement, and then underwent adult behavior testing at 14 weeks of age. We found that implanted mNPC survived into adulthood and migrated beyond the implant site in both karyotypes. The implantation of mNPC resulted in a significant increase in the density of dentate granule cells. However, mNPC implantation did not elicit cognitive changes in trisomic mice either neonatally or in adulthood. To the best of our knowledge, these results constitute the first assessment of mNPC as an early intervention on cognitive ability in a DS model.}
+}
+
+% 21953411
+@Article{pmid21953411,
+   Author="Duchon, A.  and Raveau, M.  and Chevalier, C.  and Nalesso, V.  and Sharp, A. J.  and Herault, Y. ",
+   Title="{{I}dentification of the translocation breakpoints in the {T}s65{D}n and {T}s1{C}je mouse lines: relevance for modeling {D}own syndrome}",
+   Journal="Mamm. Genome",
+   Year="2011",
+   Volume="22",
+   Number="11-12",
+   Pages="674--684",
+   Month="Dec",
+   Abstract={Down syndrome (DS) is the most frequent genetic disorder leading to intellectual disabilities and is caused by three copies of human chromosome 21. Mouse models are widely used to better understand the physiopathology in DS or to test new therapeutic approaches. The older and the most widely used mouse models are the trisomic Ts65Dn and the Ts1Cje mice. They display deficits similar to those observed in DS people, such as those in behavior and cognition or in neuronal abnormalities. The Ts65Dn model is currently used for further therapeutic assessment of candidate drugs. In both models, the trisomy was induced by reciprocal chromosomal translocations that were not further characterized. Using a comparative genomic approach, we have been able to locate precisely the translocation breakpoint in these two models and we took advantage of this finding to derive a new and more efficient Ts65Dn genotyping strategy. Furthermore, we found that the translocations introduce additional aneuploidy in both models, with a monosomy of seven genes in the most telomeric part of mouse chromosome 12 in the Ts1Cje and a trisomy of 60 centromeric genes on mouse chromosome 17 in the Ts65Dn. Finally, we report here the overexpression of the newly found aneuploid genes in the Ts65Dn heart and we discuss their potential impact on the validity of the DS model.}
+}
+
+% 21865665
+@Article{pmid21865665,
+   Author="Chakrabarti, L.  and Scafidi, J.  and Gallo, V.  and Haydar, T. F. ",
+   Title="{{E}nvironmental enrichment rescues postnatal neurogenesis defect in the male and female {T}s65{D}n mouse model of {D}own syndrome}",
+   Journal="Dev. Neurosci.",
+   Year="2011",
+   Volume="33",
+   Number="5",
+   Pages="428--441",
+   Abstract={Down syndrome (DS), the most frequent genetic cause of intellectual disability and developmental delay, results from impaired neural stem cell proliferation and differentiation. Impaired neurogenesis in the neocortex, hippocampus and cerebellum is believed to be the underlying cause of learning and behavioral deficits in the Ts65Dn mouse model of DS. Aggressive sensorimotor and cognitive therapies have shown promise in mitigating the cognitive disabilities in DS but these behavioral therapies have not yet been investigated at the cellular level. Here, using the Ts65Dn mouse model of DS, we demonstrate that a combination of environmental enrichment and physical exercise starting in juvenile mice (postnatal day 18) markedly increases cell proliferation, neurogenesis and gliogenesis in the hippocampal dentate gyrus (DG) and the forebrain subventricular zone (SVZ) of both male and female mice. Enrichment and exercise increased the rate of Ts65Dn DG neurogenesis to be comparable to that of the nonenriched euploid group, while the effect on SVZ neurogenesis was reduced and seen only after prolonged exposure. These results clearly indicate that in a comprehensive stimulatory environment, the postnatal DS brain has the intrinsic capability of improving neurogenesis and gliogenesis to the levels of normal matched controls and that this cellular response underlies the cognitive improvement seen following behavioral therapies.}
+}
+
+% 21527343
+@Article{pmid21527343,
+   Author="Faizi, M.  and Bader, P. L.  and Tun, C.  and Encarnacion, A.  and Kleschevnikov, A.  and Belichenko, P.  and Saw, N.  and Priestley, M.  and Tsien, R. W.  and Mobley, W. C.  and Shamloo, M. ",
+   Title="{{C}omprehensive behavioral phenotyping of {T}s65{D}n mouse model of {D}own syndrome: activation of Î²1-adrenergic receptor by xamoterol as a potential cognitive enhancer}",
+   Journal="Neurobiol. Dis.",
+   Year="2011",
+   Volume="43",
+   Number="2",
+   Pages="397--413",
+   Month="Aug",
+   Abstract={Down syndrome (DS) is the most prevalent form of mental retardation caused by genetic abnormalities in humans. This has been successfully modeled in mice to generate the Ts65Dn mouse, a genetic model of DS. This transgenic mouse model shares a number of physical and functional abnormalities with people with DS, including changes in the structure and function of neuronal circuits. Significant abnormalities in noradrenergic (NE-ergic) afferents from the locus coeruleus to the hippocampus, as well as deficits in NE-ergic neurotransmission are detected in these animals. In the current study we characterized in detail the behavioral phenotype of Ts65Dn mice, in addition to using pharmacological tools for identification of target receptors mediating the learning and memory deficits observed in this model of DS. We undertook a comprehensive approach to mouse phenotyping using a battery of standard and novel tests encompassing: (i) locomotion (Activity Chamber, PhenoTyper, and CatWalk), (ii) learning and memory (spontaneous alternation, delayed matching-to-place water maze, fear conditioning, and Intellicage), and (iii) social behavior. Ts65Dn mice showed increased locomotor activity in novel and home cage environments. There were significant and reproducible deficits in learning and memory tests including spontaneous alternation, delayed matching-to-place water maze, Intellicage place avoidance and contextual fear conditioning. Although Ts65Dn mice showed no deficit in sociability in the 3-chamber test, a marked impairment in social memory was detected. Xamoterol, a Î²1-adrenergic receptor (Î²1-ADR) agonist, effectively restored the memory deficit in contextual fear conditioning, spontaneous alternation and novel object recognition. These behavioral improvements were reversed by betaxolol, a selective Î²1-ADR antagonist. In conclusion, our results demonstrate that this mouse model of Down syndrome displays cognitive deficits which are mediated by an imbalance in the noradrenergic system. In this experimental model of Down syndrome a selective activation of Î²1-ADR does restore some of these behavioral deficits. Further mechanistic studies will be needed to investigate the failure of noradrenergic system and the role of Î²1-ADR in cognitive deficit and pathogenesis of DS in people. Restoring NE neurotransmission or a selective activation of Î²1)-ADR needs to be further investigated for the development of any potential therapeutic strategy for symptomatic relief of memory deficit in DS. Furthermore, due to the significant involvement of noradrenergic system in the cardiovascular function further safety and translational studies will be needed to ensure the safety and efficacy of this approach.}
+}
+
+% 20875841
+@Article{pmid20875841,
+   Author="Llorens-Martin, M. V.  and Rueda, N.  and Tejeda, G. S.  and Florez, J.  and Trejo, J. L.  and Martinez-Cue, C. ",
+   Title="{{E}ffects of voluntary physical exercise on adult hippocampal neurogenesis and behavior of {T}s65{D}n mice, a model of {D}own syndrome}",
+   Journal="Neuroscience",
+   Year="2010",
+   Volume="171",
+   Number="4",
+   Pages="1228--1240",
+   Month="Dec",
+   Abstract={The Ts65Dn (TS) mouse is the most widely used model of Down syndrome (DS). This mouse shares many phenotypic characteristics with the human condition including cognitive and neuromorphological alterations. In this study the effects of physical exercise on hippocampal neurogenesis and behavior in TS mice were assessed. 10-12 month-old male TS and control (CO) mice were submitted to voluntary physical exercise for 7 weeks and the effects of this protocol on hippocampal morphology, neurogenesis and apoptosis were evaluated. Physical exercise improved performance in the acquisition sessions of the Morris water maze in TS but not in CO mice. Conversely, it did not have any effect on anxiety or depressive behavior in TS mice but it did reduce the cognitive components of anxiety in CO mice. TS mice presented a reduced dentate gyrus (DG) volume, subgranular zone area and number of granule neurons. Hippocampal neurogenesis was reduced in TS mice as shown by the reduced number of 5-bromo-2-deoxyuridine (BrdU) positive cells. Voluntary physical exercise did not rescue these alterations in TS mice but it did increase the number of doublecortin (DCX)-and phospho histone 3 (PH3)-positive neurons in CO mice. It is concluded that physical exercise produced a modest anxiolytic effect in CO mice and that this was accompanied by an increased number of immature cells in the hippocampal DG. On the other hand, voluntary physical exercise exerted a positive effect on TS mice learning of the platform position in the Morris water maze that seems to be mediated by a neurogenesis-independent mechanism.}
+}
+
+% 20600926
+@Article{pmid20600926,
+   Author="Fukuda, Y.  and Berry, T. L.  and Nelson, M.  and Hunter, C. L.  and Fukuhara, K.  and Imai, H.  and Ito, S.  and Granholm-Bentley, A. C.  and Kaplan, A. P.  and Mutoh, T. ",
+   Title="{{S}timulated neuronal expression of brain-derived neurotrophic factor by {N}eurotropin}",
+   Journal="Mol. Cell. Neurosci.",
+   Year="2010",
+   Volume="45",
+   Number="3",
+   Pages="226--233",
+   Month="Nov",
+   Abstract={Expression of brain-derived neurotrophic factor (BDNF) was stimulated in human neuroblastoma SH-SY5Y cells by a nonprotein extract of inflamed rabbit skin inoculated with vaccinia virus (Neurotropin), an analgesic widely used in Japan for treatment of disorders associated with chronic pain, with the optimal dosage at 10mNU/mL. This stimulation was accompanied by activations of p42/44 MAP kinase, CREB and c-Fos expression. Inhibitors of MAP kinases or PI 3-kinase prevented the stimulatory action of Neurotropin, indicating that neuronal TrkB/CREB pathway mediates the action. Repetitive oral administration of Neurotropin (200NU/kg/day, 3months) prevented the age-dependent decline in hippocampal BDNF expression in Ts65Dn mice, a model of Down's syndrome. This effect was associated with the improvement of spatial cognition of the mice. These results open an intriguing new strategy in which Neurotropin may prove beneficial treatment for neurodegenerative disorders.}
+}
+
+% 20592198
+@Article{pmid20592198,
+   Author="Bianchi, P.  and Ciani, E.  and Guidi, S.  and Trazzi, S.  and Felice, D.  and Grossi, G.  and Fernandez, M.  and Giuliani, A.  and Calza, L.  and Bartesaghi, R. ",
+   Title="{{E}arly pharmacotherapy restores neurogenesis and cognitive performance in the {T}s65{D}n mouse model for {D}own syndrome}",
+   Journal="J. Neurosci.",
+   Year="2010",
+   Volume="30",
+   Number="26",
+   Pages="8769--8779",
+   Month="Jun",
+   Abstract={Down syndrome (DS) is a genetic pathology characterized by intellectual disability and brain hypotrophy. Widespread neurogenesis impairment characterizes the fetal and neonatal DS brain, strongly suggesting that this defect may be a major determinant of mental retardation. Our goal was to establish, in a mouse model for DS, whether early pharmacotherapy improves neurogenesis and cognitive behavior. Neonate Ts65Dn mice were treated from postnatal day (P) 3 to P15 with fluoxetine, an antidepressant that inhibits serotonin (5-HT) reuptake and increases proliferation in the adult Ts65Dn mouse (Clark et al., 2006). On P15, they received a BrdU injection and were killed after either 2 h or 1 month. Results showed that P15 Ts65Dn mice had notably defective proliferation in the hippocampal dentate gyrus, subventricular zone, striatum, and neocortex and that proliferation was completely rescued by fluoxetine. In the hippocampus of untreated P15 Ts65Dn mice, we found normal 5-HT levels but a lower expression of 5-HT1A receptors and brain-derived neurotrophic factor (BDNF). In Ts65Dn mice, fluoxetine treatment restored the expression of 5-HT1A receptors and BDNF. One month after cessation of treatment, there were more surviving cells in the dentate gyrus of Ts65Dn mice, more cells with a neuronal phenotype, more proliferating precursors, and more granule cells. These animals were tested for contextual fear conditioning, a hippocampus-dependent memory task, and exhibited a complete recovery of memory performance. Results show that early pharmacotherapy with a drug usable by humans can correct neurogenesis and behavioral impairment in a model for DS.}
+}
+
+% 20421694
+@Article{pmid20421694,
+   Author="Rueda, N.  and Llorens-Martin, M.  and Florez, J.  and Valdizan, E.  and Banerjee, P.  and Trejo, J. L.  and Martinez-Cue, C. ",
+   Title="{{M}emantine normalizes several phenotypic features in the {T}s65{D}n mouse model of {D}own syndrome}",
+   Journal="J. Alzheimers Dis.",
+   Year="2010",
+   Volume="21",
+   Number="1",
+   Pages="277--290",
+   Abstract={Ts65Dn (TS) mice exhibit several phenotypic characteristics of human Down syndrome, including an increased brain expression of amyloid-beta protein precursor (AbetaPP) and cognitive disturbances. Aberrant N-methyl-D-aspartate (NMDA) receptor signaling has been suspected in TS mice, due to an impaired generation of hippocampal long-term potentiation (LTP). Memantine, an uncompetitive NMDA receptor antagonist approved for the treatment of moderate to severe Alzheimer's disease, is known to normalize LTP and improve cognition in transgenic mice with high brain levels of AbetaPP and amyloid-beta protein. It has recently been demonstrated that acute injections of memantine rescue performance deficits of TS mice on a fear conditioning test. Here we show that oral treatment of aged TS mice with a clinically relevant dose of memantine (30 mg/kg/day for 9 weeks) improved spatial learning in the water maze task and slightly reduced brain AbetaPP levels. We also found that TS mice exhibited a significantly reduced granule cell count and vesicular glutamate transporter-1 (VGLUT1) labeling compared to disomic control mice. After memantine treatment, the levels of hippocampal VGLUT1 were significantly increased, reaching the levels observed in vehicle treated-control animals. Memantine did not significantly affect granule cell density. These data indicate that memantine may normalize several phenotypic abnormalities in TS mice, many of which--such as impaired cognition--are also associated with Down syndrome and Alzheimer's disease.}
+}
+
+% 20363261
+@Article{pmid20363261,
+   Author="Lockrow, J.  and Boger, H.  and Bimonte-Nelson, H.  and Granholm, A. C. ",
+   Title="{{E}ffects of long-term memantine on memory and neuropathology in {T}s65{D}n mice, a model for {D}own syndrome}",
+   Journal="Behav. Brain Res.",
+   Year="2011",
+   Volume="221",
+   Number="2",
+   Pages="610--622",
+   Month="Aug",
+   Abstract={Memantine is a partial NMDA receptor antagonist that has been shown to improve learning and memory in several animal models, and is approved for the treatment of Alzheimer's disease (AD). Chronic treatments using memantine in animal models of Alzheimer's disease show disease-modifying effects and suggest a potential neuroprotective function. The present study assessed the effects of both short- and long-term memantine treatment in a mouse model of Down syndrome (DS), the Ts65Dn mouse. The Ts65Dn mouse contains a partial trisomy of murine chromosome 16, and exhibits hippocampal-dependent memory deficits, as well as progressive degeneration of basal forebrain cholinergic neurons (BCFNs). Ts65Dn mice were treated with memantine for a period of 6 months, beginning at 4 months of age. At the end of treatment the mice underwent memory testing using novel object recognition and water radial arm maze tasks, and then histologically analyzed for markers of neurodegeneration. Memantine treatment improved spatial and recognition memory performance in the Ts65Dn mice, though not to the level of normosomic littermate controls. Despite these memory improvements, histological analysis found no morphological signs of neuroprotection of basal forebrain cholinergic or locus coeruleus neurons in memantine-treated Ts65Dn mice. However, memantine treatment of Ts65Dn mice gave rise to elevated brain-derived neurotrophic factor expression in the hippocampus and frontal cortex, suggesting a mechanism of behavioral modification. Thus, our findings provide further evidence for memory facilitation of memantine, but suggest pharmacological rather than neuroprotective effects of memantine both after acute and chronic treatment in this mouse model.}
+}
+
+% 20075302
+@Article{pmid20075302,
+   Author="Ruby, N. F.  and Fernandez, F.  and Zhang, P.  and Klima, J.  and Heller, H. C.  and Garner, C. C. ",
+   Title="{{C}ircadian locomotor rhythms are normal in {T}s65{D}n "{D}own syndrome" mice and unaffected by pentylenetetrazole}",
+   Journal="J. Biol. Rhythms",
+   Year="2010",
+   Volume="25",
+   Number="1",
+   Pages="63--66",
+   Month="Feb",
+   Abstract={Ts65Dn mice are used extensively as a model for Down syndrome. Recent studies have reported conflicting evidence as to whether these mice express circadian rhythms. The authors therefore recorded locomotor activity patterns from these animals while they were housed under a standard light-dark cycle, constant darkness (DD), and constant light (LL). Contrary to expectations, Ts65Dn mice had more robust circadian rhythms with slightly shorter periods compared with their wild-type littermates. They also exhibited increased rhythm period and marked activity suppression when moved from DD to LL (i.e., Aschoff's rule). Administration of the GABA(A) antagonist pentylenetetrazole did not influence any of these circadian parameters. Thus, locomotor activity is under strict circadian control in Ts65Dn mice, suggesting that their cognitive deficits and sleep disturbances are not due to dysfunctional circadian timing as proposed previously.}
+}
+
+% 19720087
+@Article{pmid19720087,
+   Author="Costa, A. C.  and Stasko, M. R.  and Schmidt, C.  and Davisson, M. T. ",
+   Title="{{B}ehavioral validation of the {T}s65{D}n mouse model for {D}own syndrome of a genetic background free of the retinal degeneration mutation {P}de6b(rd1)}",
+   Journal="Behav. Brain Res.",
+   Year="2010",
+   Volume="206",
+   Number="1",
+   Pages="52--62",
+   Month="Jan",
+   Abstract={The Ts65Dn mouse is the most studied and complete aneuploid model of Down syndrome (DS) widely available. As a model for human trisomy 21, these mice display many attractive features, including performance deficits in different behavioral tasks, alterations in synaptic plasticity and adult neurogenesis, motor dysfunction, and age-dependent cholinergic neurodegeneration. Currently, Ts65Dn mice are maintained on a genetic background that leads to blindness in about 25% of their offspring, because it segregates for the retinal degeneration 1 (Pde6b(rd1)) mutation of C3H/HeSnJ. This means that 25% of the mice have to be discarded in most experiments involving these animals, which is particularly problematic because the Ts65Dn stock has low reproductive performance. To circumvent this problem, we have bred the Ts65Dn extra chromosome many generations into a closely related genetic background that does not carry the Pde6b(rd1) mutation. Although the new genetic background is expected to be nearly identical to the original, differences in genetic background have the potential to alter mouse performance in certain behavioral tests. Therefore, we designed the present study primarily as a behavioral validation of Ts65Dn mice of the new background. We compared side-by-side their performance with that of Ts65Dn mice of the original background on the following set of assessments: (1) body length and weight; (2) 24-h locomotor activity; (3) the Morris water maze; (4) fear conditioning; and (5) grip strength. Except for very subtle differences on water maze performance, we found no significant differences between Ts65Dn mice on the two backgrounds in the measures assessed.}
+}
+
+% 19420260
+@Article{pmid19420260,
+   Author="Belichenko, N. P.  and Belichenko, P. V.  and Kleschevnikov, A. M.  and Salehi, A.  and Reeves, R. H.  and Mobley, W. C. ",
+   Title="{{T}he "{D}own syndrome critical region" is sufficient in the mouse model to confer behavioral, neurophysiological, and synaptic phenotypes characteristic of {D}own syndrome}",
+   Journal="J. Neurosci.",
+   Year="2009",
+   Volume="29",
+   Number="18",
+   Pages="5938--5948",
+   Month="May",
+   Abstract={Down syndrome (DS) can be modeled in mice segmentally trisomic for mouse chromosome 16. Ts65Dn and Ts1Cje mouse models have been used to study DS neurobiological phenotypes including changes in cognitive ability, induction of long-term potentiation (LTP) in the fascia dentata (FD), the density and size of dendritic spines, and the structure of synapses. To explore the genetic basis for these phenotypes, we examined Ts1Rhr mice that are trisomic for a small subset of the genes triplicated in Ts65Dn and Ts1Cje mice. The 33 trisomic genes in Ts1Rhr represent a "DS critical region" that was once predicted to be sufficient to produce most DS phenotypes. We discovered significant alterations in an open field test, a novel object recognition test and in a T-maze task. As in Ts65Dn and Ts1Cje mice, LTP in FD of Ts1Rhr could be induced only after blocking GABA(A)-dependent inhibitory neurotransmission. In addition, widespread enlargement of dendritic spines and decreased density of spines in FD were preserved in Ts1Rhr. Twenty of 48 phenotypes showed significant differences between Ts1Rhr and 2N controls. We conclude that important neurobiological phenotypes characteristic of DS are conserved in Ts1Rhr mice. The data support the view that biologically significant trisomic phenotypes occur because of dosage effects of genes in the Ts1Rhr trisomic segment and that increased dosage is sufficient to produce these changes. The stage is now set for studies to decipher the gene(s) that play a conspicuous role in creating these phenotypes.}
+}
+
+% 19409933
+@Article{pmid19409933,
+   Author="Sanders, N. C.  and Williams, D. K.  and Wenger, G. R. ",
+   Title="{{D}oes the learning deficit observed under an incremental repeated acquisition schedule of reinforcement in {T}s65{D}n mice, a model for {D}own syndrome, change as they age?}",
+   Journal="Behav. Brain Res.",
+   Year="2009",
+   Volume="203",
+   Number="1",
+   Pages="137--142",
+   Month="Oct",
+   Abstract={The Ts65Dn mouse is partly trisomic at chromosome 16 and is considered to be a valid mouse model of human Down syndrome. Prior research using an incremental repeated acquisition (IRA) schedule of reinforcement has revealed that there is a significant learning deficit in young, adult Ts65Dn mice compared to littermate controls. The purpose of this study was to examine whether this deficit changes during the life-span of these mice. In order to determine if changes in the deficit were caused by motoric or motivational deficiencies, a second group of mice was trained to respond under a performance version of the task (IRA-P). The IRA-P task required the same motor responses to produce the reinforcer, but no learning or acquisition was required. Data collected under the IRA task demonstrated that there was a significant learning impairment that persisted up to 24 months of age in the Ts65Dn mice compared to littermate controls. There was a significant decrease in the rate of responding and the number of milk presentations earned by the Ts65Dn mice after 19 months of age. However, during this time, response accuracy, which is independent of mobility and possibly motivation, did not decrease. Under the IRA-P schedule, there was no decrease observed in the number of milk presentations of either line as they aged, but the trend in the rate of responding of the Ts65Dn mice was similarly declining as the rate of responding observed in the Ts65Dn mice under the IRA task. These data indicate that the ability to learn in Ts65Dn mice does not decline with age as measured by the IRA task and suggests that perhaps Ts65Dn mice do not exhibit the same early onset Alzheimer's disease phenotype that is typically seen in human patients.}
+}
+
+% 19125866
+@Article{pmid19125866,
+   Author="Siddiqui, A.  and Lacroix, T.  and Stasko, M. R.  and Scott-McKean, J. J.  and Costa, A. C.  and Gardiner, K. J. ",
+   Title="{{M}olecular responses of the {T}s65{D}n and {T}s1{C}je mouse models of {D}own syndrome to {M}{K}-801}",
+   Journal="Genes Brain Behav.",
+   Year="2008",
+   Volume="7",
+   Number="7",
+   Pages="810--820",
+   Month="Oct",
+   Abstract={Down syndrome (DS), caused by trisomy of human chromosome 21 (chr21), is the most common genetic cause of intellectual disability. The Ts65Dn mouse model of DS is trisomic for orthologs of 94 chr21-encoded, confirmed protein-coding genes and displays a number of behavioral deficits. Recently, Ts65Dn mice were shown to be hypersensitive to the locomotor stimulatory effects of the high-affinity N-methyl-d-aspartate (NMDA) receptor (NMDAR) channel blocker, MK-801. This is consistent with the functions of several chr21 proteins that are predicted directly or indirectly to impact NMDAR function or NMDAR-mediated signaling. In this study, we show that a second mouse model of DS, the Ts1Cje, which is trisomic for 70 protein-coding genes, is also hypersensitive to MK-801. To investigate the molecular basis for the responses to MK-801, we have measured levels of a subset of chr21 and phosphorylated non-chr21 proteins, in the cortex and hippocampus of Ts65Dn and Ts1Cje mice and euploid controls, with and without treatment with MK-801. We show that in euploid mice, the chr21-encoded proteins, TIAM1 and DYRK1A, and phosphorylation of AKT, ERK1/2 and the transcription factor ELK are involved in the MK-801 response. However, in both Ts65Dn and Ts1Cje mice, levels of phosphorylation are constitutively elevated in naïve, unstimulated mice, and the MK-801-induced changes in TIAM1 and DYRK1A and in phosphorylation are either absent or abnormal, with both genotype and brain-region-specific patterns. These results emphasize the complexities of the pathway perturbations that arise with segmental trisomy.}
+}
+
+% 18178265
+@Article{pmid18178265,
+   Author="Rueda, N.  and Florez, J.  and Martinez-Cue, C. ",
+   Title="{{E}ffects of chronic administration of {S}{G}{S}-111 during adulthood and during the pre- and post-natal periods on the cognitive deficits of {T}s65{D}n mice, a model of {D}own syndrome}",
+   Journal="Behav. Brain Res.",
+   Year="2008",
+   Volume="188",
+   Number="2",
+   Pages="355--367",
+   Month="Apr",
+   Abstract={The Ts65Dn mouse is the most commonly used model of Down syndrome. This mouse shows many phenotypic characteristics present in people with Down syndrome, including behavioral and cognitive deficits. SGS-111 is a novel analogue of the nootropic piracetam, which prevents oxidative damage and apoptosis in both normal and Down syndrome human cortical neurons. In this work we tested the ability of chronic administration of SGS-111 to adult Ts65Dn mice to reverse the cognitive deficit found in these mice. Moreover, since oxidative stress has been reported as early as the fetal stage, SGS-111 was also administered to pregnant Ts65Dn females from the day of conception throughout the pregnancy and to Ts65Dn pups during their entire life (5 months), from birth to the end of the behavioral testing period. A characterization of the effects of SGS-111 treatment on Ts65Dn and control mice sensorimotor abilities, motor coordination, spontaneous activity, activity in the open field, exploration, anxiety and spatial and non-spatial short- and long-term learning and memory was performed. The behavioral characterization showed that chronic administration of the antioxidant SGS-111 reduced the hyperactivity shown by Ts65Dn mice in their home cage, in the open field and in the hole board test. SGS-111 administration during adulthood improved performance in the first session in the Morris water maze in control mice, and when administered during the pre- and post-natal periods, improved spatial learning in the control mice but not in Ts65Dn mice. Chronic SGS-111 administration failed to affect behavior and cognition in Ts65Dn mice.}
+}
+
+% 17950473
+@Article{pmid17950473,
+   Author="Fernandez, F.  and Garner, C. C. ",
+   Title="{{E}pisodic-like memory in {T}s65{D}n, a mouse model of {D}own syndrome}",
+   Journal="Behav. Brain Res.",
+   Year="2008",
+   Volume="188",
+   Number="1",
+   Pages="233--237",
+   Month="Mar",
+   Abstract={Ts65Dn mice, like individuals with Down syndrome (DS), demonstrate a functional dissociation between explicit and implicit forms of memory, showing selective impairment in explicit or declarative learning tasks. Here, we explored Ts65Dn explicit memory deficits further by evaluating the ability of these mice to assimilate the temporal and spatial contexts under which previously novel objects had been encountered. We found that Ts65Dn mice could in fact form contextual representations of objects over the course of a few hours, contrary to their inability to discriminate object novelty over a more prolonged period of 24h. These results suggest that Ts65Dn mice might have particular difficulties in declarative tasks requiring long-term memory, presenting an especially important putative therapeutic target for pre-clinical and clinical DS research.}
+}
+
+% 17700645
+@Article{pmid17700645,
+   Author="Costa, A. C.  and Scott-McKean, J. J.  and Stasko, M. R. ",
+   Title="{{A}cute injections of the {N}{M}{D}{A} receptor antagonist memantine rescue performance deficits of the {T}s65{D}n mouse model of {D}own syndrome on a fear conditioning test}",
+   Journal="Neuropsychopharmacology",
+   Year="2008",
+   Volume="33",
+   Number="7",
+   Pages="1624--1632",
+   Month="Jun",
+   Abstract={Individuals with Down syndrome (DS) and Ts65Dn mice (a major animal model of DS) carry an extra copy of the DSCR1 (Down Syndrome Critical Region 1) gene, which encodes for a protein that inhibits calcineurin. Calcineurin itself has been shown to modulate N-methyl-D-aspartate (NMDA) receptor (NMDAR) activation kinetics by decreasing channel mean open time and opening probability. We hypothesize that the overexpression of DSCR1 in persons with DS and Ts65Dn mice would inhibit normal calcineurin activity and produce pathological increases in NMDAR mean open time and opening probability. These kinetic changes should in turn produce an increase in inhibition of NMDAR-mediated currents by open channel blockers. To test this hypothesis, we investigated the locomotor-stimulating effects of MK-801 on Ts65Dn mice and have found that these mice display an increased sensitivity to this compound. Furthermore, we have found that acute injections (5 mg/kg, i.p.) of the uncompetitive NMDAR antagonist memantine rescue performance deficits of Ts65Dn mice on a fear conditioning test. Because the actions of memantine on NMDAR kinetics had been shown by others to mimic somewhat the actions of calcineurin, we attributed this positive effect of memantine on Ts65Dn mice to a drug-mediated 'normalization' of NMDAR function. To our knowledge, this is the first instance in which the acute injection of a pharmacological agent has improved the behavioral performance of Ts65Dn mice in a test of learning and memory. These results are very promising from a potential therapeutic perspective, given memantine's current status as a Food and Drug Administration (FDA)-approved drug.}
+}
+
+% 17566652
+@Article{pmid17566652,
+   Author="Fernandez, F.  and Garner, C. C. ",
+   Title="{{O}bject recognition memory is conserved in {T}s1{C}je, a mouse model of {D}own syndrome}",
+   Journal="Neurosci. Lett.",
+   Year="2007",
+   Volume="421",
+   Number="2",
+   Pages="137--141",
+   Month="Jun",
+   Abstract={Ts1Cje and Ts65Dn are genetic mouse models of Down syndrome (DS). Like individuals with DS, these mice exhibit various hallmarks of hippocampal pathology, and deficits in hippocampal-based, declarative learning and memory tasks. Both spatial navigation and novel object recognition, two prototypical domains of declarative memory function, have been strongly characterized in the Ts65Dn DS model. Indeed, Ts65Dn mice show navigation problems in the Morris water maze, impaired alternation in a T-maze, and deficient working and reference memory in the radial arm maze task. They, likewise, show an inability to detect object novelty over time. In contrast to the Ts65Dn model, hippocampal-dependent cognition has been less well characterized in Ts1Cje. Although Ts1Cje mice have been found to exhibit spatial difficulties in the Morris water maze and reduced spontaneous alternation, their ability to process object-based information has never been examined. Here, we report that Ts1Cje mice perform normally in short-term and long-term novel object recognition tasks. The ability of Ts1Cje mice to detect object novelty, unlike Ts65Dn, may point to differences in the extent of hippocampal pathology in the two DS mouse models.}
+}
+
+% 17322876
+@Article{pmid17322876,
+   Author="Fernandez, F.  and Morishita, W.  and Zuniga, E.  and Nguyen, J.  and Blank, M.  and Malenka, R. C.  and Garner, C. C. ",
+   Title="{{P}harmacotherapy for cognitive impairment in a mouse model of {D}own syndrome}",
+   Journal="Nat. Neurosci.",
+   Year="2007",
+   Volume="10",
+   Number="4",
+   Pages="411--413",
+   Month="Apr",
+   Abstract={Ts65Dn mice, a model for Down syndrome, have excessive inhibition in the dentate gyrus, a condition that could compromise synaptic plasticity and mnemonic processing. We show that chronic systemic treatment of these mice with GABAA antagonists at non-epileptic doses causes a persistent post-drug recovery of cognition and long-term potentiation. These results suggest that over-inhibition contributes to intellectual disabilities associated with Down syndrome and that GABAA antagonists may be useful therapeutic agents for this disorder.}
+}
+
+% 17146725
+@Article{pmid17146725,
+   Author="Stewart, L. S.  and Persinger, M. A.  and Cortez, M. A.  and Snead, O. C. ",
+   Title="{{C}hronobiometry of behavioral activity in the {T}s65{D}n model of {D}own syndrome}",
+   Journal="Behav. Genet.",
+   Year="2007",
+   Volume="37",
+   Number="2",
+   Pages="388--398",
+   Month="Mar",
+   Abstract={Disruption of the sleep-wake cycle has been reported among individuals with Down syndrome (DS). Here we studied behavioral rhythms in adult male and female Ts65Dn mice, a model of DS. The overall behavioral activity of Ts65Dn and diploid (2N) littermates as defined by total movements (TM), movement time (MT), ambulatory movement time (AMT), time spent in center of arena (CT), jumps (JFP), rotational behavior (TURNS), and wheel-running activity (WRA) was recorded under a 12 h:12 h light-dark photocycle. During the light phase, Ts65Dn mice exhibited higher TM, MT, CT, JFP, and WRA compared to 2N littermates. During the dark phase, Ts65Dn and 2N mice differed only in CT and WRA, with the Ts65Dn group engaging in higher levels of both. There were no gender differences for any of the behavioral variables studied. Non-linear least-squares (Cosinor) analysis of the distribution of total behavioral activity (TM) indicated that Ts65Dn mice exhibited a slightly higher mean oscillation (i.e., mesor), but significantly lower amplitude in comparison to 2N mice, suggesting that levels of TM were elevated in trisomic mice but were relatively constant throughout the photocycle. The peak of the Ts65Dn TM rhythm was significantly phase-advanced, occurring approximately 4 h earlier than 2N mice. Overall, Ts65Dn mice were hyperactive and differed significantly in daily patterns of specific behaviors from those of 2N littermates. To control for the potential confound of retinal degeneration in Ts65Dn and 2N mice, we compared and found no difference between the TM rhythm parameters of 2N and non-retinally degenerate C57/129Sv mice, suggesting that abnormal behavioral rhythmicity in Ts65Dn mice may not due to the absence of rod and cone photoreceptors. These results serve as a starting point for further investigations into the physiological basis of sleep-wake disturbances in DS patients.}
+}
+
+% 16895585
+@Article{pmid16895585,
+   Author="Siarey, R. J.  and Kline-Burgess, A.  and Cho, M.  and Balbo, A.  and Best, T. K.  and Harashima, C.  and Klann, E.  and Galdzicki, Z. ",
+   Title="{{A}ltered signaling pathways underlying abnormal hippocampal synaptic plasticity in the {T}s65{D}n mouse model of {D}own syndrome}",
+   Journal="J. Neurochem.",
+   Year="2006",
+   Volume="98",
+   Number="4",
+   Pages="1266--1277",
+   Month="Aug",
+   Abstract={The Ts65Dn mouse model of Down syndrome (DS) has an extra segment of chromosome (Chr.) 16 exhibits abnormal behavior, synaptic plasticity and altered function of several signaling molecules. We have further investigated signaling pathways that may be responsible for the impaired hippocampal plasticity in the Ts65Dn mouse. Here we report that calcium/calmodulin-dependent protein kinase II (CaMKII), phosphatidylinositol 3-kinase (PI3K)/Akt, extracellular signal-regulated kinase (ERK), protein kinase A (PKA) and protein kinase C (PKC), all of which have been shown to be involved in synaptic plasticity, are altered in the Ts65Dn hippocampus. We found that the phosphorylation of CaMKII and protein kinase Akt was increased, whereas ERK was decreased. Activities of PKA and PKC were decreased. Furthermore, abnormal PKC activity and an absence of the increase in Akt phosphorylation were demonstrated in the Ts65Dn hippocampus after high-frequency stimulation that induces long-term potentiation. Our findings suggest that abnormal synaptic plasticity in the Ts65Dn hippocampus is the result of compensatory alterations involving the glutamate receptor subunit GluR1 in either one or more of these signaling cascades caused by the expression of genes located on the extra segment of Chr. 16.}
+}
+
+% 16879635
+@Article{pmid16879635,
+   Author="Martinez-Cue, C.  and Rueda, N.  and Garcia, E.  and Florez, J. ",
+   Title="{{A}nxiety and panic responses to a predator in male and female {T}s65{D}n mice, a model for {D}own syndrome}",
+   Journal="Genes Brain Behav.",
+   Year="2006",
+   Volume="5",
+   Number="5",
+   Pages="413--422",
+   Month="Jul",
+   Abstract={Hyperactivity is a feature frequently reported in behavioral studies on the Ts65Dn (TS) mouse, the most widely accepted model of Down syndrome, when tested in anxiety-provoking situations such as the plus-maze and the open-field tests. Although this behavior could be considered as an expression of reduced anxiety, it has been considered as a consequence of a lack of behavioral inhibition and/or reduced attention. This study addressed anxiety and panic behavior of male and female TS mice by evaluating serum biochemical parameters and behavioral responses to a predator in the Mouse Defense Test Battery. Flight, risk assessment, defensive threat/attack and escape attempts were measured during and after rat confrontation. When confronted to a rat, male TS mice showed similar biochemical and behavioral responses as control mice. However, female control and TS mice presented lower serum adrenocorticotropic hormone (ACTH) levels under basal conditions and higher corticosterone levels after predator exposure than male mice. Thus, there was a larger increase in ACTH and corticosterone levels after predator exposure with respect to the undisturbed condition in females than in males. In addition, TS females showed some alterations in defensive behaviors after predator exposure. The results emphasize the need to consider gender as a confounding factor in the behavioral assessment of TS mice.}
+}
+
+% 15992587
+@Article{pmid15992587,
+   Author="Siarey, R. J.  and Villar, A. J.  and Epstein, C. J.  and Galdzicki, Z. ",
+   Title="{{A}bnormal synaptic plasticity in the {T}s1{C}je segmental trisomy 16 mouse model of {D}own syndrome}",
+   Journal="Neuropharmacology",
+   Year="2005",
+   Volume="49",
+   Number="1",
+   Pages="122--128",
+   Month="Jul",
+   Abstract={Due to the homology between human chromosome 21 and mouse chromosome 16, trisomy 16 mice are considered animal models of Down syndrome (DS). Abnormal hippocampal synaptic plasticity and behavior have been reported in the segmental trisomy 16 Ts65Dn mouse. In the Ts1Cje DS mouse model, which has a shorter triplicated chromosomal segment than Ts65Dn, more subtle hippocampal behavioral deficits have been reported. In this study, we investigated CA1 hippocampal synaptic plasticity, long-term potentiation (LTP) and depression (LTD) in the Ts1Cje mouse. Field excitatory postsynaptic potentials (fEPSPs) were recorded from the CA1 area of in vitro hippocampal slices from the Ts1Cje mouse and diploid controls, LTP was induced by a single tetanizing train pulse (1 s) at 100 Hz and LTD by a 900-pulse train at 1 Hz. We report for the first time that compared to diploid controls, the hippocampus from the Ts1Cje mouse had a smaller LTP and an increased LTD. The changes are less dramatic than had been reported previously for the Ts65Dn mouse. Furthermore, in the Ts1Cje mouse trains of pulses at both 20 Hz and 100 Hz produced a decrease in the evoked fEPSPs over the length of the train in comparison to diploid fEPSPs. These findings suggest that genes from Ts1Cje chromosome, including GIRK2 potassium channel, contribute to abnormal short- and long-term plasticity.}
+}
+
+% 15941601
+@Article{pmid15941601,
+   Author="Martinez-Cue, C.  and Rueda, N.  and Garcia, E.  and Davisson, M. T.  and Schmidt, C.  and Florez, J. ",
+   Title="{{B}ehavioral, cognitive and biochemical responses to different environmental conditions in male {T}s65{D}n mice, a model of {D}own syndrome}",
+   Journal="Behav. Brain Res.",
+   Year="2005",
+   Volume="163",
+   Number="2",
+   Pages="174--185",
+   Month="Sep",
+   Abstract={Ts65Dn mouse is the most widely accepted model for Down syndrome. We previously showed that environmental enrichment improved spatial learning in female but deteriorated it in male Ts65Dn mice. This study analyzed the factors contributing to the disturbed cognition of male Ts65Dn mice after enriched housing, by allocating male control and Ts65Dn mice in four conditions after weaning: small (n = 2-3) and large group (n = 8-10) housing, and enriched housing in small (2-3) and large groups (8-10). Learning, aggressive behavior, anxiety-like behavior and biochemical correlates of stress were evaluated when Ts65Dn and control mice were 4-5 months old. Environmental enrichment in large mixed colonies of Ts65Dn and diploid littermates disturbed behavioral and learning skills of Ts65Dn mice in the Morris water maze. ACTH and testosterone levels were not modified in any group of mice. Ts65Dn and control mice subjected to enriched housing in large groups and Ts65Dn mice housed in large groups showed higher corticosterone levels. Aggressive behavior was evaluated by measuring the number of attacks performed in the presence of an intruder. Ts65Dn mice performed less attacks than controls in all conditions, especially after enriched housing, indicating subordination. In the plus maze, cognitive aspects (i.e. risk assessment) and motor components (open arm avoidance) of anxiety behavior were evaluated; no difference in any condition was found. It is suggested that an excess of social and/or physical stimulation in Ts65Dn mice may affect cognition by disturbing the emotional and behavioral components of the learning process.}
+}
+
+% 15869949
+@Article{pmid15869949,
+   Author="Seo, H.  and Isacson, O. ",
+   Title="{{A}bnormal {A}{P}{P}, cholinergic and cognitive function in {T}s65{D}n {D}own's model mice}",
+   Journal="Exp. Neurol.",
+   Year="2005",
+   Volume="193",
+   Number="2",
+   Pages="469--480",
+   Month="Jun",
+   Abstract={We evaluated Ts65Dn Down's syndrome mice and their littermates (LM) at 1-2, 4, and 12 months of age to determine amyloid precursor protein (APP)-related cellular and biochemical changes associated with cognitive deficits. Ts65Dn mice showed cognitive deficits in the Morris water maze compared to LM mice at 4 and 12 months of age. Ts65Dn, but not LM mice, developed a septohippocampal cholinergic neuronal degeneration of choline acetyltransferase (ChAT)-positive neurons at 12 months of age. These cellular changes were compensated by increases in ChAT enzyme activity of remaining cholinergic terminals in the hippocampus. By 12 months of age, Ts65Dn mice had elevations of APP protein levels in the hippocampus compared to their LM. At this age, both Ts65Dn mice and their LM abnormally responded to cholinergic muscarinic M1 agonist treatment in terms of hippocampal APP, nerve growth factor (NGF), and brain-derived neurotrophic factor (BDNF) levels compared to young adult C57BL/6 mice. In summary, the Ts65Dn mice show developmental and progressive age-related behavioral deficits, hippocampal APP, and cholinergic pathology. The relatively better cognitive spatial performance in LM compared to Ts65Dn mice suggests that high APP levels combined with progressive degeneration of the cholinergic system are critical to the pathology and cognitive deficits seen in Ts65Dn mice.}
+}
+
+% 15598129
+@Article{pmid15598129,
+   Author="Driscoll, L. L.  and Carroll, J. C.  and Moon, J.  and Crnic, L. S.  and Levitsky, D. A.  and Strupp, B. J. ",
+   Title="{{I}mpaired sustained attention and error-induced stereotypy in the aged {T}s65{D}n mouse: a mouse model of {D}own syndrome and {A}lzheimer's disease}",
+   Journal="Behav. Neurosci.",
+   Year="2004",
+   Volume="118",
+   Number="6",
+   Pages="1196--1205",
+   Month="Dec",
+   Abstract={This study compared performance of 15- to 17-month-old Ts65Dn mice to that of littermate controls on an automated sustained attention task in which the location, onset time, and duration of brief visual cues varied unpredictably. Ts65Dn mice committed more omission errors than controls, particularly on trials with the briefest cues. Videotape data revealed that the trisomic mice attended less than controls during the period before cue presentation and engaged in stereotypic jumping and grooming immediately after making an error. These findings reveal that Ts65Dn mice are impaired in sustaining attention and exhibit heightened reactivity to committing an error, and support the validity of this mouse model for studying Down syndrome and Alzheimer's disease. The attention task, coupled with the videotape analyses of task performance, provides a useful paradigm for studying attention and reactivity to errors in mice.}
+}
+
+% 15468085
+@Article{pmid15468085,
+   Author="Hunter, C. L.  and Bachman, D.  and Granholm, A. C. ",
+   Title="{{M}inocycline prevents cholinergic loss in a mouse model of {D}own's syndrome}",
+   Journal="Ann. Neurol.",
+   Year="2004",
+   Volume="56",
+   Number="5",
+   Pages="675--688",
+   Month="Nov",
+   Abstract={Individuals with Down's syndrome develop Alzheimer's-like pathologies comparatively early in life, including progressive degeneration of basal forebrain cholinergic neurons (BFCNs). Cholinergic hypofunction contributes to dementia-related cognitive decline and remains a target of therapeutic intervention for Alzheimer's disease. In light of this, partial trisomy 16 (Ts65Dn) mice have been developed to provide an animal model of Down's syndrome that exhibits progressive loss of BFCNs and cognitive ability. Another feature common to both Down's syndrome and Alzheimer's disease is neuroinflammation, which may exacerbate neurodegeneration, including cholinergic loss. Minocycline is a semisynthetic tetracycline with antiinflammatory properties that has demonstrated neuroprotective properties in certain disease models. Consistent with a role for inflammatory processes in BFCN degeneration, we have shown previously that minocycline protects BFCNs and improves memory in mice with acute, immunotoxic BFCN lesions. We now report that minocycline treatment inhibits microglial activation, prevents progressive BFCN decline, and markedly improves performance of Ts65Dn mice on a working and reference memory task. Minocycline is an established antiinflammatory and neuroprotective drug and may provide a novel approach to treat specific AD-like pathologies.}
+}
+
+% 15302106
+@Article{pmid15302106,
+   Author="Stasko, M. R.  and Costa, A. C. ",
+   Title="{{E}xperimental parameters affecting the {M}orris water maze performance of a mouse model of {D}own syndrome}",
+   Journal="Behav. Brain Res.",
+   Year="2004",
+   Volume="154",
+   Number="1",
+   Pages="1--17",
+   Month="Sep",
+   Abstract={The Ts65Dn mouse is the most studied and genetically the most complete animal model of Down syndrome (DS) available. These mice display many DS-like features, including performance deficits in different behavioral tasks, motor dysfunction, and age-dependent loss of cholinergic markers in the basal forebrain. At present, the only robust data demonstrating a behavioral deficit potentially associated with learning and memory in Ts65Dn mice less than 6 months old have come from studies that used some variation of the Morris water maze task. However, the specific features of the water maze deficits seen in these animals are still poorly defined. This study is an initial attempt to bridge this knowledge gap. We investigated three major factors potentially influencing the performance of Ts65Dn mice in the water maze: (1) order in which the test is executed; (2) age of the animals; and (3) levels of aversiveness associated with the test. Measurements of plasma corticosterone levels and core body temperature after swimming were also carried out in additional subsets of mice. Overall, we found that the behavioral phenotype of Ts65Dn mice was milder than previously described in the literature. Additionally, Ts65Dn mice were significantly more responsive to potential stressors and more prone to swim-induced hypothermia than euploid control animals. More studies are needed to tease out further the potential effects of confounding factors on the performance of Ts65Dn mice.}
+}
+
+% 15276802
+@Article{pmid15276802,
+   Author="Hampton, T. G.  and Stasko, M. R.  and Kale, A.  and Amende, I.  and Costa, A. C. ",
+   Title="{{G}ait dynamics in trisomic mice: quantitative neurological traits of {D}own syndrome}",
+   Journal="Physiol. Behav.",
+   Year="2004",
+   Volume="82",
+   Number="2-3",
+   Pages="381--389",
+   Month="Sep",
+   Abstract={The segmentally trisomic mouse Ts65Dn is a model of Down syndrome (DS). Gait abnormalities are almost universal in persons with DS. We applied a noninvasive imaging method to quantitatively compare the gait dynamics of Ts65Dn mice (n=10) to their euploid littermates (controls) (n=10). The braking duration of the hind limbs in Ts65Dn mice was prolonged compared to that in control mice (60+/-3 ms vs. 49+/-2 ms, P<.05) at a slow walking speed (18 cm/s). Stride length and stride frequency of forelimbs and hind limbs were comparable between Ts65Dn mice and control mice. Stride dynamics were significantly different in Ts65Dn mice at a faster walking speed (36 cm/s). Stride length was shorter in Ts65Dn mice (5.9+/-0.1 vs. 6.3+/-0.3 cm, P<.05), and stride frequency was higher in Ts65Dn compared to control mice (5.9+/-0.1 vs. 5.3+/-0.1 strides/s, P<.05). Hind limb swing duration was prolonged in Ts65Dn mice compared to control mice (93+/-3 vs. 76+/-3 ms, P<.05). Propulsion of the forelimbs contributed to a significantly larger percentage of stride duration in Ts65Dn mice than in control mice at the faster walking speed. Indices of gait dynamics in Ts65Dn mice correspond to previously reported findings in children with DS. The methods used in the present study provide quantitative markers for genotype and phenotype relationship studies in DS. This technique may provide opportunities for testing the efficacy of therapies for motor dysfunction in persons with DS.}
+}
+
+% 15262268
+@Article{pmid15262268,
+   Author="Gotti, S.  and Chiavegatto, S.  and Sica, M.  and Viglietti-Panzica, C.  and Nelson, R. J.  and Panzica, G. ",
+   Title="{{A}lteration of {N}{O}-producing system in the basal forebrain and hypothalamus of {T}s65{D}n mice: an immunohistochemical and histochemical study of a murine model for {D}own syndrome}",
+   Journal="Neurobiol. Dis.",
+   Year="2004",
+   Volume="16",
+   Number="3",
+   Pages="563--571",
+   Month="Aug",
+   Abstract={Ts65Dn mice have been developed as a model for Down syndrome (DS). Because of its involvement in complex behaviors, including sexual and aggressive behaviors, we investigated the nitric oxide (NO) system in specific brain regions of these mutant mice (TS) after isolation-induced aggression. Male TS mice displayed significantly higher aggression than wild type (WT) mice and the comparison of the NO system, both with immunohistochemical and histochemical methods, resulted in robust differences between TS and WT mice in the hypothalamic paraventricular nucleus, in the nucleus of the diagonal band and in the medial septum, but not in the striatum of TS mice. In conclusion, we document alterations in the neuronal NO system of the TS mouse model of DS, suggesting a correlation of the behavioral aggressiveness with deficient NO production.}
+}
+
+% 12642175
+@Article{pmid12642175,
+   Author="Bimonte-Nelson, H. A.  and Hunter, C. L.  and Nelson, M. E.  and Granholm, A. C. ",
+   Title="{{F}rontal cortex {B}{D}{N}{F} levels correlate with working memory in an animal model of {D}own syndrome}",
+   Journal="Behav. Brain Res.",
+   Year="2003",
+   Volume="139",
+   Number="1-2",
+   Pages="47--57",
+   Month="Feb",
+   Abstract={Individuals with Down syndrome (DS) develop most neuropathological hallmarks of Alzheimer's disease early in life, including loss of cholinergic markers in the basal forebrain. Ts65Dn mice, an animal model of DS, perform poorly on tasks requiring spatial memory and also exhibit basal forebrain pathology beginning around 6 months of age. We evaluated memory as well as brain-derived neurotrophic factor (BDNF) and nerve growth factor (NGF) protein levels in basal forebrain, frontal cortex, hippocampus, and striatum in Ts65Dn mice at the age when cholinergic degeneration is first observed, and compared values to normosomic controls. Six-month-old Ts65Dn mice exhibited impairments in working and reference memory as assessed on a water radial-arm maze. The working memory deficit was related to the inability of Ts65Dn mice to successfully sustain performance as the working memory load increased. Coupled with cognitive performance deficiencies, Ts65Dn mice also exhibited lower frontal cortex BDNF protein levels than controls. Further, BDNF levels were negatively correlated with working memory errors during the latter portion of testing in Ts65Dn mice, thereby suggesting that lower BDNF protein levels in the frontal cortex may be associated with the observed working memory impairment.}
+}
+
+% 12419416
+@Article{pmid12419416,
+   Author="Moran, T. H.  and Capone, G. T.  and Knipp, S.  and Davisson, M. T.  and Reeves, R. H.  and Gearhart, J. D. ",
+   Title="{{T}he effects of piracetam on cognitive performance in a mouse model of {D}own's syndrome}",
+   Journal="Physiol. Behav.",
+   Year="2002",
+   Volume="77",
+   Number="2-3",
+   Pages="403--409",
+   Month="Nov",
+   Abstract={Piracetam is a nootropic agent that has been shown to improve cognitive performance in a number of animal model systems. Piracetam is reported to be used widely as a means of improving cognitive function in children with Down's syndrome (DS). In order to provide a preclinical assessment of the potential efficacy of piracetam, we examined the effects of a dose range of piracetam in the Ts65Dn mouse model of DS. Ts65Dn mice are trisomic for a region of mouse chromosome 16 with homology to human chromosome 21. Daily piracetam treatment at doses of 0, 75, 150, and 300 mg/kg ip was initiated in 6-week-old male Ts65Dn and euploid control mice. Following 4 weeks of treatment, mice were tested in the visible and hidden-platform components of the Morris water maze and were placed overnight in computerized activity chambers to assess effects on overall activity. Piracetam treatment was continued through the 4 weeks of testing. In control mice, 75 and 150 mg/kg/day piracetam improved performance in both the visible- and hidden-platform tasks. Although low doses of piracetam reduced search time in the visible-platform component in Ts65Dn mice, all piracetam doses prevented trial-related improvements in performance in Ts65Dn mice. The 300-mg/kg/day-piracetam dose was associated with a reversal of the nocturnal spontaneous hyperactivity in Ts65Dn. These data do not provide support for piracetam treatment for individuals with DS.}
+}
+
+% 12419414
+@Article{pmid12419414,
+   Author="Granholm, A. C.  and Ford, K. A.  and Hyde, L. A.  and Bimonte, H. A.  and Hunter, C. L.  and Nelson, M.  and Albeck, D.  and Sanders, L. A.  and Mufson, E. J.  and Crnic, L. S. ",
+   Title="{{E}strogen restores cognition and cholinergic phenotype in an animal model of {D}own syndrome}",
+   Journal="Physiol. Behav.",
+   Year="2002",
+   Volume="77",
+   Number="2-3",
+   Pages="371--385",
+   Month="Nov",
+   Abstract={Estrogen maintains normal function of basal forebrain (BF) cholinergic neurons and estrogen replacement therapy (ERT) has therefore been proposed as a therapy for Alzheimer's disease (AD). We provide evidence to support this hypothesis in an animal model of Down syndrome (DS), a chromosome 16 segmental trisomy (Ts65Dn) mouse. These mice develop cholinergic degeneration similar to young adults with DS and AD patients. ERT has not been tested in women with DS, even though they are more likely than normosomic women to develop early menopause and AD. Female Ts65Dn and normosomic mice (11-15 months) received a subcutaneous estrogen pellet or a sham operation. After 60 days, estrogen treatment improved learning of a T-maze task and normalized behavior in the Ts65Dn mice in reversal learning of the task, a measure of cognitive flexibility. Stereological evaluation of choline acetyltransferase (ChAT) immunopositive BF neurons showed that estrogen increased cell size and total number of cholinergic neurons in the medial septum of Ts65Dn mice. In addition, estrogen increased NGF protein levels in the BF of trisomic mice. These findings support the emerging hypothesis that estrogen may play a protective role during neurodegeneration and cognitive decline, particularly in cholinergic BF neuronal systems underlying cognition. The findings also indicate that estrogen may act, at least partially, via endogenous growth factors. Collectively, the data suggest that ERT may be a viable therapeutic approach for women with DS coupled with dementia.}
+}
+
+% 12191805
+@Article{pmid12191805,
+   Author="Martinez-Cue, C.  and Baamonde, C.  and Lumbreras, M.  and Paz, J.  and Davisson, M. T.  and Schmidt, C.  and Dierssen, M.  and Florez, J. ",
+   Title="{{D}ifferential effects of environmental enrichment on behavior and learning of male and female {T}s65{D}n mice, a model for {D}own syndrome}",
+   Journal="Behav. Brain Res.",
+   Year="2002",
+   Volume="134",
+   Number="1-2",
+   Pages="185--200",
+   Month="Aug",
+   Abstract={We have assessed the effects of enriched environment (EE) upon behavioral and cognitive performances of partially trisomic Ts65Dn (TS) mice and their control (CO) littermates. Enriched environment was applied to pups for 7 weeks after weaning. Circadian spontaneous activity (actimetry), exploratory behavior (hole board), activity in the open field and spatial memory (Morris Water Maze, repeated acquisition and cued paradigms) were analyzed in 86 female and 75 male mice, starting 15 days after completing enrichment. For each gender, mice were distributed in non-enriched and enriched control and trisomic groups. Enriched environment reduced in trisomic females and enhanced in trisomic males' circadian activity. Exploratory behavior was increased by enrichment in all groups, regardless of gender or presence of trisomy. In the Morris Water Maze, a significant improvement of the spatial memory was observed in enriched-control females, but not in enriched-control male mice, as assessed by distances traveled. Performances in the four groups of control animals were also consistently and significantly better than those of matching trisomic mice. In the acquisition trials, enrichment improved performance in trisomic female animals, but deteriorated in trisomic male mice. In all groups, changes in escape latencies and distances induced by enrichment were accounted for by changes in the total time spent in the periphery of the pool, indicating changes in learning strategy. Working memory was the function more affected by enrichment. It is concluded that enriched environment induces behavioral and learning changes in trisomic mice, although gender plays a significant modulatory role.}
+}
+
+% 12113948
+@Article{pmid12113948,
+   Author="Hyde, L. A.  and Crnic, L. S. ",
+   Title="{{R}eactivity to object and spatial novelty is normal in older {T}s65{D}n mice that model {D}own syndrome and {A}lzheimer's disease}",
+   Journal="Brain Res.",
+   Year="2002",
+   Volume="945",
+   Number="1",
+   Pages="26--30",
+   Month="Jul",
+   Abstract={Ts65Dn mice, a model for Down syndrome and Alzheimer's disease, have a spontaneous age-related reduction of cholinergic markers in medial septal neurons, hippocampal abnormalities, and an age-related learning deficit in a task that requires an intact hippocampus. Others have shown that when normal rodents explored an open field with objects, they detected the displacement of some of the familiar objects within the arena (spatial novelty) and the presence of a new object (object novelty); whereas rodents with hippocampal, fornix, or neonatal selective basal forebrain cholinergic lesions were impaired in detecting spatial, but not object, novelty. In this study, both control and Ts65Dn mice responded to both the spatial and object changes. This unexpected finding could have several explanations. One may be related to recent studies that suggest that only rats with neonatal, but not adult, basal forebrain cholinergic 192 IgG-saporin lesions are impaired in reacting to spatial novelty.}
+}
+
+% 11720125
+@Article{pmid11720125,
+   Author="Turner, C. A.  and Presti, M. F.  and Newman, H. A.  and Bugenhagen, P.  and Crnic, L.  and Lewis, M. H. ",
+   Title="{{S}pontaneous stereotypy in an animal model of {D}own syndrome: {T}s65{D}n mice}",
+   Journal="Behav. Genet.",
+   Year="2001",
+   Volume="31",
+   Number="4",
+   Pages="393--400",
+   Month="Jul",
+   Abstract={Stereotyped behaviors (e.g., body rocking) occur at high rates in individuals with mental retardation (e.g., Down syndrome). To determine if spontaneous stereotypy occurs in a murine model of Down syndrome, the home cage behavior of Ts65Dn and control mice was monitored during the dark cycle. Motor activity was further assessed in novel automated test chambers, with acoustic startle and rotor rod paradigms providing additional environmental challenges. Spontaneous stereotypy (repetitive jumping and cage top twirling) was observed in the home cage in approximately half of the Ts65Dn mice, compared with approximately 10% of diploid controls. Repetitive jumping was observed exclusively in the Ts65Dn mice. In the open field, although no differences were found between Ts65Dn and control mice, stereotypic Ts65Dn mice exhibited significantly less locomotor activity and rearing relative to control and nonstereotypic Ts65Dn mice. Ts65Dn mice attained significantly lower rotor rod speeds but did not differ from controls in the amplitude of the acoustic startle response. These environmental challenges did not increase stereotypy over home cage rates but induced stereotypy in two additional animals. The Ts65Dn model may aid in identifying genes associated with the development and expression of stereotypy.}
+}
+
+% 11044479
+@Article{pmid11044479,
+   Author="Sago, H.  and Carlson, E. J.  and Smith, D. J.  and Rubin, E. M.  and Crnic, L. S.  and Huang, T. T.  and Epstein, C. J. ",
+   Title="{{G}enetic dissection of region associated with behavioral abnormalities in mouse models for {D}own syndrome}",
+   Journal="Pediatr. Res.",
+   Year="2000",
+   Volume="48",
+   Number="5",
+   Pages="606--613",
+   Month="Nov",
+   Abstract={Two animal models of Down syndrome (human trisomy 21) with segmental trisomy for all (Ts65Dn) or part (Ts1Cje) of human chromosome 21-homologous region of mouse chromosome 16 have cognitive and behavioral abnormalities. To compare these trisomies directly and to assess the phenotypic contribution of the region of difference between them, Ts65Dn, Ts1Cje, and a new segmental trisomic (Ms1Ts65) for the region of difference (APP: to Sod1) have been generated as littermates and tested in parallel. Although the performance of Ts1Cje mice in the Morris water maze is similar to that of Ts65Dn mice, the reverse probe tests indicate that Ts65Dn is more severely affected. By contrast, the deficits of Ms1Ts65 mice are significantly less severe than those of Ts65Dn. Therefore, whereas triplication of Sod1 to Mx1 plays the major role in causing the abnormalities of Ts65Dn in the Morris water maze, imbalance of APP: to Sod1 also contributes to the poor performance. Ts65Dn mice are hyperactive and Ts1Cje mice are hypoactive; the activity of Ms1Ts65 mice is not significantly above normal. These findings indicate that genes in the Ms1Ts65 trisomic region must interact with others in the Ts1Cje region to produce hyperactivity in Ts65Dn mice.}
+}
+
+% 10607830
+@Article{pmid10607830,
+   Author="Baxter, L. L.  and Moran, T. H.  and Richtsmeier, J. T.  and Troncoso, J.  and Reeves, R. H. ",
+   Title="{{D}iscovery and genetic localization of {D}own syndrome cerebellar phenotypes using the {T}s65{D}n mouse}",
+   Journal="Hum. Mol. Genet.",
+   Year="2000",
+   Volume="9",
+   Number="2",
+   Pages="195--202",
+   Month="Jan",
+   Abstract={Down syndrome (DS) is the most common genetic cause of mental retardation and affects many aspects of brain development. DS individuals exhibit an overall reduction in brain size with a disproportionately greater reduction in cerebellar volume. The Ts65Dn mouse is segmentally trisomic for the distal 12-15 Mb of mouse chromosome 16, a region that shows perfect conserved linkage with human chromosome 21, and therefore provides a genetic model for DS. In this study, high resolution magnetic resonance imaging and histological analysis demonstrate precise neuro- anatomical parallels between the DS and the Ts65Dn cerebellum. Cerebellar volume is significantly reduced in Ts65Dn mice due to reduction of both the internal granule layer and the molecular layer of the cerebellum. Granule cell number is further reduced by a decrease in cell density in the internal granule layer. Despite these changes in Ts65Dn cerebellar structure, motor deficits have not been detected in several tests. Reduction in granule cell density in Ts65Dn mice correctly predicts an analogous pathology in humans; a significant reduction in granule cell density in the DS cerebellum is reported here for the first time. The candidate region of genes on chromosome 21 affecting cerebellar development in DS is therefore delimited to the subset of genes whose orthologs are at dosage imbalance in Ts65Dn mice, providing the first localization of genes affecting a neuroanatomical phenotype in DS. The application of this model for analysis of developmental perturbations is extended by the accurate prediction of DS cerebellar phenotypes.}
+}
+
+% 10321494
+@Article{pmid10321494,
+   Author="Martinez-Cue, C.  and Baamonde, C.  and Lumbreras, M. A.  and Vallina, I. F.  and Dierssen, M.  and Florez, J. ",
+   Title="{{A} murine model for {D}own syndrome shows reduced responsiveness to pain}",
+   Journal="Neuroreport",
+   Year="1999",
+   Volume="10",
+   Number="5",
+   Pages="1119--1122",
+   Month="Apr",
+   Abstract={Ts65Dn mice have an extra chromosome that contains a segment of chromosome 16 homologous to the Down syndrome 'critical region' of human chromosome 21. Since pain transmission and expression may be limited in people with mental disabilities, including Down syndrome, responsiveness to nociception in Ts65Dn mice was compared with that in their control litter-mates. In the formalin test, a model of tonic pain, Ts65Dn mice showed depressed sensitivity to nociception during the early and late phases. In the tail-flick test, they showed longer latencies than controls, but no differences among groups were observed in morphine responses. In the hot-plate test, no changes were observed in escape latencies during the first exposure, but Ts65Dn mice showed smaller tendency to lick. The results indicate that trisomic mice present an overall depressed responsiveness to nociceptive stimulation.}
+}
+
+% 9655620
+@Article{pmid9655620,
+   Author="Escorihuela, R. M.  and Vallina, I. F.  and Martinez-Cue, C.  and Baamonde, C.  and Dierssen, M.  and Tobena, A.  and Florez, J.  and Fernandez-Teruel, A. ",
+   Title="{{I}mpaired short- and long-term memory in {T}s65{D}n mice, a model for {D}own syndrome}",
+   Journal="Neurosci. Lett.",
+   Year="1998",
+   Volume="247",
+   Number="2-3",
+   Pages="171--174",
+   Month="May",
+   Abstract={Ts65Dn (TS), control littermates (CO) and Swiss (SW) male mice were tested in the elevated plus-maze and in the Morris water maze (MWM) for memory evaluation. In the plus-maze, each mouse was placed at the end of an open arm and initial freezing and the time to enter into an enclosed arm (transfer latency) were measured. SW mice decreased both measures over repeated trials, whereas no decrease of freezing was observed in CO mice, thus suggesting increased emotionality in this group. Compared to CO mice, TS mice showed less initial freezing, shorter transfer latencies, and spent less time in enclosed arms, suggesting a reduced ability to habituate or to inhibit behaviour. Animals were also submitted to a learning-set paradigm consisting of reaching a new platform position each day in the MWM. Two training phases (separated by a resting period of 6 weeks), each including eight acquisition and four cued sessions, were performed (each session consisting of four pairs of trials). CO and SW mice already reached an asymptotic performance by the second day of the first phase whereas TS mice did not achieve that level until the second training phase. The progression over trials indicated that CO and SW animals learned the new platform position between trials 1 and 2 of each session, whereas TS animals failed to do it and had more difficulties to find the platform when it was placed in the centre of the pool as compared to the other positions (SW, NE, E). The results suggest that TS mice show working memory impairments in addition to long-term memory deficits, although extensive training appeared to facilitate TS mice to achieve a level of performance similar to their control littermates. This represents another aspect of the cognitive deficits shown by TS mice: a mouse model of the human Down syndrome.}
+}
+
+% 9600952
+@Article{pmid9600952,
+   Author="Sago, H.  and Carlson, E. J.  and Smith, D. J.  and Kilbridge, J.  and Rubin, E. M.  and Mobley, W. C.  and Epstein, C. J.  and Huang, T. T. ",
+   Title="{{T}s1{C}je, a partial trisomy 16 mouse model for {D}own syndrome, exhibits learning and behavioral abnormalities}",
+   Journal="Proc. Natl. Acad. Sci. U.S.A.",
+   Year="1998",
+   Volume="95",
+   Number="11",
+   Pages="6256--6261",
+   Month="May",
+   Abstract={A mouse model for Down syndrome, Ts1Cje, has been developed. This model has made possible a step in the genetic dissection of the learning, behavioral, and neurological abnormalities associated with segmental trisomy for the region of mouse chromosome 16 homologous with the so-called "Down syndrome region" of human chromosome segment 21q22. Tests of learning in the Morris water maze and assessment of spontaneous locomotor activity reveal distinct learning and behavioral abnormalities, some of which are indicative of hippocampal dysfunction. The triplicated region in Ts1Cje, from Sod1 to Mx1, is smaller than that in Ts65Dn, another segmental trisomy 16 mouse, and the learning deficits in Ts1Cje are less severe than those in Ts65Dn. In addition, degeneration of basal forebrain cholinergic neurons, which was observed in Ts65Dn, was absent in Ts1Cje.}
+}
+
+% 9021073
+@Article{pmid9021073,
+   Author="Demas, G. E.  and Nelson, R. J.  and Krueger, B. K.  and Yarowsky, P. J. ",
+   Title="{{S}patial memory deficits in segmental trisomic {T}s65{D}n mice}",
+   Journal="Behav. Brain Res.",
+   Year="1996",
+   Volume="82",
+   Number="1",
+   Pages="85--92",
+   Month="Dec",
+   Abstract={Spatial memory was assessed in the segmental trisomic 16 mouse (Ts65Dn), a potential model for Down syndrome (DS), using the 12-arm radial maze (RAM). Ts65Dn mice have a portion of mouse chromosome 16 syntenic to the distal end of human chromosome 21 triplicated. On each of 8 daily trials of the RAM, Ts65Dn mice made fewer correct choices than control mice and performed at or near chance levels, indicating a deficit in spatial working memory. On trials 9 and 10, Ts65Dn mice performed as well as control mice on the initial 12 choices, but required a greater number of choices to complete the RAM. The improved performance of Ts65Dn mice on trials 9 and 10 was lost when the animals were retested after a 50-day retention period, suggesting that long-term memory is also defective. These results are not likely explained by differences in either response bias or perceptual discrimination. Ts65Dn and control mice displayed comparable levels of performance in spontaneous alternation in a T-maze, demonstrating that simple spatial memory was not impaired. In the elevated plus maze, Ts65Dn mice did not display higher anxiety levels which could affect their performance in the RAM. In fact, Ts65Dn mice visited open arms on the elevated plus maze more frequently and spent more time on open arms than did control mice. Taken together, these results provide evidence for short- and long-term spatial memory deficits in Ts65Dn mice.}
+}
+
+% 8917591
+@Article{pmid8917591,
+   Author="Holtzman, D. M.  and Santucci, D.  and Kilbridge, J.  and Chua-Couzens, J.  and Fontana, D. J.  and Daniels, S. E.  and Johnson, R. M.  and Chen, K.  and Sun, Y.  and Carlson, E.  and Alleva, E.  and Epstein, C. J.  and Mobley, W. C. ",
+   Title="{{D}evelopmental abnormalities and age-related neurodegeneration in a mouse model of {D}own syndrome}",
+   Journal="Proc. Natl. Acad. Sci. U.S.A.",
+   Year="1996",
+   Volume="93",
+   Number="23",
+   Pages="13333--13338",
+   Month="Nov",
+   Abstract={To study the pathogenesis of central nervous system abnormalities in Down syndrome (DS), we have analyzed a new genetic model of DS, the partial trisomy 16 (Ts65Dn) mouse. Ts65Dn mice have an extra copy of the distal aspect of mouse chromosome 16, a segment homologous to human chromosome 21 that contains much of the genetic material responsible for the DS phenotype. Ts65Dn mice show developmental delay during the postnatal period as well as abnormal behaviors in both young and adult animals that may be analogous to mental retardation. Though the Ts65Dn brain is normal on gross examination, there is age-related degeneration of septohippocampal cholinergic neurons and astrocytic hypertrophy, markers of the Alzheimer disease pathology that is present in elderly DS individuals. These findings suggest that Ts65Dn mice may be used to study certain developmental and degenerative abnormalities in the DS brain.}
+}
+
+% 8884947
+@Article{pmid8884947,
+   Author="Klein, S. L.  and Kriegsfeld, L. J.  and Hairston, J. E.  and Rau, V.  and Nelson, R. J.  and Yarowsky, P. J. ",
+   Title="{{C}haracterization of sensorimotor performance, reproductive and aggressive behaviors in segmental trisomic 16 ({T}s65{D}n) mice}",
+   Journal="Physiol. Behav.",
+   Year="1996",
+   Volume="60",
+   Number="4",
+   Pages="1159--1164",
+   Month="Oct",
+   Abstract={In the present study, segmental trisomy 16 (Ts65Dn) mice, an animal model of Down Syndrome (DS), were examined for sensorimotor, reproductive, and aggression abnormalities associated with DS. The Ts65Dn mice exhibited no sensorimotor deficits in olfactory sensitivity, visual abilities, orientation reactions, forelimb strength, postural skills, balance/ coordination, climbing, or locomotion compared to genetically matched control B6EiC3HF1 mice. In mating tests, the percentage of Ts65Dn mice displaying intromissions when paired with estrous females was significantly less than that in controls. Although the percentage of Ts65Dn mice that mounted and ejaculated with an estrous female was marginally less than in controls, there were no significant differences on the other measures of reproductive behavioral performance. In aggression tests, Ts65Dn males showed increased offensive aggression in a neutral arena both when paired and among grouped males. Conversely, Ts65Dn mice exhibited less offensive aggression against an intruder in their home cage than control males. In sum, these mice possess some of the adaptive behavior abnormalities observed in DS patients; however, because the Ts65Dn mice do not have any observed sensorimotor deficits that could interfere with behavioral assessments, they may serve as a useful model for the study of behavioral impairments associated with DS.}
+}
+
+% 8852727
+@Article{pmid8852727,
+   Author="Coussons-Read, M. E.  and Crnic, L. S. ",
+   Title="{{B}ehavioral assessment of the {T}s65{D}n mouse, a model for {D}own syndrome: altered behavior in the elevated plus maze and open field}",
+   Journal="Behav. Genet.",
+   Year="1996",
+   Volume="26",
+   Number="1",
+   Pages="7--13",
+   Month="Jan",
+   Abstract={The Ts65Dn mouse carries a partial trisomy for mouse chromosome 16 in a region that has high homology to the Down syndrome (DS) region of human chromosome 21 and is, thus, a potential animal model of DS. The focus of the present study was to begin to characterize the behavioral phenotype of this mouse to assess its usefulness as a model of aspects of the DS phenotype. The behavior of Ts65Dn and littermate control mice was assessed in the elevated plus maze, lighted and dark open field, and a step-down passive avoidance task. The behavior of Ts65Dn mice in these tests differed considerably from the nontrisomic controls. In the elevated plus maze, Ts65Dn had more total arm visits than controls, showed a higher percentage of arm visits to the open arms than control mice, and showed no preference for the closed arms. Ts65Dn mice were more active in both open-field situations, regardless of light condition, and ventured into the center of the arena more than controls. Lighting in the open field had moderate effects on the activity of the Ts65Dn mice, but control mice were, as expected, much more active in the dark than the light. The trisomic mice learned and retained the step-down passive avoidance task in the same number of trials as the controls. Overall, these data indicate that Ts65Dn mice are more active than control mice in two testing situations. Most striking is the finding that the Ts65Dn mice were much less responsive to variations in environmental cues to which normal mice are quite sensitive. These data not only begin to characterize systematically the Ts65Dn phenotype, but also raise several interesting issues about the sources of the aberrant behaviors observed in these mice.}
+}
+
+% 8584244
+@Article{pmid8584244,
+   Author="Escorihuela, R. M.  and Fernandez-Teruel, A.  and Vallina, I. F.  and Baamonde, C.  and Lumbreras, M. A.  and Dierssen, M.  and Tobena, A.  and Florez, J. ",
+   Title="{{A} behavioral assessment of {T}s65{D}n mice: a putative {D}own syndrome model}",
+   Journal="Neurosci. Lett.",
+   Year="1995",
+   Volume="199",
+   Number="2",
+   Pages="143--146",
+   Month="Oct",
+   Abstract={Mice which are trisomic for only the human chromosome (Chr) 21-homologous segment of mouse Chr 16 (segmental trisomy), including a portion of the Down syndrome region of human Chr 21, have recently been developed. Since these segmentally trisomic mice, designated Ts(17(16))65Dn, survive to adulthood, they may represent a mouse model for the study of Down syndrome. A partial characterization of their behavioral phenotype was undertaken by evaluating the sensorimotor reflexes, exploration, locomotor activity, emotionality and spatial learning in 16 male Ts65Dn mice (TS) and 16 control (CO) littermates. No sensorimotor deficits appeared in TS compared to CO mice. By contrast, head-dipping behaviour in the hold board was increased in TS mice with respect to the CO group, showing a higher repetition rate of previously explored holes. Crossings in the open field and total arm entries in the plus maze were higher in TS than in the CO group during the dark phase of the light-dark (LD) cycle under red light, but not during the light phase of the LD cycle under white light. Entries into the open arms of the plus maze were increased overall in TS mice when compared to CO mice, but no differences were found in time spent in the open arms. TS mice showed impaired place learning in the Morris water maze, whereas they were able to reach the same performance as CO animals in cued learning. Thus, absence of sensorimotor deficits, increased exploration, hyperactivity under certain experimental conditions and a moderate impairment of spatial learning were the principal characteristics observed in TS mice compared to their CO littermates.}
+}
+
+% 7550346
+@Article{pmid7550346,
+   Author="Reeves, R. H.  and Irving, N. G.  and Moran, T. H.  and Wohn, A.  and Kitt, C.  and Sisodia, S. S.  and Schmidt, C.  and Bronson, R. T.  and Davisson, M. T. ",
+   Title="{{A} mouse model for {D}own syndrome exhibits learning and behaviour deficits}",
+   Journal="Nat. Genet.",
+   Year="1995",
+   Volume="11",
+   Number="2",
+   Pages="177--184",
+   Month="Oct",
+   Abstract={Trisomy 21 or Down syndrome (DS) is the most frequent genetic cause of mental retardation, affecting one in 800 live born human beings. Mice with segmental trisomy 16 (Ts65Dn mice) are at dosage imbalance for genes corresponding to those on human chromosome 21q21-22.3--which includes the so-called DS 'critical region'. They do not show early-onset of Alzheimer disease pathology; however, Ts65Dn mice do demonstrate impaired performance in a complex learning task requiring the integration of visual and spatial information. The reproducibility of this phenotype among Ts65Dn mice indicates that dosage imbalance for a gene or genes in this region contributes to this impairment. The corresponding dosage imbalance for the human homologues of these genes may contribute to cognitive deficits in DS.}
+}
+
+% 22758646
+@Article{pmid22758646,
+   Author="Camp, B. W.  and Gerson, J. E.  and Tsang, C. W.  and Villa, S. R.  and Acosta, J. I.  and Blair Braden, B.  and Hoffman, A. N.  and Conrad, C. D.  and Bimonte-Nelson, H. A. ",
+   Title="{{H}igh serum androstenedione levels correlate with impaired memory in the surgically menopausal rat: a replication and new findings}",
+   Journal="Eur. J. Neurosci.",
+   Year="2012",
+   Volume="36",
+   Number="8",
+   Pages="3086--3095",
+   Month="Oct",
+   Abstract={After natural menopause in women, androstenedione becomes the primary hormone secreted by the residual follicle-depleted ovaries. In two independent studies, in rodents that had undergone ovarian follicular depletion, we found that higher endogenous serum androstenedione levels correlated with increased working memory errors. This led to the hypothesis that higher androstenedione levels impair memory. The current study directly tested this hypothesis, examining the cognitive effects of exogenous androstenedione administration in rodents. Middle-aged ovariectomised rats received vehicle or one of two doses of androstenedione. Rats were tested on a spatial working and reference memory maze battery including the water-radial arm maze, Morris water maze (MM) and delay match-to-sample task. Androstenedione at the highest dose impaired reference memory as well as the ability to maintain performance as memory demand was elevated. This was true for both high temporal demand memory retention of one item of spatial information, as well as the ability to handle multiple items of spatial working memory information. We measured glutamic acid decarboxylase (GAD) protein in multiple brain regions to determine whether the gamma-aminobutyric acid (GABA) system relates to androstenedione-induced memory impairments. Results showed that higher entorhinal cortex GAD levels were correlated with worse MM performance, irrespective of androstenedione treatment. These findings suggest that androstenedione, the main hormone produced by the follicle-depleted ovary, is detrimental to working memory, reference memory and memory retention. Furthermore, while spatial reference memory performance might be related to the GABAergic system, it does not appear to be altered with androstenedione administration, at least at the doses used in the current study.}
+}
+
+% 19470706
+@Article{pmid19470706,
+   Author="Acosta, J. I.  and Mayer, L.  and Talboom, J. S.  and Tsang, C. W.  and Smith, C. J.  and Enders, C. K.  and Bimonte-Nelson, H. A. ",
+   Title="{{T}ransitional versus surgical menopause in a rodent model: etiology of ovarian hormone loss impacts memory and the acetylcholine system}",
+   Journal="Endocrinology",
+   Year="2009",
+   Volume="150",
+   Number="9",
+   Pages="4248--4259",
+   Month="Sep",
+   Abstract={Clinical research suggests that type of ovarian hormone loss at menopause influences cognition. Until recently ovariectomy (OVX) has been the primary rodent model to examine effects of ovarian hormone loss on cognition. This model limits evaluations to abrupt and complete ovarian hormone loss, modeling less than 13% of women who receive surgical menopause. The majority of women do not have their ovaries surgically removed and undergo transitional hormone loss via ovarian follicular depletion. 4-Vinylcyclohexene-diepoxide (VCD) produces gradual ovarian follicular depletion in the rodent, with hormone profiles more similar to naturally menopausal women vs. OVX. We directly compared VCD and OVX models to examine whether type of hormone loss (transitional vs. surgical) impacted cognition as assessed on a maze battery as well as the cholinergic system tested via scopolamine mnemonic challenge and brain acetylcholinesterase activity. Middle-aged rats received either sham surgery, OVX surgery, VCD, or VCD then OVX to assess effects of removal of residual ovarian output after transitional menopause and follicular depletion. VCD-induced transitional menopause impaired learning of a spatial recent memory task; surgical removal of residual ovarian hormones by OVX abolished this negative effect of transitional menopause. Furthermore, transitional menopause before OVX was better for memory than an abrupt loss of hormones via OVX only. Surgical ovarian hormone loss, regardless of menopause history, increased hippocampal acetylcholinesterase activity. Circulating gonadotropin and androstenedione levels were related to cognitive competence. Collectively, findings suggest that in the rat, initiation of transitional menopause before surgical ovary removal can benefit mnemonic function and could obviate some negative cognitive consequences of surgical menopause alone.}
+}
+
+% 19294553
+@Article{pmid19294553,
+   Author="Mackenzie, C.  and Green, J. ",
+   Title="{{C}ognitive-linguistic deficit and speech intelligibility in chronic progressive multiple sclerosis}",
+   Journal="Int J Lang Commun Disord",
+   Year="2009",
+   Volume="44",
+   Number="4",
+   Pages="401--420",
+   Abstract={Multiple sclerosis is a disabling neurological disease with varied symptoms, including dysarthria and cognitive and linguistic impairments. Association between dysarthria and cognitive-linguistic deficit has not been explored in clinical multiple sclerosis studies.\\ In patients with chronic progressive multiple sclerosis, the study aimed to investigate the presence and nature of cognitive-linguistic deficit, the association between levels of cognitive-linguistic ability and speech intelligibility, and of both of these with functional disability and time since onset of multiple sclerosis symptoms.\\ The Arizona Battery for Communication Disorders of Dementia (ABCD) (Bayles and Tomoeda 1993 ), The Assessment of Intelligibility of Dysarthric Speech (AIDS) Sentence Intelligibility Task (Yorkston and Beukelman 1984 ), and the Modified Barthel Activities of Daily Living Index (MBADLI) (Shah 1998 ) were administered to 24 chronic progressive multiple sclerosis participants with dysarthria. A total of 24 non-neurologically impaired participants, matched for gender, age and education, formed a control group.\\ For multiple sclerosis participants, linear regression analysis showed a strong association between ABCD and AIDS (beta = 0.89, p = 0.005), no association between ABCD and either MBADLI or time since onset, a strong association between AIDS and MBADLI (beta = 0.60, p = 0.001), and a trend towards an association between AIDS and time since onset (beta = -0.29, p = 0.08). Correlations between the four included ABCD construct scores and between these and the total ABCD score were significant (r>0.60, p<0.01). For each of the 15 included ABCD measures and for the four construct scores and the overall ABCD score, multiple sclerosis and control group performances were significantly different (p<0.01) and effect sizes were large (d>0.80).\\ The results revealed a strong association between dysarthria, as measured by connected speech intelligibility testing, and cognitive-linguistic deficit, in people with chronic progressive-type multiple sclerosis. While some of the impairments that are associated with multiple sclerosis, including motor speech disorder, may influence performance on the ABCD, the data support the conclusion that marked cognitive-linguistic deficit is present in chronic progressive-type multiple sclerosis patients with dysarthria. Deterioration was global, rather than being indicative of a construct specific deficit, and encompassed language, both expression and comprehension. Episodic memory and linguistic expression were especially affected. Speech and language therapists who work with dysarthric patients with chronic progressive multiple sclerosis should monitor cognitive-linguistic impairment. An awareness of this might influence assessment, intervention and management, including the information and advice given to patients and their relatives.}
+}
+
+% 19101559
+@Article{pmid19101559,
+   Author="Acosta, J. I.  and Mayer, L.  and Talboom, J. S.  and Zay, C.  and Scheldrup, M.  and Castillo, J.  and Demers, L. M.  and Enders, C. K.  and Bimonte-Nelson, H. A. ",
+   Title="{{P}remarin improves memory, prevents scopolamine-induced amnesia and increases number of basal forebrain choline acetyltransferase positive cells in middle-aged surgically menopausal rats}",
+   Journal="Horm Behav",
+   Year="2009",
+   Volume="55",
+   Number="3",
+   Pages="454--464",
+   Month="Mar",
+   Abstract={Conjugated equine estrogen (CEE) is the most commonly prescribed estrogen therapy, and is the estrogen used in the Women's Health Initiative study. While in-vitro studies suggest that CEE is neuroprotective, no study has evaluated CEE's effects on a cognitive battery and brain immunohistochemistry in an animal model. The current experiment tested whether CEE impacted: I) spatial learning, reference memory, working memory and long-term retention, as well as ability to handle mnemonic delay and interference challenges; and, II) the cholinergic system, via pharmacological challenge during memory testing and ChAT-immunoreactive cell counts in the basal forebrain. Middle-aged ovariectomized (Ovx) rats received chronic cyclic injections of either Oil (vehicle), CEE-Low (10 microg), CEE-Medium (20 microg) or CEE-High (30 microg) treatment. Relative to the Oil group, all three CEE groups showed less overnight forgetting on the spatial reference memory task, and the CEE-High group had enhanced platform localization during the probe trial. All CEE groups exhibited enhanced learning on the spatial working memory task, and CEE dose-dependently protected against scopolamine-induced amnesia with every rat receiving the highest CEE dose maintaining zero errors after scopolamine challenge. CEE also increased number of ChAT-immunoreactive neurons in the vertical diagonal band of the basal forebrain. Neither the ability to remember after a delay nor interference, nor long-term retention, was influenced by the CEE regimen used in this study. These findings are similar to those reported previously for 17 beta-estradiol, and suggest that CEE can provide cognitive benefits on spatial learning, reference and working memory, possibly through cholinergic mechanisms.}
+}
+
+% 18625494
+@Article{pmid18625494,
+   Author="Rapcsak, S. Z.  and Beeson, P. M.  and Henry, M. L.  and Leyden, A.  and Kim, E.  and Rising, K.  and Andersen, S.  and Cho, H. ",
+   Title="{{P}honological dyslexia and dysgraphia: cognitive mechanisms and neural substrates}",
+   Journal="Cortex",
+   Year="2009",
+   Volume="45",
+   Number="5",
+   Pages="575--591",
+   Month="May",
+   Abstract={To examine the validity of different theoretical assumptions about the neuropsychological mechanisms and lesion correlates of phonological dyslexia and dysgraphia, we studied written and spoken language performance in a large cohort of patients with focal damage to perisylvian cortical regions implicated in phonological processing. Despite considerable variation in accuracy for both words and non-words, the majority of participants demonstrated the increased lexicality effects in reading and spelling that are considered the hallmark features of phonological dyslexia and dysgraphia. Increased lexicality effects were also documented in spoken language tasks such as oral repetition, and patients performed poorly on a battery of phonological tests that did not involve an orthographic component. Furthermore, a composite measure of general phonological ability was strongly predictive of both reading and spelling accuracy, and we obtained evidence that the continuum of severity that characterized the written language disorder of our patients was attributable to an underlying continuum of phonological impairment. Although patients demonstrated qualitatively similar deficits across measures of written and spoken language processing, there were quantitative differences in levels of performance reflecting task difficulty effects. Spelling was more severely affected than reading by the reduction in phonological capacity and this differential vulnerability accounted for occasional disparities between patterns of impairment on the two written language tasks. Our findings suggest that phonological dyslexia and dysgraphia in patients with perisylvian lesions are manifestations of a central or modality-independent phonological deficit rather than the result of damage to cognitive components dedicated to reading or spelling. Our results also provide empirical support for shared-components models of written language processing, according to which the same central cognitive systems support both reading and spelling. Lesion-deficit correlations indicated that phonological dyslexia and dysgraphia may be produced by damage to a variety of perisylvian cortical regions, consistent with distributed network models of phonological processing.}
+}
+
+% 2777484
+@Article{pmid2777484,
+   Author="Allender, J.  and Kaszniak, A. W. ",
+   Title="{{P}rocessing of emotional cues in patients with dementia of the {A}lzheimer's type}",
+   Journal="Int. J. Neurosci.",
+   Year="1989",
+   Volume="46",
+   Number="3-4",
+   Pages="147--155",
+   Month="Jun",
+   Abstract={Previous research on patients with dementia of the Alzheimer's type (DAT) has focused primarily on intellectual and memory deficits. The present study investigated another aspect of cognitive functioning, that of processing of emotional cues. Subjects included 30 DAT patients and 13 normal controls who were asked to identify emotional expressions in pictured faces and in tone of tape recorded sentences. A battery of neuropsychological tests was also administered. DAT patients were impaired on all tasks as compared to controls of comparable age, education and previous occupation. Multiple regression analyses demonstrated that the two emotional tasks were the most highly correlated of all the tasks for the patient sample. This relationship is discussed as validating the emotional tasks as measures of emotional cue processing rather than reflecting deficits based only on other task dimensions.}
+}
+
+% 24064496
+@Article{pmid24064496,
+   Author="Ouyang, S.  and Hsuchou, H.  and Kastin, A. J.  and Wang, Y.  and Yu, C.  and Pan, W. ",
+   Title="{{D}iet-induced obesity suppresses expression of many proteins at the blood-brain barrier}",
+   Journal="J. Cereb. Blood Flow Metab.",
+   Year="2014",
+   Volume="34",
+   Number="1",
+   Pages="43--51",
+   Month="Jan",
+   Abstract={The blood-brain barrier (BBB) is a regulatory interface between the central nervous system and the rest of the body. However, BBB changes in obesity and metabolic syndrome have not been fully elucidated. We hypothesized that obesity reduces energy metabolism in the cerebral microvessels composing the BBB, reflected by downregulation of protein expression and function. We performed comparative proteomic analyses in enriched microvessels from the cerebral cortex of mice 2 months after ingestion of a high-fat diet or regular rodent chow. In mice with diet-induced obesity (DIO), there was downregulation of 47 proteins in the cerebral microvessels, including cytoskeletal proteins, chaperons, enzymes, transport-related proteins, and regulators for transcriptional and translational activities. Only two proteins, involved in messenger RNA (mRNA) transport and processing, were upregulated. The changes of these proteins were further validated by quantitative polymerase chain reaction (qPCR), western blotting, and immunofluorescent staining of freshly isolated microvessels, in samples obtained from different batches of mice. The predominant downregulation suggests that DIO suppresses metabolic activity of BBB microvessels. The finding of a hypometabolic state of the BBB in mice at the chronic stage of DIO is unexpected and unprecedented; it may provide novel mechanistic insight into how obesity influences CNS function via regulatory changes of the BBB.}
+}
+
+% 20537047
+@Article{pmid20537047,
+   Author="Edgin, J. O.  and Pennington, B. F.  and Mervis, C. B. ",
+   Title="{{N}europsychological components of intellectual disability: the contributions of immediate, working, and associative memory}",
+   Journal="J Intellect Disabil Res",
+   Year="2010",
+   Volume="54",
+   Number="5",
+   Pages="406--417",
+   Month="May",
+   Abstract={Efficient memory functions are important to the development of cognitive and functional skills, allowing individuals to manipulate and store information. Theories of memory have suggested the presence of domain-specific (i.e. verbal and spatial) and general processing mechanisms across memory domains, including memory functions dependent on the prefrontal cortex (PFC) and the hippocampus. Comparison of individuals who have syndromes associated with striking contrasts in skills on verbal and spatial tasks [e.g. Down syndrome (DS) and Williams syndrome (WS)] allows us to test whether or not these dissociations may extend across cognitive domains, including PFC and hippocampal memory processes.\\ The profile of memory function, including immediate memory (IM), working memory (WM) and associative memory (AM), was examined in a sample of adolescents and young adults with DS (n = 27) or WS (n = 28), from which closely CA- and IQ-matched samples of individuals with DS (n = 18) or WS (n = 18) were generated. Relations between memory functions and IQ and adaptive behaviour were also assessed in the larger sample.\\ Comparisons of the two matched groups indicated significant differences in verbal IM (DS < WS), spatial IM (DS > WS) and spatial and verbal AM (DS > WS), but no between-syndrome differences in WM. For individuals with DS, verbal IM was the most related to variation in IQ, and spatial AM related to adaptive behaviour. The pattern was clearly different for individuals with WS. Verbal and spatial AM were the most related to variation in IQ, and verbal WM related to adaptive behaviour.\\ These results suggest that individuals with these two syndromes have very different patterns of relative strengths and weaknesses on memory measures, which do not fully mirror verbal and spatial dissociations. Furthermore, different patterns of memory dysfunction relate to outcome in individuals with each syndrome.}
+}
+
+% 22127838
+@Article{pmid22127838,
+   Author="Raitano Lee, N.  and Pennington, B. F.  and Keenan, J. M. ",
+   Title="{{V}erbal short-term memory deficits in {D}own syndrome: phonological, semantic, or both?}",
+   Journal="J Neurodev Disord",
+   Year="2010",
+   Volume="2",
+   Number="1",
+   Pages="9--25",
+   Month="Mar",
+   Abstract={The current study examined the phonological and semantic contributions to the verbal short-term memory (VSTM) deficit in Down syndrome (DS) by experimentally manipulating the phonological and semantic demands of VSTM tasks. The performance of 18 individuals with DS (ages 11-25) and 18 typically developing children (ages 3-10) matched pairwise on receptive vocabulary and gender was compared on four VSTM tasks, two tapping phonological VSTM (phonological similarity, nonword discrimination) and two tapping semantic VSTM (semantic category, semantic proactive interference). Group by condition interactions were found on the two phonological VSTM tasks (suggesting less sensitivity to the phonological qualities of words in DS), but not on the two semantic VSTM tasks. These findings suggest that a phonological weakness contributes to the VSTM deficit in DS. These results are discussed in relation to the DS neuropsychological and neuroanatomical phenotype.}
+}
+
+% 19346773
+@Article{pmid19346773,
+   Author="Ravussin, E.  and Redman, L. M. ",
+   Title="{{A}diposity and comorbidities: favorable impact of caloric restriction}",
+   Journal="Nestle Nutr Workshop Ser Pediatr Program",
+   Year="2009",
+   Volume="63",
+   Pages="135--146",
+   Abstract={The focus here is on research involving long-term calorie restriction (CR) to prevent or delay the incidence of the metabolic syndrome with age. The current societal environment is marked by overabundant accessibility of food coupled with a strong trend to reduced physical activity, both leading to the development of a constellation of disorders including central obesity, insulin resistance, dyslipidemia and hypertension (metabolic syndrome). Prolonged CR has been shown to extend median and maximal lifespan in a variety of lower species (yeast, worms, fish, rats, and mice). Mechanisms of this lifespan extension by CR are not fully elucidated, but possibly involve alterations in energy metabolism, oxidative damage, insulin sensitivity, and functional changes in neuroendocrine systems. Ongoing studies of CR in humans now makes it possible to identify changes in 'biomarkers of aging' to unravel some of the mechanisms of its anti-aging phenomenon. Analyses from controlled human trials involving long-term CR will allow investigators to link observed alterations from body composition down to changes in molecular pathways and gene expression, with their possible effects on the metabolic syndrome and aging.}
+}
+
+% 17171455
+@Article{pmid17171455,
+   Author="Yerys, B. E.  and Hepburn, S. L.  and Pennington, B. F.  and Rogers, S. J. ",
+   Title="{{E}xecutive function in preschoolers with autism: evidence consistent with a secondary deficit}",
+   Journal="J Autism Dev Disord",
+   Year="2007",
+   Volume="37",
+   Number="6",
+   Pages="1068--1079",
+   Month="Jul",
+   Abstract={Recent research on executive function (EF) deficits in autism has led investigators to conclude that EF deficits are secondary to the disorder. The current study has two major goals: (1) Examine whether specific EF deficits are present in the youngest autism group to date (mean=2.9 years), and (2) examine whether such deficits are secondary to autism, or act as an early non-specific cognitive risk factor for autism by comparing EF abilities of this autism group to a CA-matched typically developing group. Results from Experiment 1 suggest no specific EF deficits in autism relative to MA-matched controls, while results from Experiment 2 are consistent with the hypothesis that EF deficits may emerge as a secondary deficit in autism. Alternative hypotheses are also considered.}
+}
+
+% 12625437
+@Article{pmid12625437,
+   Author="Pennington, B. F.  and Moon, J.  and Edgin, J.  and Stedron, J.  and Nadel, L. ",
+   Title="{{T}he neuropsychology of {D}own syndrome: evidence for hippocampal dysfunction}",
+   Journal="Child Dev",
+   Year="2003",
+   Volume="74",
+   Number="1",
+   Pages="75--93",
+   Abstract={This study tested prefrontal and hippocampal functions in a sample of 28 school-aged (M = 14.7 years, SD = 2.7) individuals with Down syndrome (DS) compared with 28 (M = 4.9 years, SD = .75) typically developing children individually matched on mental age (MA). Both neuropsychological domains were tested with multiple behavioral measures. Benchmark measures of verbal and spatial function demonstrated that this DS sample was similar to others in the literature. The main finding was a significant Group x Domain interaction effect indicating differential hippocampal dysfunction in the group with DS. However, there was a moderate partial correlation (r = .54, controlling for chronological age) between hippocampal and prefrontal composite scores in the DS group, and both composites contributed unique variance to the prediction of MA and adaptive behavior in that group. In sum, these results indicate a particular weakness in hippocampal functions in DS in the context of overall cognitive dysfunction. It is interesting that these results are similar to what has been found in a mouse model of DS. Such a model will make it easier to understand the neurobiological mechanisms that lead to the development of hippocampal dysfunction in DS.}
+}
+
+% 24471822
+@Article{pmid24471822,
+   Author="Breslin, J.  and Spano, G.  and Bootzin, R.  and Anand, P.  and Nadel, L.  and Edgin, J. ",
+   Title="{{O}bstructive sleep apnea syndrome and cognition in {D}own syndrome}",
+   Journal="Dev Med Child Neurol",
+   Year="2014",
+   Pages=" ",
+   Month="Jan",
+   Abstract={Good-quality sleep is essential for normal learning and memory. Sleep fragmentation and disrupted sleep architecture are commonly observed throughout the lifespan of individuals with Down syndrome, a condition marked by cognitive deficits emerging within the first few months of life. While obstructive sleep apnea syndrome (OSAS) is known to contribute to the loss of sleep quality in Down syndrome, its relation to cognitive and behavioral impairment remains poorly understood.\\ Using ambulatory polysomnography, we measured sleep in an unreferred community-based sample of 38 individuals with Down syndrome (15 males, 23 females; mean age 9y 7mo (SD 1y 9mo), range 7-12y). Cognitive outcomes were assessed with the Arizona Cognitive Test Battery, a set of psychometric measures designed and validated for this population.\\ Among children with Down syndrome, mean Verbal IQ score (p=0.006) was 9 points lower in those with comorbid OSAS (apnea-hypopnea index >1.5) than in those without OSAS, and performance on measures of cognitive flexibility was poorer (p=0.03). In addition, those with OSAS showed increased light-stage sleep (p=0.009) at the expense of slow-wave sleep (p=0.04).\\ These findings demonstrate a relation between OSAS and cognitive outcomes in Down syndrome. More work is required to fully understand the mechanisms underlying the links between poor sleep and impaired cognitive function. Overall, these findings highlight the importance of adequate sleep in typically and atypically developing populations.}
+}
+
+% 24021392
+@Article{pmid24021392,
+   Author="Somogyi, E.  and Kiraly, I.  and Gergely, G.  and Nadel, J. ",
+   Title="{{U}nderstanding goals and intentions in low-functioning autism}",
+   Journal="Res Dev Disabil",
+   Year="2013",
+   Volume="34",
+   Number="11",
+   Pages="3822--3832",
+   Month="Nov",
+   Abstract={We investigated ability to understand goals and attribute intentions in the context of two imitation studies in low-functioning, nonverbal children with autism (L-F CWA), a population that is rarely targeted by research in the domain. Down syndrome children (DSC) and typically developing children (TDC) were recruited to form matched comparison groups. In the two sets of simple action demonstrations only contextual indicators of the model's intentions were manipulated. In the Head touch experiment the model activated a button on a toy by pushing it with the forehead, whereas in the Hidden box experiment the model used a ball with a magnet to lift a box out of its container. Both actions were unusual and non-affordant with regards to the objects involved, none of the children in the baseline condition produced them. L-F CWA imitated the experimenter exactly, regardless of the model's intention. TDC showed appreciation of the model's intention by imitating her actions selectively. DSC reproduced only the intentional action as often as they imitated the experimenter exactly. It is concluded that L-F CWA attributed goals to the observed model, but did not show an appreciation of the model's intentions even in these simplified, nonverbal contexts.}
+}
+
+% 22541291
+@Article{pmid22541291,
+   Author="Edgin, J. O.  and Mason, G. M.  and Spano, G.  and Fernandez, A.  and Nadel, L. ",
+   Title="{{H}uman and mouse model cognitive phenotypes in {D}own syndrome: implications for assessment}",
+   Journal="Prog. Brain Res.",
+   Year="2012",
+   Volume="197",
+   Pages="123--151",
+   Abstract={The study of cognitive function in Down syndrome (DS) has advanced rapidly in the past decade. Mouse models have generated data regarding the neurological basis for the specific cognitive profile of DS (i.e., deficits in aspects of hippocampal, prefrontal, and cerebellar function) and have uncovered pharmacological treatments with the potential to affect this phenotype. Given this progress, the field is at a juncture in which we require assessments that may effectively translate the findings acquired in mouse models to humans with DS. In this chapter, we describe the cognitive profile of humans with DS and associated mouse models, discussing the ways in which we may merge these findings so as to more fully understand cognitive strengths and weaknesses in this population. New directions for approaches to cognitive assessment in mice and humans are discussed.}
+}
+
+% 21726315
+@Article{pmid21726315,
+   Author="Breslin, J. H.  and Edgin, J. O.  and Bootzin, R. R.  and Goodwin, J. L.  and Nadel, L. ",
+   Title="{{P}arental report of sleep problems in {D}own syndrome}",
+   Journal="J Intellect Disabil Res",
+   Year="2011",
+   Volume="55",
+   Number="11",
+   Pages="1086--1091",
+   Month="Nov",
+   Abstract={Children with Down syndrome (DS) suffer from sleep problems, including sleep maintenance problems, as well as snoring, and other symptoms of disordered breathing. To examine sleep in DS, we gave parents a questionnaire assessing their child's sleep.\\ The parents of 35 children with DS (mean age = 12.65 years, range = 7-18 years) completed the 33-item Children's Sleep Habits Questionnaire.\\ Eighty-five per cent of our sample had sleep disturbance scores in the clinical range (mean = 48.63, SD = 7.15, range = 34-64). Our sample also had significantly elevated scores on the Bedtime Resistance, Sleep Anxiety, Night Wakings, Parasomnias, Sleep Disordered Breathing and Daytime Sleepiness subscales.\\ Children with DS are at risk for developing symptoms of sleep disordered breathing, and may have additional sleep problems that are unrelated to sleep disordered breathing.}
+}
+
+% 21320223
+@Article{pmid21320223,
+   Author="Edgin, J. O.  and Kumar, A.  and Spano, G.  and Nadel, L. ",
+   Title="{{N}europsychological effects of second language exposure in {D}own syndrome}",
+   Journal="J Intellect Disabil Res",
+   Year="2011",
+   Volume="55",
+   Number="3",
+   Pages="351--356",
+   Month="Mar",
+   Abstract={While it has been common practice to discourage second language learning in neurodevelopmental disorders involving language impairment, little is known about the effects of second language exposure (SLE) on broader cognitive function in these children. Past studies have not found differences on language tasks in children with Down syndrome (DS) and SLE. We expand on this work to determine the effects on the broader cognitive profile, including tests tapping deficits on neuropsychological measures of prefrontal and hippocampal function.\\ This study examined the specific cognitive effects of SLE in children with DS (aged 7-18 years). Children with SLE (n = 13: SLE predominantly Spanish) and children from monolingual homes (n = 28) were assessed on a standardised battery of neuropsychological tests developed for DS, the Arizona Cognitive Test Battery. The current exposure level to a language other than English in the SLE group was greater than 4 h per day on average.\\ No group differences were observed for any outcome, and level of exposure was also not linearly related to neuropsychological outcomes, several of which have been shown to be impaired in past work.\\ There were no measurable effects of SLE on neuropsychological function in this sample of children with DS. Potential clinical implications of these findings are discussed.}
+}
+
+% 21274406
+@Article{pmid21274406,
+   Author="Edgin, J. O.  and Mason, G. M.  and Allman, M. J.  and Capone, G. T.  and Deleon, I.  and Maslen, C.  and Reeves, R. H.  and Sherman, S. L.  and Nadel, L. ",
+   Title="{{D}evelopment and validation of the {A}rizona {C}ognitive {T}est {B}attery for {D}own syndrome}",
+   Journal="J Neurodev Disord",
+   Year="2010",
+   Volume="2",
+   Number="3",
+   Pages="149--164",
+   Month="Sep",
+   Abstract={Neurocognitive assessment in individuals with intellectual disabilities requires a well-validated test battery. To meet this need, the Arizona Cognitive Test Battery (ACTB) has been developed specifically to assess the cognitive phenotype in Down syndrome (DS). The ACTB includes neuropsychological assessments chosen to 1) assess a range of skills, 2) be non-verbal so as to not confound the neuropsychological assessment with language demands, 3) have distributional properties appropriate for research studies to identify genetic modifiers of variation, 4) show sensitivity to within and between sample differences, 5) have specific correlates with brain function, and 6) be applicable to a wide age range and across contexts. The ACTB includes tests of general cognitive ability and prefrontal, hippocampal and cerebellar function. These tasks were drawn from the Cambridge Neuropsychological Testing Automated Battery (CANTAB) and other established paradigms. Alongside the cognitive testing battery we administered benchmark and parent-report assessments of cognition and behavior. Individuals with DS (n=74, ages 7-38 years) and mental age (MA) matched controls (n=50, ages 3-8 years) were tested across 3 sites. A subsample of these groups were used for between-group comparisons, including 55 individuals with DS and 36 mental age matched controls. The ACTB allows for low floor performance levels and participant loss. Floor effects were greater in younger children. Individuals with DS were impaired on a number ACTB tests in comparison to a MA-matched sample, with some areas of spared ability, particularly on tests requiring extensive motor coordination. Battery measures correlated with parent report of behavior and development. The ACTB provided consistent results across contexts, including home vs. lab visits, cross-site, and among individuals with a wide range of socio-economic backgrounds and differences in ethnicity. The ACTB will be useful in a range of outcome studies, including clinical trials and the identification of important genetic components of cognitive disability.}
+}
+
+% 19787699
+@Article{pmid19787699,
+   Author="Skotko, B. G.  and Kishnani, P. S.  and Capone, G. T.  and Brasington, C. K.  and Bruni, M.  and Chicoine, B.  and Cifra-Bean, L.  and Crocker, A. C.  and Desai, S.  and Florez, J. C.  and Greenfield, M.  and Hassold, T.  and Kadmon, P.  and Korenberg, J. R.  and Lott, I. T.  and Medlen, J. G.  and McGuire, D. E.  and Mobley, W.  and Nadel, L.  and Patterson, B.  and Patterson, D.  and Pueschel, S. M.  and Roizen, N. J.  and Sherman, S.  and Shott, S. R.  and Snyder-Croft, R. L.  and Summar, K. L.  and Walker-Hirsch, L.  and Winders, P. C. ",
+   Title="{{P}renatal diagnosis of {D}own syndrome: how best to deliver the news}",
+   Journal="Am. J. Med. Genet. A",
+   Year="2009",
+   Volume="149A",
+   Number="11",
+   Pages="2361--2367",
+   Month="Nov",
+   Abstract={We sought to provide evidence-based recommendations to physicians on how to best deliver a prenatal diagnosis of DS to expectant parents. Our study design consisted of searching Medline and PsychInfo from 1960 to 2008, as well as Web sites from academic organizations and other nonprofit or private organizations, using the terms "Down syndrome," "Trisomy 21," "mongolism," "prenatal diagnosis," "postnatal care," and "delivery of health care." Our results showed that a health care professional knowledgeable about DS with specific training in the delivery of sensitive diagnoses should be part of the first conversation. A prenatal diagnosis of DS should be presented in person or at a pre-established time by phone. Physicians should provide accurate information about medical conditions associated with DS and connect parents to local DS support groups and other resources. We conclude that physicians can deliver prenatal diagnoses of DS in a sensitive manner that can be appreciated by expectant parents.}
+}
+
+% 19786436
+@Article{pmid19786436,
+   Author="Skotko, B. G.  and Capone, G. T.  and Kishnani, P. S.  and Brasington, C. K.  and Bruni, M.  and Chicoine, B.  and Cifra-Bean, L.  and Desai, S.  and Crocker, A. C.  and Florez, J. C.  and Greenfield, M.  and Hassold, T.  and Kadmon, P.  and Korenberg, J. R.  and Lott, I. T.  and Medlen, J. G.  and McGuire, D. E.  and Mobley, W.  and Nadel, L.  and Patterson, B.  and Patterson, D.  and Pueschel, S. M.  and Roizen, N. J.  and Sherman, S.  and Shott, S. R.  and Snyder-Croft, R. L.  and Summar, K. L.  and Carell, M.  and Walker-Hirsch, L.  and Winders, P. C. ",
+   Title="{{P}ostnatal diagnosis of {D}own syndrome: synthesis of the evidence on how best to deliver the news}",
+   Journal="Pediatrics",
+   Year="2009",
+   Volume="124",
+   Number="4",
+   Pages="e751--758",
+   Month="Oct",
+   Abstract={Many parents of children with Down syndrome (DS) have expressed dissatisfaction with how they learned about their child's diagnosis. DS remains the most common chromosomal condition, occurring in 1 of every 733 births, with the majority of children still diagnosed postnatally.\\ Our goal was to review systematically all available evidence regarding how physicians should approach the conversation in which they explain DS for the first time to new parents.\\ We searched online databases from 1960 to 2008, including Medline and PsychInfo, as well as Web sites maintained by academic organizations (eg, American Academy of Pediatrics) and other nonprofit or private organizations (eg, the National Down Syndrome Society), by using the terms "Down syndrome," "trisomy 21," "mongolism," "prenatal diagnosis," "postnatal care," and "delivery of health care." Articles were selected that answered > or =1 research question, established a priori: (1) Who is the best person to communicate the news? (2) When is the best time to share the news? (3) Where is the best place or setting to deliver the news? (4) What information should be delivered? and (5) How should the news be communicated? All studies were evaluated for quality according to the method outlined by the US Preventative Services Task Force. Final recommendations were based on the strength of evidence.\\ Parents prefer to receive the diagnosis together in a joint meeting with their obstetrician and pediatrician. The conversation should take place in a private setting as soon as a physician suspects a diagnosis of DS. Accurate and up-to-date information should be conveyed, including information about local support groups and resources.\\ By implementing a few cost-neutral measures, physicians can deliver a postnatal diagnosis of DS in a manner that will be deemed by new parents as sensitive and appropriate.}
+}
+
+% 17910079
+@Article{pmid17910079,
+   Author="Fidler, D. J.  and Nadel, L. ",
+   Title="{{E}ducation and children with {D}own syndrome: neuroscience, development, and intervention}",
+   Journal="Ment Retard Dev Disabil Res Rev",
+   Year="2007",
+   Volume="13",
+   Number="3",
+   Pages="262--271",
+   Abstract={Of the recent advances in education-related research in Down syndrome, the characterization of the Down syndrome behavioral phenotype has become a potentially critical tool for shaping education and intervention in this population. This article briefly reviews the literature on brain-behavior connections in Down syndrome and identifies aspects of the Down syndrome behavioral phenotype that are potentially relevant to educators. Potential challenges to etiologically informed educational planning are discussed.}
+}
+
+% 12931789
+@Article{pmid12931789,
+   Author="Nadel, L. ",
+   Title="{{D}own's syndrome: a genetic disorder in biobehavioral perspective}",
+   Journal="Genes Brain Behav.",
+   Year="2003",
+   Volume="2",
+   Number="3",
+   Pages="156--166",
+   Month="Jun",
+   Abstract={Down's syndrome is a genetic disorder that can lead to mental retardation of varying degrees. How this chromosomal abnormality causes mental retardation remains an open question. This paper reviews what is currently known about the neural and cognitive features of Down's syndrome, noting the growing evidence of disproportionate impairment of specific systems such as the hippocampal formation, the prefrontal cortex and the cerebellum. The development of animal models of these defects offers a way of ultimately connecting the genetic disorder to its cognitive consequences.}
+}
+
+% 12625437
+@Article{pmid12625437,
+   Author="Pennington, B. F.  and Moon, J.  and Edgin, J.  and Stedron, J.  and Nadel, L. ",
+   Title="{{T}he neuropsychology of {D}own syndrome: evidence for hippocampal dysfunction}",
+   Journal="Child Dev",
+   Year="2003",
+   Volume="74",
+   Number="1",
+   Pages="75--93",
+   Abstract={This study tested prefrontal and hippocampal functions in a sample of 28 school-aged (M = 14.7 years, SD = 2.7) individuals with Down syndrome (DS) compared with 28 (M = 4.9 years, SD = .75) typically developing children individually matched on mental age (MA). Both neuropsychological domains were tested with multiple behavioral measures. Benchmark measures of verbal and spatial function demonstrated that this DS sample was similar to others in the literature. The main finding was a significant Group x Domain interaction effect indicating differential hippocampal dysfunction in the group with DS. However, there was a moderate partial correlation (r = .54, controlling for chronological age) between hippocampal and prefrontal composite scores in the DS group, and both composites contributed unique variance to the prediction of MA and adaptive behavior in that group. In sum, these results indicate a particular weakness in hippocampal functions in DS in the context of overall cognitive dysfunction. It is interesting that these results are similar to what has been found in a mouse model of DS. Such a model will make it easier to understand the neurobiological mechanisms that lead to the development of hippocampal dysfunction in DS.}
+}
+
+% 7602689
+@Article{pmid7602689,
+   Author="Nadel, A. S.  and Bromley, B.  and Frigoletto, F. D.  and Benacerraf, B. R. ",
+   Title="{{C}an the presumed risk of autosomal trisomy be decreased in fetuses of older women following a normal sonogram?}",
+   Journal="J Ultrasound Med",
+   Year="1995",
+   Volume="14",
+   Number="4",
+   Pages="297--302",
+   Month="Apr",
+   Abstract={Previous studies showed that a sonographic scoring system can be used to identify women under age 35 who are at an increased risk for a fetal autosomal trisomy. We propose to use the same scoring system to select women over age 35 who are at a decreased risk of a fetal autosomal trisomy because the ultrasonogram is normal. We reviewed the sonographic scores of 97 trisomic and 694 normal control fetuses from two previously published consecutive series designed to identify women at increased risk for an affected fetus. Using the same scoring index in this study, we calculated the sensitivity and specificity of a score = 0 zero for identifying fetuses with autosomal trisomy. We then applied Bayes' theorem to determine the probability of an autosomal trisomy at various maternal ages, given a sonographic score of 0. Of the 97 fetuses with an autosomal trisomy, 83 had a score of > or = 1, for a sensitivity of 86% (95% CI 77-92%). Of the 694 control fetuses with normal karyotype, 606 had a score of 0, for a specificity of 87% (95% CI 83-89%). A 42 year old woman's probability of an autosomal trisomy if the sonographic score is 0 becomes equivalent to the age-specific probability for a 35 year old woman. Using the lower limit of the CIs for sensitivity and specificity, we calculated that the probability of having a fetus with an autosomal trisomy falls from 18.8 in 1000 to 5.3 in 1000 for a 40 year old woman with a sonographic score of 0.(ABSTRACT TRUNCATED AT 250 WORDS)}
+}
+
+% 7850586
+@Article{pmid7850586,
+   Author="Benacerraf, B. R.  and Miller, W. A.  and Nadel, A.  and Pauker, S.  and Bromley, B. ",
+   Title="{{D}oes gender have an impact on the sonographic detection of second-trimester fetuses with {D}own's syndrome?}",
+   Journal="Ultrasound Obstet Gynecol",
+   Year="1995",
+   Volume="5",
+   Number="1",
+   Pages="30--33",
+   Month="Jan",
+   Abstract={The biometric and structural sonographic features of 95 second-trimester fetuses with Down's syndrome were evaluated to determine whether affected male fetuses differed from affected females. There were 54 male and 41 female fetuses with Down's syndrome studied. A shortened femur was identified in 28/54 (52%) males compared with 19/41 (46%) affected females (NS). A thickened nuchal fold was identified in 19/54 (35%) of males vs. 20/41 (49%) of females. Renal pyelectasis was seen in 7/54 (13%) males and 8/41 (19%) females. A heart defect was seen in 8/54 (15%) males and 7/41 (17%) females. Ventriculomegaly was identified in 6/54 (11%) males and 3/41 (7%) females with Down's syndrome. There were no statistically significant differences in the incidence of the sonographic findings when male and female Down's fetuses were compared. Our data show that the criteria for evaluation of sonographic markers for the identification of second-trimester fetuses with Down's syndrome should be the same in male and female fetuses.}
+}
+
+% 8090881
+@Article{pmid8090881,
+   Author="Benacerraf, B. R.  and Nadel, A.  and Bromley, B. ",
+   Title="{{I}dentification of second-trimester fetuses with autosomal trisomy by use of a sonographic scoring index}",
+   Journal="Radiology",
+   Year="1994",
+   Volume="193",
+   Number="1",
+   Pages="135--140",
+   Month="Oct",
+   Abstract={To evaluate the ability to identify fetuses with autosomal trisomy by use of sonographic features in the form of a scoring system.\\ The presence of nuchal thickening, long-bone shortness, pyelectasis, hyperechoic bowel, choroid plexus cyst, and major anatomic defects was prospectively evaluated in 60 trisomic fetuses aged 14-21 weeks and 106 second-trimester control fetuses.\\ Forty-five fetuses had Down syndrome, 13 had trisomy 18, and two had trisomy 13. Based on previous criteria for short femur and humerus, pyelectasis, nuchal thickening, echogenic bowel, and choroid plexus cysts, a scoring system for detection of aneuploidy was developed. It enabled identification of 33 fetuses with Down syndrome (73%), 11 (85%) with trisomy 18, two (100%) with trisomy 13, and four control fetuses with abnormality (4%). The positive predictive value in patients in 1/250, 1/500, and 1/1,000 risk groups was 7.2%, 3.7%, and 1.9% for identification of a fetus with Down syndrome.\\ These sonographic markers seem to be sensitive for the detection of chromosomal abnormalities.}
+}
+
