@@ -59,7 +59,7 @@ To evaluate spatial navigation and general spatial memory, mice were tested on a
 
 During the probe trial, Ts65Dn mice spent significantly less time in the quadrant where the reward was previously located (F(1,18)=91.25, p<sub>(adj)</sub>=1.8e<sup>-6</sup>). Ts65Dn mice also on average were a further distance away from the previously rewarded spatial location (F(1,18)=41.7, p<sub>(adj)</sub>=4.47e<sup>-6</sup>).
 
-![Figure 1](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure2_Cheeseboard.png??raw=TRUE)
+![Figure 1](https://raw.githubusercontent.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Plots/Figure2_Cheeseboard.png??raw=TRUE)
 
 **<i>Figure 1: a. Raw latency (s) to obtain reward. b. Percent latency to obtain reward each day scaled by latency on Day 1. c. probe trial performance.</i>**
 
@@ -71,7 +71,7 @@ To evaluate parietal lobe dependent spatial processing, mice were tested for det
 
 To test general spatial memory, mice were tested for detection of a change in the spatial location of a visual object (**Figure 2**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=36.39, p<sub>(adj)</sub>=1.05e<sup>-5</sup>) as well as in the red box (F(1,18)=62.0, p<sub>(adj)</sub>=3.07e<sup>-7</sup>), suggesting spatial novelty detection deficits in Ts65Dn mice.
 
-![Figure 2](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure3_Spatiotemporal.png??raw=TRUE)
+![Figure 2](https://raw.githubusercontent.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Plots/Figure3_Spatiotemporal.png??raw=TRUE)
 
 **<i>Figure 2: a. Metric/Coordinate processing performance in the presence and absence of extra-maze, distal cues. b. Topological/Categorical processing performance. c. Temporal Ordering and d. Novelty Detection performance. e. Spatial Location recognition.</i>**
 
@@ -83,7 +83,7 @@ To test CA1 function in Ts65Dn mice, mice were tested for a simple temporal orde
 
 To test perirhinal function in Ts65Dn mice, a configural feature ambiguity test was given (**Figure 3**). Ts65Dn mice did not show significant impairments relative to 2N control mice. There was a main effect for groups for the clear box (F(1,18)=34.13, p<sub>(adj)</sub>=1.56e<sup>-5</sup>) but not for the red box (F(1,18)=.021, p<sub>(adj)</sub>=.984). These data suggest that the presence of spatial cues, but not configural feature ambiguity resulted in deficits in the clear box. Ts65Dn mice were not impaired in a configural ambiguity control task. There was a main effect for groups for the clear box (F(1,18)=12.27, p<sub>(adj)</sub>=.00254) but not for the red box (F(1,18)=.012, p<sub>(adj)</sub>=.916). These data suggest that the presence of spatial cues, but not configural feature novelty detection ordering resulted in deficits in the clear box.
 
-![Figure 3](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure4_SensoryPerceptual.png??raw=TRUE)
+![Figure 3](https://raw.githubusercontent.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Plots/Figure4_SensoryPerceptual.png??raw=TRUE)
 
 **<i>Figure 3: a. Configural feature ambiguity test in the presence and absence of extra-maze, distal cues. b. Novel Configural ambiguity control test in the presence and absence of extra-maze, distal cues. c. Visual object recognition task at 1 hour delay the presence and absence of extra-maze, distal cues. d. Visual object recognition task at 24 hour delay the presence and absence of extra-maze, distal cues.</i>**
 
@@ -97,7 +97,7 @@ To evaluate inhibitory control and the ability to learn a turn response (**Figur
 
 To evaluate rule reversal learning (behavioral inflexibility) in Ts65Dn mice, the reversal of a turn response was evaluated (**Figure 4**). Ts65Dn mice took significantly longer to learn the rule than 2N control mice. There was a main effect for groups (F(1,76)=4.952, p<sub>(adj)</sub>=.029), a main effect for block of trials (F(1,76)=24.62, p<sub>(adj)</sub>=4e<sup>-6</sup>). There was also a trend toward there being an interaction among group and block (F(1,76)=3.21, p<sub>(adj)</sub>=.077). This nonsignificant interaction was the result of the Ts65Dn mice taking longer to learn to reverse the rule. In fact, the Ts65Dn mice were only impaired relative to the 2N control mice for the first block of 20 trials. For the remaining blocks of trials there were no differences in performance for Ts65Dn and 2N control mice. There was also a main effect for groups for the trial at which the mice changed preference from old rule to new rule (changepoint; F(1,18)=21.43, p<sub>(adj)</sub>=.000208)). For the first 20 trials of reversal learning, Ts65Dn mice showed a greater number of perseverative errors (F(1,18)=11.98, p<sub>(adj)</sub>=.00278). For trials 21-40, there was no difference between Ts65Dn mice and 2N control mice for regressive errors (F(1,18)=.287, p<sub>(adj)</sub>=.599).
 
-![Figure 4](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure5_ExecutiveFunction.png??raw=TRUE)
+![Figure 4](https://raw.githubusercontent.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Plots/Figure5_ExecutiveFunction.png??raw=TRUE)
 
 **<i>Figure 4: a. Response rule reversal raw data converted to cumulative response. b. Reversal Learning. c. Changepoint, or trial at which each mouse learned to reverse the rule. d. Number of perseverative errors in trial 1-20 trials. e. Number of Regressive erros in trials 20-40. f. Spontaneous/Delayed Alternation performance.</i>**
 
@@ -107,7 +107,7 @@ For the capellini task of manual dexterity (**Figure 5**), Ts65Dn mice showed si
 
 During a parallel rung walking task (**Figure 5**), Ts65Dn mice showed significant impairments relative to 2N control mice. There was a main effect for the number of foot slips in a 1 minute session (F(1,18)=27,32, p<sub>(adj)</sub>=5.7e<sup>-5</sup>).  When adjusted for number of steps, Ts65Dn mice still showed a greater number of foot slip errors (F(1,18)=11.70, p<sub>(adj)</sub>=.00305).
 
-![Figure 5](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure6_Motor.png??raw=TRUE)
+![Figure 5](https://raw.githubusercontent.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Plots/Figure6_Motor.png??raw=TRUE)
 
 **<i>Figure 5: a. Latency to consume capellini. b. Total number of atypical behaviors. Top. Number of times mouse paws came together. c. Number of times mouse lost contact with capellini with one paw. d. Number of times mouse pulled capellini with mouth rather than paw. e. Raw number of foot slips in a 1 minute period of free exploration. f. Number of foot slips scaled by the total number of steps.</i>**
 
@@ -117,7 +117,7 @@ Ts65Dn mice showed significant impairments relative to 2N control mice for measu
 
 Ts65Dn mice showed significant impairments relative to 2N control mice for neophobia (**Figure 27**). Ts65Dn mice took longer to eat a novel food in a familiar environment(F(1,18)=19.59, p<sub>(adj)</sub>=.000326), took longer to eat a familiar food in a novel environment(F(1,18)=40.87, p<sub>(adj)</sub>=5.09e<sup>-6</sup>), and took longer to eat a novel food in a novel environment(F(1,18)=83.74, p<sub>(adj)</sub>=3.44e<sup>-8</sup>).
 
-![Figure 6](https://github.com/mrhunsaker/Ts65DnPilots/blob/master/Manuscript/Plots/Figure7_AdaptiveFunction.png??raw=TRUE)
+![Figure 6](https://raw.githubusercontent.com/mrhunsaker/Ts65DnPilots/master/Manuscript/Plots/Figure7_AdaptiveFunction.png??raw=TRUE)
 
 **<i>Figure 6: a. Latency to contact nesting material. b. Latency to first dig in nesting material. Bottom. Latency to complete nest. c. Latency to start to consume novel food in a familiar environemnt. d. Latency to start to consume familiar food in a novel environemnt. e. Latency to start to consume a novel food in a novel environment.</i>**
 
