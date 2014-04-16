@@ -1,0 +1,2945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Graphic</key>
+	<dict>
+		<key>Frame</key>
+		<string>{{0, 0}, {432, 576}}</string>
+		<key>Objects</key>
+		<array>
+			<dict>
+				<key>Description</key>
+				<string>Background</string>
+				<key>Objects</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>Y Axis</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Description</key>
+								<string>Y Labels</string>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Horizontal</key>
+										<string>Right</string>
+										<key>Position</key>
+										<string>{70.400000000000006, 67}</string>
+										<key>String</key>
+										<string>0</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Center</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Right</string>
+										<key>Position</key>
+										<string>{70.400000000000006, 157.00000000000003}</string>
+										<key>String</key>
+										<string>50</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Center</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Right</string>
+										<key>Position</key>
+										<string>{70.400000000000006, 247.00000000000003}</string>
+										<key>String</key>
+										<string>100</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Center</string>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Path</key>
+								<dict>
+									<key>LoopForm</key>
+									<dict>
+										<key>DAType</key>
+										<string>Double</string>
+										<key>Data</key>
+										<data>
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAgFJAAAAA
+								AADAUEAAAAAA
+								AABVQAAAAAAA
+								wFBAAAAAAAAA
+								AAAAAAAAAAAA
+								QAAAAAAAQFNA
+								AAAAAABAVUAA
+								AAAAAEBUQAAA
+								AAAAQFVAAAAA
+								AAAAAAAAAAAA
+								AAAAQAAAAAAA
+								QFNAAQAAAADA
+								WUAAAAAAAEBU
+								QAEAAAAAwFlA
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAQFNAAQAA
+								AABAXkAAAAAA
+								AEBUQAEAAAAA
+								QF5AAAAAAAAA
+								AAAAAAAAAAAA
+								QAAAAAAAQFNA
+								AQAAAABgYUAA
+								AAAAAEBUQAEA
+								AAAAYGFAAAAA
+								AAAAAAAAAAAA
+								AAAAQAAAAAAA
+								gFJAAQAAAACg
+								Y0AAAAAAAABV
+								QAEAAAAAoGNA
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAQFNAAQAA
+								AADgZUAAAAAA
+								AEBUQAEAAAAA
+								4GVAAAAAAAAA
+								AAAAAAAAAAAA
+								QAAAAAAAQFNA
+								AQAAAAAgaEAA
+								AAAAAEBUQAEA
+								AAAAIGhAAAAA
+								AAAAAAAAAAAA
+								AAAAQAAAAAAA
+								QFNAAQAAAABg
+								akAAAAAAAEBU
+								QAEAAAAAYGpA
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAQFNAAQAA
+								AACgbEAAAAAA
+								AEBUQAEAAAAA
+								oGxAAAAAAAAA
+								AAAAAAAAAAAA
+								QAAAAAAAgFJA
+								AQAAAADgbkAA
+								AAAAAABVQAEA
+								AAAA4G5AAAAA
+								AAAAAAAAAAAA
+								AAAAQAAAAAAA
+								QFNAAAAAAACQ
+								cEAAAAAAAEBU
+								QAAAAAAAkHBA
+										</data>
+										<key>Endian</key>
+										<string>Little</string>
+										<key>m</key>
+										<integer>2</integer>
+										<key>n</key>
+										<integer>36</integer>
+									</dict>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Line Width</key>
+									<real>4</real>
+								</dict>
+								<key>Type</key>
+								<string>Drawing Path</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Y Axis</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Description</key>
+								<string>Y Labels</string>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Horizontal</key>
+										<string>Right</string>
+										<key>Position</key>
+										<string>{70.400000000000006, 337}</string>
+										<key>String</key>
+										<string>0</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Center</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Right</string>
+										<key>Position</key>
+										<string>{70.400000000000006, 427}</string>
+										<key>String</key>
+										<string>100</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Center</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Right</string>
+										<key>Position</key>
+										<string>{70.400000000000006, 517}</string>
+										<key>String</key>
+										<string>200</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Center</string>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Path</key>
+								<dict>
+									<key>LoopForm</key>
+									<dict>
+										<key>DAType</key>
+										<string>Double</string>
+										<key>Data</key>
+										<data>
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAgFJAAAAA
+								AAAQdUAAAAAA
+								AABVQAAAAAAA
+								EHVAAAAAAAAA
+								AAAAAAAAAAAA
+								QAAAAAAAQFNA
+								AAAAAADgd0AA
+								AAAAAEBUQAAA
+								AAAA4HdAAAAA
+								AAAAAAAAAAAA
+								AAAAQAAAAAAA
+								gFJAAAAAAACw
+								ekAAAAAAAABV
+								QAAAAAAAsHpA
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAQFNAAgAA
+								AACAfUAAAAAA
+								AEBUQAIAAAAA
+								gH1AAAAAAAAA
+								AAAAAAAAAAAA
+								QAAAAAAAgFJA
+								AAAAAAAogEAA
+								AAAAAABVQAAA
+								AAAAKIBA
+										</data>
+										<key>Endian</key>
+										<string>Little</string>
+										<key>m</key>
+										<integer>2</integer>
+										<key>n</key>
+										<integer>15</integer>
+									</dict>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Line Width</key>
+									<real>4</real>
+								</dict>
+								<key>Type</key>
+								<string>Drawing Path</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>X Axis</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{134, 58.126660156249997}</string>
+										<key>String</key>
+										<string>1</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{212.57142857142853, 58.126660156249997}</string>
+										<key>String</key>
+										<string>2</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{291.14285714285711, 58.126660156249997}</string>
+										<key>String</key>
+										<string>3</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{369.71428571428567, 58.126660156249997}</string>
+										<key>String</key>
+										<string>4</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Path</key>
+								<dict>
+									<key>LoopForm</key>
+									<dict>
+										<key>DAType</key>
+										<string>Double</string>
+										<key>Data</key>
+										<data>
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAwGBAAAAA
+								AAAAT0AAAAAA
+								AMBgQAAAAAAA
+								AFJAAAAAAAAA
+								AAAAAAAAAAAA
+								QCNJkiRJkmpA
+								AAAAAAAAT0Aj
+								SZIkSZJqQAAA
+								AAAAAFJAAAAA
+								AAAAAAAAAAAA
+								AAAAQCRJkiRJ
+								MnJAAAAAAAAA
+								T0AkSZIkSTJy
+								QAAAAAAAAFJA
+								AAAAAAAAAAAA
+								AAAAAAAAQLZt
+								27ZtG3dAAAAA
+								AAAAT0C2bdu2
+								bRt3QAAAAAAA
+								AFJAAAAAAAAA
+								AAAAAAAAAAAA
+								QNu2bdu2rVdA
+								AAAAAABAUEDb
+								tm3btq1XQAAA
+								AAAAQFFAAAAA
+								AAAAAAAAAAAA
+								AAAAQJEkSZIk
+								qWVAAAAAAABA
+								UECRJEmSJKll
+								QAAAAAAAQFFA
+								AAAAAAAAAAAA
+								AAAAAAAAQLZt
+								27Zte29AAAAA
+								AABAUEC2bdu2
+								bXtvQAAAAAAA
+								QFFAAAAAAAAA
+								AAAAAAAAAAAA
+								QG3btm3bpnRA
+								AAAAAABAUEBt
+								27Zt26Z0QAAA
+								AAAAQFFAAAAA
+								AAAAAAAAAAAA
+								AAAAQP//////
+								j3lAAAAAAABA
+								UED//////495
+								QAAAAAAAQFFA
+										</data>
+										<key>Endian</key>
+										<string>Little</string>
+										<key>m</key>
+										<integer>2</integer>
+										<key>n</key>
+										<integer>27</integer>
+									</dict>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Line Width</key>
+									<real>4</real>
+								</dict>
+								<key>Type</key>
+								<string>Drawing Path</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Border</string>
+						<key>Path</key>
+						<dict>
+							<key>LoopForm</key>
+							<dict>
+								<key>DAType</key>
+								<string>Double</string>
+								<key>Data</key>
+								<data>
+								AAAAAAAAAAAA
+								AAAAAAAIQAAA
+								AAAAwFNAAAAA
+								AACQcEAAAAAA
+								AMBTQAAAAAAA
+								wFBAAAAAAACQ
+								eUAAAAAAAMBQ
+								QAAAAAAAAAAA
+								AAAAAAAAAEAA
+								AAAAAMBTQAAA
+								AAAAuIBAAAAA
+								AADAU0AAAAAA
+								ABB1QA==
+								</data>
+								<key>Endian</key>
+								<string>Little</string>
+								<key>m</key>
+								<integer>2</integer>
+								<key>n</key>
+								<integer>7</integer>
+							</dict>
+						</dict>
+						<key>Style</key>
+						<dict>
+							<key>Color</key>
+							<string>W (0)</string>
+							<key>Line Cap</key>
+							<string>Square</string>
+							<key>Line Join</key>
+							<string>Miter</string>
+							<key>Line Width</key>
+							<real>4</real>
+						</dict>
+						<key>Type</key>
+						<string>Drawing Path</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>Group</string>
+			</dict>
+			<dict>
+				<key>Description</key>
+				<string>Commands</string>
+				<key>Objects</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>No name</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Horizontal</key>
+								<string>Left</string>
+								<key>Position</key>
+								<string>{131, 545.08281250000005}</string>
+								<key>String</key>
+								<string>Latency to Reward</string>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Font</key>
+									<string>Helvetica</string>
+									<key>Size</key>
+									<real>27</real>
+								</dict>
+								<key>Type</key>
+								<string>Expression Text</string>
+								<key>Vertical</key>
+								<string>Bottom</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>No name</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Horizontal</key>
+								<string>Left</string>
+								<key>Position</key>
+								<string>{81, 275.08281249999999}</string>
+								<key>String</key>
+								<string>Percent Latency to Reward</string>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Font</key>
+									<string>Helvetica</string>
+									<key>Size</key>
+									<real>27</real>
+								</dict>
+								<key>Type</key>
+								<string>Expression Text</string>
+								<key>Vertical</key>
+								<string>Bottom</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>No name</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Horizontal</key>
+								<string>Left</string>
+								<key>Position</key>
+								<string>{35, 387.58906250000001}</string>
+								<key>String</key>
+								<string>Latency (s)</string>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Font</key>
+									<string>Helvetica</string>
+									<key>Size</key>
+									<real>23</real>
+								</dict>
+								<key>Type</key>
+								<string>Expression Text</string>
+								<key>Vertical</key>
+								<string>Bottom</string>
+							</dict>
+						</array>
+						<key>Rotate</key>
+						<real>1.5707963267948966</real>
+						<key>Rotate Around</key>
+						<string>{35, 379}</string>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>No name</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Horizontal</key>
+								<string>Left</string>
+								<key>Position</key>
+								<string>{35, 101.5890625}</string>
+								<key>String</key>
+								<string>Percent Day 1</string>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Font</key>
+									<string>Helvetica</string>
+									<key>Size</key>
+									<real>23</real>
+								</dict>
+								<key>Type</key>
+								<string>Expression Text</string>
+								<key>Vertical</key>
+								<string>Bottom</string>
+							</dict>
+						</array>
+						<key>Rotate</key>
+						<real>1.5707963267948966</real>
+						<key>Rotate Around</key>
+						<string>{35, 93}</string>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>No name</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Path</key>
+								<dict>
+									<key>LoopForm</key>
+									<dict>
+										<key>DAType</key>
+										<string>Double</string>
+										<key>Data</key>
+										<data>
+								AAAAAAAAAAAA
+								AAAAAAAAQP//
+								////v1NAAAAA
+								AAAQdUD/////
+								/495QAAAAAAA
+								EHVA
+										</data>
+										<key>Endian</key>
+										<string>Little</string>
+										<key>m</key>
+										<integer>2</integer>
+										<key>n</key>
+										<integer>3</integer>
+									</dict>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Line Cap</key>
+									<string>Square</string>
+									<key>Line Width</key>
+									<real>4</real>
+								</dict>
+								<key>Type</key>
+								<string>Drawing Path</string>
+							</dict>
+							<dict>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{134, 328.12666015625001}</string>
+										<key>String</key>
+										<string>1</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{212.57142857142853, 328.12666015625001}</string>
+										<key>String</key>
+										<string>2</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{291.14285714285711, 328.12666015625001}</string>
+										<key>String</key>
+										<string>3</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Center</string>
+										<key>Position</key>
+										<string>{369.71428571428567, 328.12666015625001}</string>
+										<key>String</key>
+										<string>4</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>18</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Top</string>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Path</key>
+								<dict>
+									<key>LoopForm</key>
+									<dict>
+										<key>DAType</key>
+										<string>Double</string>
+										<key>Data</key>
+										<data>
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAwGBAAAAA
+								AADAdEAAAAAA
+								AMBgQAAAAAAA
+								YHVAAAAAAAAA
+								AAAAAAAAAAAA
+								QCNJkiRJkmpA
+								AAAAAADAdEAj
+								SZIkSZJqQAAA
+								AAAAYHVAAAAA
+								AAAAAAAAAAAA
+								AAAAQCRJkiRJ
+								MnJAAAAAAADA
+								dEAkSZIkSTJy
+								QAAAAAAAYHVA
+								AAAAAAAAAAAA
+								AAAAAAAAQLZt
+								27ZtG3dAAAAA
+								AADAdEC2bdu2
+								bRt3QAAAAAAA
+								YHVAAAAAAAAA
+								AAAAAAAAAAAA
+								QNu2bdu2rVdA
+								AAAAAADwdEDb
+								tm3btq1XQAAA
+								AAAAMHVAAAAA
+								AAAAAAAAAAAA
+								AAAAQJEkSZIk
+								qWVAAAAAAADw
+								dECRJEmSJKll
+								QAAAAAAAMHVA
+								AAAAAAAAAAAA
+								AAAAAAAAQLZt
+								27Zte29AAAAA
+								AADwdEC2bdu2
+								bXtvQAAAAAAA
+								MHVAAAAAAAAA
+								AAAAAAAAAAAA
+								QG3btm3bpnRA
+								AAAAAADwdEBt
+								27Zt26Z0QAAA
+								AAAAMHVAAAAA
+								AAAAAAAAAAAA
+								AAAAQP//////
+								j3lAAAAAAADw
+								dED//////495
+								QAAAAAAAMHVA
+										</data>
+										<key>Endian</key>
+										<string>Little</string>
+										<key>m</key>
+										<integer>2</integer>
+										<key>n</key>
+										<integer>27</integer>
+									</dict>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Line Width</key>
+									<real>4</real>
+								</dict>
+								<key>Type</key>
+								<string>Drawing Path</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>No name</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Horizontal</key>
+								<string>Left</string>
+								<key>Position</key>
+								<string>{157, 12.953173828124999}</string>
+								<key>String</key>
+								<string>Blocks of 4 Trials</string>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Font</key>
+									<string>Helvetica</string>
+									<key>Size</key>
+									<real>23</real>
+								</dict>
+								<key>Type</key>
+								<string>Expression Text</string>
+								<key>Vertical</key>
+								<string>Bottom</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Legend</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Rectangle</key>
+								<string>{{343, 231.91007812500001}, {80, 29.089921874999998}}</string>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Line Width</key>
+									<real>4</real>
+								</dict>
+								<key>Type</key>
+								<string>Rectangle</string>
+							</dict>
+							<dict>
+								<key>Crop</key>
+								<dict>
+									<key>Rectangle</key>
+									<string>{{343, 231.91007812500001}, {80, 29.089921874999998}}</string>
+									<key>Type</key>
+									<string>Rectangle</string>
+								</dict>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Objects</key>
+										<array>
+											<dict>
+												<key>Path</key>
+												<dict>
+													<key>LoopForm</key>
+													<dict>
+														<key>DAType</key>
+														<string>Double</string>
+														<key>Data</key>
+														<data>
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAsHVAAAAA
+								AACQb0AAAAAA
+								AHB2QAAAAAAA
+								kG9A
+														</data>
+														<key>Endian</key>
+														<string>Little</string>
+														<key>m</key>
+														<integer>2</integer>
+														<key>n</key>
+														<integer>3</integer>
+													</dict>
+												</dict>
+												<key>Style</key>
+												<dict>
+													<key>Color</key>
+													<string>W (0)</string>
+													<key>Line Width</key>
+													<real>5</real>
+												</dict>
+												<key>Type</key>
+												<string>Drawing Path</string>
+												<key>X Linear</key>
+												<true/>
+												<key>X Scale</key>
+												<real>78.571428571428569</real>
+												<key>X Shift</key>
+												<real>0.70545454545454533</real>
+												<key>Y Linear</key>
+												<true/>
+												<key>Y Scale</key>
+												<real>1.8</real>
+												<key>Y Shift</key>
+												<real>37.222222222222221</real>
+											</dict>
+											<dict>
+												<key>Points</key>
+												<dict>
+													<key>DAType</key>
+													<string>Double</string>
+													<key>Data</key>
+													<data>
+								AAAAAAAYdkAA
+								AAAAAJBvQAAA
+								AAAAAARA
+													</data>
+													<key>Endian</key>
+													<string>Little</string>
+													<key>m</key>
+													<integer>3</integer>
+												</dict>
+												<key>Style</key>
+												<dict>
+													<key>Color</key>
+													<string>W (0)</string>
+													<key>Fill</key>
+													<true/>
+													<key>Line Width</key>
+													<real>5</real>
+												</dict>
+												<key>Type</key>
+												<string>Circles</string>
+											</dict>
+										</array>
+										<key>Type</key>
+										<string>Group</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Left</string>
+										<key>Position</key>
+										<string>{363, 247.91132812500001}</string>
+										<key>String</key>
+										<string>2N Control</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>12</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Bottom</string>
+									</dict>
+									<dict>
+										<key>Objects</key>
+										<array>
+											<dict>
+												<key>Path</key>
+												<dict>
+													<key>LoopForm</key>
+													<dict>
+														<key>DAType</key>
+														<string>Double</string>
+														<key>Data</key>
+														<data>
+								AAAAAAAAAAAA
+								AAAAAAAAQAAA
+								AAAAsHVAAAAA
+								AAAQbkAAAAAA
+								AHB2QAAAAAAA
+								EG5A
+														</data>
+														<key>Endian</key>
+														<string>Little</string>
+														<key>m</key>
+														<integer>2</integer>
+														<key>n</key>
+														<integer>3</integer>
+													</dict>
+												</dict>
+												<key>Style</key>
+												<dict>
+													<key>Color</key>
+													<string>RGB (0.894118,0.109804,0.109804)</string>
+													<key>Line Width</key>
+													<real>5</real>
+												</dict>
+												<key>Type</key>
+												<string>Drawing Path</string>
+												<key>X Linear</key>
+												<true/>
+												<key>X Scale</key>
+												<real>78.571428571428569</real>
+												<key>X Shift</key>
+												<real>0.70545454545454533</real>
+												<key>Y Linear</key>
+												<true/>
+												<key>Y Scale</key>
+												<real>1.8</real>
+												<key>Y Shift</key>
+												<real>37.222222222222221</real>
+											</dict>
+											<dict>
+												<key>Points</key>
+												<dict>
+													<key>DAType</key>
+													<string>Double</string>
+													<key>Data</key>
+													<data>
+								AAAAAAAYdkAA
+								AAAAABBuQAAA
+								AAAAAARA
+													</data>
+													<key>Endian</key>
+													<string>Little</string>
+													<key>m</key>
+													<integer>3</integer>
+												</dict>
+												<key>Style</key>
+												<dict>
+													<key>Color</key>
+													<string>RGB (0.894118,0.109804,0.109804)</string>
+													<key>Fill</key>
+													<true/>
+													<key>Line Width</key>
+													<real>5</real>
+												</dict>
+												<key>Type</key>
+												<string>Circles</string>
+											</dict>
+										</array>
+										<key>Type</key>
+										<string>Group</string>
+									</dict>
+									<dict>
+										<key>Horizontal</key>
+										<string>Left</string>
+										<key>Position</key>
+										<string>{363, 236.391328125}</string>
+										<key>String</key>
+										<string>Ts65Dn</string>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Font</key>
+											<string>Helvetica</string>
+											<key>Size</key>
+											<real>12</real>
+										</dict>
+										<key>Type</key>
+										<string>Expression Text</string>
+										<key>Vertical</key>
+										<string>Bottom</string>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>2N Control</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Crop</key>
+								<dict>
+									<key>Rectangle</key>
+									<string>{{79, 337}, {330, 198}}</string>
+									<key>Type</key>
+									<string>Rectangle</string>
+								</dict>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Path</key>
+										<dict>
+											<key>LoopForm</key>
+											<dict>
+												<key>DAType</key>
+												<string>Double</string>
+												<key>Data</key>
+												<data>
+								AAAAAAAAAAAA
+								AAAAAAAQQAAA
+								AAAAwGBAXI/C
+								9SgsfEAjSZIk
+								SZJqQJ4S5ClB
+								znhAJEmSJEky
+								ckCamZmZmdV2
+								QLZt27ZtG3dA
+								cT0K16OodUA=
+												</data>
+												<key>Endian</key>
+												<string>Little</string>
+												<key>m</key>
+												<integer>2</integer>
+												<key>n</key>
+												<integer>5</integer>
+											</dict>
+										</dict>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Line Width</key>
+											<real>5</real>
+										</dict>
+										<key>Type</key>
+										<string>Drawing Path</string>
+										<key>X Linear</key>
+										<true/>
+										<key>X Scale</key>
+										<real>78.571428571428569</real>
+										<key>X Shift</key>
+										<real>0.70545454545454533</real>
+										<key>Y Linear</key>
+										<true/>
+										<key>Y Scale</key>
+										<real>0.90000000000000002</real>
+										<key>Y Shift</key>
+										<real>374.44444444444446</real>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Points</key>
+								<dict>
+									<key>DAType</key>
+									<string>Double</string>
+									<key>Data</key>
+									<data>
+								AAAAAADAYEBc
+								j8L1KCx8QAAA
+								AAAAAARAI0mS
+								JEmSakCeEuQp
+								Qc54QAAAAAAA
+								AARAJEmSJEky
+								ckCamZmZmdV2
+								QAAAAAAAAARA
+								tm3btm0bd0Bx
+								PQrXo6h1QAAA
+								AAAAAARA
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>3</integer>
+									<key>n</key>
+									<integer>4</integer>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Fill</key>
+									<true/>
+									<key>Line Width</key>
+									<real>5</real>
+								</dict>
+								<key>Type</key>
+								<string>Circles</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Ts65Dn</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Crop</key>
+								<dict>
+									<key>Rectangle</key>
+									<string>{{79, 337}, {330, 198}}</string>
+									<key>Type</key>
+									<string>Rectangle</string>
+								</dict>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Path</key>
+										<dict>
+											<key>LoopForm</key>
+											<dict>
+												<key>DAType</key>
+												<string>Double</string>
+												<key>Data</key>
+												<data>
+								AAAAAAAAAAAA
+								AAAAAAAQQAAA
+								AAAAwGBAKVyP
+								wvXQfkAjSZIk
+								SZJqQNijcD0K
+								V3tAJEmSJEky
+								ckBI4XoUrot5
+								QLZt27ZtG3dA
+								2KNwPQr3d0A=
+												</data>
+												<key>Endian</key>
+												<string>Little</string>
+												<key>m</key>
+												<integer>2</integer>
+												<key>n</key>
+												<integer>5</integer>
+											</dict>
+										</dict>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>RGB (0.894118,0.109804,0.109804)</string>
+											<key>Line Width</key>
+											<real>5</real>
+										</dict>
+										<key>Type</key>
+										<string>Drawing Path</string>
+										<key>X Linear</key>
+										<true/>
+										<key>X Scale</key>
+										<real>78.571428571428569</real>
+										<key>X Shift</key>
+										<real>0.70545454545454533</real>
+										<key>Y Linear</key>
+										<true/>
+										<key>Y Scale</key>
+										<real>0.90000000000000002</real>
+										<key>Y Shift</key>
+										<real>374.44444444444446</real>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Points</key>
+								<dict>
+									<key>DAType</key>
+									<string>Double</string>
+									<key>Data</key>
+									<data>
+								AAAAAADAYEAp
+								XI/C9dB+QAAA
+								AAAAAARAI0mS
+								JEmSakDYo3A9
+								Cld7QAAAAAAA
+								AARAJEmSJEky
+								ckBI4XoUrot5
+								QAAAAAAAAARA
+								tm3btm0bd0DY
+								o3A9Cvd3QAAA
+								AAAAAARA
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>3</integer>
+									<key>n</key>
+									<integer>4</integer>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>RGB (0.894118,0.109804,0.109804)</string>
+									<key>Fill</key>
+									<true/>
+									<key>Line Width</key>
+									<real>5</real>
+								</dict>
+								<key>Type</key>
+								<string>Circles</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								oY4FQ80M2UM7
+								KAtDAIDZQ9TB
+								AkOa2dpDblsI
+								Q81M20MH9Q1D
+								AMDbQ9TBAkOa
+								Wd9DblsIQ5pZ
+								30MH9Q1Dzczf
+								Q25bCEMzM+VD
+								blsIQ2Ym6kM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								t+1WQ5pZu0Pq
+								IFRDzcy7Q4S6
+								WUMzs7xDHVRR
+								Q81MwEO37VZD
+								MzPBQ1CHXEMz
+								M8FD6iBUQ5pZ
+								xEOEullDAEDF
+								Q7ftVkPNDMdD
+								t+1WQ81M0kM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								M/OPQ5rZrUMA
+								wJJDZqavQ82M
+								lUNmpq9DAMCS
+								QwAAsUMz849D
+								M7OzQwDAkkMA
+								gLVDzYyVQwCA
+								tUOaWZFDzUy3
+								Q2YmlEMAwLdD
+								AMCSQ5pZu0M=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Crop</key>
+						<dict>
+							<key>Rectangle</key>
+							<string>{{79, 337}, {330, 198}}</string>
+							<key>Type</key>
+							<string>Rectangle</string>
+						</dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								vqK4Q5oZp0OL
+								b7tDAACoQ/HV
+								tUMzc6hDvqK4
+								Q5pZqUOLb7tD
+								zcypQ1g8vkMA
+								QKpDvqK4Q2Ym
+								q0OLb7tDM/Os
+								Q76iuEOa2a1D
+								i2+7Q81MrkM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								JUnxQgBA6UMl
+								SfFCzUztQyVJ
+								8UIAAPBDJUnx
+								QgBA8kPxFeZC
+								M/P0QyVJ8UKa
+								2fVDWHz8Qs1M
+								9kOLr+tCAMD2
+								Q77i9kKaGfhD
+								JUnxQs0M/UM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								2zZHQ2Ymz0Pb
+								NkdDAMDSQ9s2
+								R0MAANVDddA+
+								QzOz10MPakRD
+								M7PXQ6gDSkNm
+								JthDQp1PQzPz
+								2UMPakRDmtna
+								Q6gDSkOaGd1D
+								2zZHQ5pZ30M=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								kuSKQzNzw0OS
+								5IpDzczEQ8UX
+								iEPNDMdDkuSK
+								Q2ZmyENfsY1D
+								mtnIQyx+iUMz
+								M8pD+UqMQwAA
+								zEPFF4hDM3PM
+								Q5LkikMAQM5D
+								X7GNQzOzzkM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "LATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 337}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								ty2yQ5pZskO3
+								LbJDzQy1Q7ct
+								skOa2bZDty2y
+								Q2bmukO3LbJD
+								zcy7Q1DHsEMA
+								gL5DHZSzQzMz
+								wUNQx7BDM3PD
+								Qx2Us0Nm5sND
+								ty2yQzOzxUM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Plot</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Crop</key>
+								<dict>
+									<key>Rectangle</key>
+									<string>{{79, 67}, {330, 198}}</string>
+									<key>Type</key>
+									<string>Rectangle</string>
+								</dict>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Path</key>
+										<dict>
+											<key>LoopForm</key>
+											<dict>
+												<key>DAType</key>
+												<string>Double</string>
+												<key>Data</key>
+												<data>
+								AAAAAAAAAAAA
+								AAAAAAAQQAAA
+								AAAAwGBAAQAA
+								AADgbkAjSZIk
+								SZJqQIMGmIKA
+								+WNAJEmSJEky
+								ckC8P1pzsuBb
+								QLZt27ZtG3dA
+								qvyX1Sd8VEA=
+												</data>
+												<key>Endian</key>
+												<string>Little</string>
+												<key>m</key>
+												<integer>2</integer>
+												<key>n</key>
+												<integer>5</integer>
+											</dict>
+										</dict>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>W (0)</string>
+											<key>Line Width</key>
+											<real>5</real>
+										</dict>
+										<key>Type</key>
+										<string>Drawing Path</string>
+										<key>X Linear</key>
+										<true/>
+										<key>X Scale</key>
+										<real>78.571428571428569</real>
+										<key>X Shift</key>
+										<real>0.70545454545454533</real>
+										<key>Y Linear</key>
+										<true/>
+										<key>Y Scale</key>
+										<real>1.8</real>
+										<key>Y Shift</key>
+										<real>37.222222222222221</real>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Points</key>
+								<dict>
+									<key>DAType</key>
+									<string>Double</string>
+									<key>Data</key>
+									<data>
+								AAAAAADAYEAB
+								AAAAAOBuQAAA
+								AAAAAARAI0mS
+								JEmSakCDBpiC
+								gPljQAAAAAAA
+								AARAJEmSJEky
+								ckC8P1pzsuBb
+								QAAAAAAAAARA
+								tm3btm0bd0Cq
+								/JfVJ3xUQAAA
+								AAAAAARA
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>3</integer>
+									<key>n</key>
+									<integer>4</integer>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>W (0)</string>
+									<key>Fill</key>
+									<true/>
+									<key>Line Width</key>
+									<real>5</real>
+								</dict>
+								<key>Type</key>
+								<string>Circles</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Plot</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Crop</key>
+								<dict>
+									<key>Rectangle</key>
+									<string>{{79, 67}, {330, 198}}</string>
+									<key>Type</key>
+									<string>Rectangle</string>
+								</dict>
+								<key>Objects</key>
+								<array>
+									<dict>
+										<key>Path</key>
+										<dict>
+											<key>LoopForm</key>
+											<dict>
+												<key>DAType</key>
+												<string>Double</string>
+												<key>Data</key>
+												<data>
+								AAAAAAAAAAAA
+								AAAAAAAQQAAA
+								AAAAwGBAAQAA
+								AADgbkAjSZIk
+								SZJqQGXxQMDY
+								PGdAJEmSJEky
+								ckAfJHvsXfNi
+								QLZt27ZtG3dA
+								9YXALNVrXkA=
+												</data>
+												<key>Endian</key>
+												<string>Little</string>
+												<key>m</key>
+												<integer>2</integer>
+												<key>n</key>
+												<integer>5</integer>
+											</dict>
+										</dict>
+										<key>Style</key>
+										<dict>
+											<key>Color</key>
+											<string>RGB (0.894118,0.109804,0.109804)</string>
+											<key>Line Width</key>
+											<real>5</real>
+										</dict>
+										<key>Type</key>
+										<string>Drawing Path</string>
+										<key>X Linear</key>
+										<true/>
+										<key>X Scale</key>
+										<real>78.571428571428569</real>
+										<key>X Shift</key>
+										<real>0.70545454545454533</real>
+										<key>Y Linear</key>
+										<true/>
+										<key>Y Scale</key>
+										<real>1.8</real>
+										<key>Y Shift</key>
+										<real>37.222222222222221</real>
+									</dict>
+								</array>
+								<key>Type</key>
+								<string>Group</string>
+							</dict>
+							<dict>
+								<key>Points</key>
+								<dict>
+									<key>DAType</key>
+									<string>Double</string>
+									<key>Data</key>
+									<data>
+								AAAAAADAYEAB
+								AAAAAOBuQAAA
+								AAAAAARAI0mS
+								JEmSakBl8UDA
+								2DxnQAAAAAAA
+								AARAJEmSJEky
+								ckAfJHvsXfNi
+								QAAAAAAAAARA
+								tm3btm0bd0D1
+								hcAs1WteQAAA
+								AAAAAARA
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>3</integer>
+									<key>n</key>
+									<integer>4</integer>
+								</dict>
+								<key>Style</key>
+								<dict>
+									<key>Color</key>
+									<string>RGB (0.894118,0.109804,0.109804)</string>
+									<key>Fill</key>
+									<true/>
+									<key>Line Width</key>
+									<real>5</real>
+								</dict>
+								<key>Type</key>
+								<string>Circles</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								dVDeQgCAcUOo
+								g+lCAIBxQ9u2
+								9EIAgHFDD+r/
+								QgCAcUOhjgVD
+								AIBxQzsoC0MA
+								gHFD1MEQQwCA
+								cUNuWxZDAIBx
+								Qwf1G0MAgHFD
+								oY4hQwCAcUM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								HVRRQ+o+CEO3
+								7VZDZKEIQ1CH
+								XEPvSwtDt+1W
+								QwB4EEMdVFFD
+								AEgTQ7ftVkMA
+								SBNDUIdcQ5nc
+								FkO37VZD1Pcb
+								Q7ftVkMAIB1D
+								t+1WQ990WEM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								AMCSQ07qsUIA
+								wJJDAOC4QppZ
+								kUOc3r9CZiaU
+								Q2xFx0Iz849D
+								IQvcQgDAkkMA
+								cN1CzYyVQwBw
+								3UKaWZFDriDh
+								QmYmlEMAsOhC
+								AMCSQ56N9UI=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>W (0)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								JQm6Qy1khEK+
+								orhDFkGKQotv
+								u0MaTo1C8dW1
+								Q476kUK+orhD
+								IQuUQotvu0MA
+								IJdCWDy+Q2ej
+								mUIlCbpDAACo
+								Qr6iuEMAoK1C
+								i2+7QwBwsEI=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								vuK+QgCAcUPx
+								FcpCAIBxQyVJ
+								1UIAgHFDWHzg
+								QgCAcUOLr+tC
+								AIBxQ77i9kIA
+								gHFD+QoBQwCA
+								cUOSpAZDAIBx
+								Qyw+DEMAgHFD
+								xdcRQwCAcUM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								2zZHQwQPIkPb
+								NkdDpKYlQ3XQ
+								PkNIvy1DD2pE
+								Q0i/LUOoA0pD
+								LiAuQ0KdT0Mu
+								mS9DD2pEQ9Jm
+								O0OoA0pDAIA7
+								Q9s2R0O8FUND
+								2zZHQ5oZUUM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								kuSKQ3FJBkMs
+								folDjDcIQ/lK
+								jEP7nAtDkuSK
+								Q9jzDkPFF4hD
+								f3QTQ5LkikP/
+								+hNDX7GNQ0wG
+								FkPFF4hDwYUZ
+								Q5LkikNm5hlD
+								X7GNQ5oZG0M=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Box Plot for "PercentLATENCY"</string>
+						<key>Frame</key>
+						<string>{{79, 67}, {330, 198}}</string>
+						<key>Objects</key>
+						<array>
+							<dict>
+								<key>Center</key>
+								<string>{0, 0}</string>
+								<key>Object</key>
+								<dict>
+									<key>Objects</key>
+									<array>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Fill</key>
+												<true/>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+										<dict>
+											<key>Center</key>
+											<string>{5.5, 5.5}</string>
+											<key>Radius</key>
+											<real>2</real>
+											<key>Style</key>
+											<dict>
+												<key>Color</key>
+												<string>RGB (0.894118,0.109804,0.109804)</string>
+												<key>Line Width</key>
+												<real>4</real>
+											</dict>
+											<key>Type</key>
+											<string>Circle</string>
+										</dict>
+									</array>
+									<key>Type</key>
+									<string>Group</string>
+								</dict>
+								<key>Offsets</key>
+								<dict>
+									<key>DAType</key>
+									<string>Float</string>
+									<key>Data</key>
+									<data>
+								ty2yQ/wUskK3
+								LbJDK/vHQlDH
+								sEMzM9ZCHZSz
+								Q+MZ3kJQx7BD
+								RGrlQh2Us0NS
+								nelCUMewQ9g9
+								AEMdlLND0t8A
+								Q7ctskMIVgND
+								ty2yQzOzBkM=
+									</data>
+									<key>Endian</key>
+									<string>Little</string>
+									<key>m</key>
+									<integer>2</integer>
+									<key>n</key>
+									<integer>10</integer>
+								</dict>
+								<key>Size</key>
+								<string>{11, 11}</string>
+								<key>Type</key>
+								<string>Repeated</string>
+							</dict>
+						</array>
+						<key>Type</key>
+						<string>Group</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>Group</string>
+			</dict>
+		</array>
+		<key>Type</key>
+		<string>Group</string>
+	</dict>
+	<key>Size</key>
+	<string>{432, 576}</string>
+</dict>
+</plist>
